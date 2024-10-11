@@ -1,3 +1,3 @@
-* pdb_utils.py:cal_pocket_volume.py使用到的一些工具类
-* cal_pocket_volume.py:使用find_closest_pocket函数计算蛋白质口袋的Monte Carlo Volume和Convex Hull Volumes，需要设置蛋白质的PDB文件(PDB_out)与口袋内配体的SDF文件(SDF)
-* cal_CPMV.py:计算CPMV(Correlation between protein pocket and molecular volume),需要输入蛋白质体积文件和分子体积文件
+* pdb_utils.py:Some utility classes used in cal_pocket. volume.py.
+* cal_pocket_volume.py:To calculate the Monte Carlo Volume and Convex Hull Volume of protein pockets using the find_closest_pocket function, it is necessary to set the PDB file (PDB-out) of the protein and the SDF file (SDF) of the ligand in the pocket.
+* cal_CPMV.py:To calculate CPMV (Correlation between protein pocket and molecular volume), it is necessary to input protein volume files and molecular volume files.
