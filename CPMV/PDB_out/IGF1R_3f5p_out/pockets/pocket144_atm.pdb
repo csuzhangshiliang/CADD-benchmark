@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   144:
+HEADER 0  - Pocket Score                      : 0.0035
+HEADER 1  - Drug Score                        : 0.0026
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.1117
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6004
+HEADER 5  - Mean B-factor of pocket residues  : 0.6174
+HEADER 6  - Hydrophobicity Score              : 25.1250
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 328.5977
+HEADER 10  -Pocket volume (convex hull)       : 10.7542
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.7368
+ATOM   8031   CG GLU D1080     -34.118 114.086 112.057  0.00  0.00           C 0
+ATOM   7933  CD1 LEU D1066     -33.860 108.441 114.682  0.00  0.00           C 0
+ATOM   7629  CG2 THR D1028     -37.116 110.182 116.950  0.00  0.00           C 0
+ATOM   8027   CA GLU D1080     -34.499 111.654 111.370  0.00  0.00           C 0
+ATOM   8030   CB GLU D1080     -33.515 112.806 111.526  0.00  0.00           C 0
+ATOM   7580  CG2 VAL D1022     -34.123 109.423 118.604  0.00  0.00           C 0
+ATOM   8033  OE1 GLU D1080     -33.404 116.230 112.817  0.00  0.00           O 0
+ATOM   8032   CD GLU D1080     -33.054 115.118 112.361  0.00  0.00           C 0
+ATOM   7633    O ARG D1029     -38.555 110.953 114.293  0.32  7.50           O 0
+ATOM   8038    O LEU D1081     -37.284 115.322 111.351  0.00  0.00           O 0
+ATOM   8035    N LEU D1081     -36.746 112.592 111.296  0.00  0.00           N 0
+ATOM   8034  OE2 GLU D1080     -31.859 114.814 112.141  0.71  2.14           O 0
+ATOM   7914   CD ARG D1064     -28.741 111.759 114.496  0.00  0.00           C 0
+ATOM   7917  NH1 ARG D1064     -27.151 113.892 115.482  0.50  8.75           N 0
+ATOM   8522   NZ LYS D1150     -31.243 117.979 113.057  0.36  1.09           N 0
+ATOM   7934  CD2 LEU D1066     -31.424 109.001 114.549  0.00  0.00           C 0
+TER
+END

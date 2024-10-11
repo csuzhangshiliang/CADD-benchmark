@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    27:
+HEADER 0  - Pocket Score                      : -0.1413
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7013
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3823
+HEADER 5  - Mean B-factor of pocket residues  : 0.7604
+HEADER 6  - Hydrophobicity Score              : 4.8333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 213.8412
+HEADER 10  -Pocket volume (convex hull)       : 11.6800
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.7500
+ATOM   2595   CG ARG B 280      49.009  -5.681  45.443  0.00  0.00           C 0
+ATOM   2596   CD ARG B 280      49.440  -6.229  46.797  0.00  0.00           C 0
+ATOM   2546    C ILE B 267      52.574 -10.634  42.912  0.00  0.00           C 0
+ATOM   2557   CG LYS B 275      52.615  -4.638  45.111  0.00  0.00           C 0
+ATOM   2556   CB LYS B 275      53.366  -3.797  46.129  0.00  0.00           C 0
+ATOM   2599  NH1 ARG B 280      49.580  -6.866  49.542  0.60  5.47           N 0
+ATOM   2550  CG2 ILE B 267      53.769 -12.430  44.732  0.00  0.00           C 0
+ATOM   2478  OE1 GLU B 259      48.534  -9.340  49.208  0.54  8.57           O 0
+ATOM   2545   CA ILE B 267      51.670 -11.724  43.483  0.00  0.00           C 0
+ATOM   2551  CD1 ILE B 267      50.938 -13.301  45.885  0.00  0.00           C 0
+ATOM   2537    O HIS B 266      48.970 -12.240  43.973  0.70  6.43           O 0
+ATOM   2541  CD2 HIS B 266      46.665  -9.925  42.718  0.00  0.00           C 0
+ATOM   2627  OE1 GLN B 283      49.521  -5.740  40.920  0.81  6.43           O 0
+ATOM   2558   CD LYS B 275      53.109  -4.409  43.679  0.00  0.00           C 0
+ATOM   2543  NE2 HIS B 266      45.628  -9.904  43.616  0.81  2.19           N 0
+TER
+END

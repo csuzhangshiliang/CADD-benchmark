@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   327:
+HEADER 0  - Pocket Score                      : -0.1438
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.2666
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5363
+HEADER 5  - Mean B-factor of pocket residues  : 0.4188
+HEADER 6  - Hydrophobicity Score              : 55.5714
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 263.2189
+HEADER 10  -Pocket volume (convex hull)       : 5.0949
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4737
+ATOM  21106   CG LEU I1216     -19.801  78.911 166.120  0.00  0.00           C 0
+ATOM  21108  CD2 LEU I1216     -19.277  77.852 167.065  0.00  0.00           C 0
+ATOM  21091    O GLN I1214     -20.243  74.664 163.686  0.00  0.00           O 0
+ATOM  21233  OD2 ASP I1232     -12.973  76.367 160.852  0.00  0.00           O 0
+ATOM  21077   CA TYR I1213     -20.712  78.271 161.428  0.00  0.00           C 0
+ATOM  21232  OD1 ASP I1232     -12.041  78.173 160.001  0.00  0.00           O 0
+ATOM  21175  CE1 PHE I1224     -14.539  82.758 164.680  0.00  0.00           C 0
+ATOM  21177   CZ PHE I1224     -14.755  82.474 163.358  0.00  0.00           C 0
+ATOM  21107  CD1 LEU I1216     -19.021  80.221 166.303  0.00  0.00           C 0
+ATOM  21082  CD1 TYR I1213     -19.373  81.195 161.035  0.00  0.00           C 0
+ATOM  21213    O LEU I1230     -14.436  81.408 160.238  0.53  2.14           O 0
+ATOM  21225  CD2 LEU I1231     -18.802  79.564 158.271  0.00  0.00           C 0
+ATOM  21176  CE2 PHE I1224     -15.989  82.725 162.798  0.00  0.00           C 0
+ATOM  21226    N ASP I1232     -14.377  78.385 157.751  0.00  0.00           N 0
+ATOM  21219   CA LEU I1231     -15.706  80.420 157.942  0.00  0.00           C 0
+TER
+END

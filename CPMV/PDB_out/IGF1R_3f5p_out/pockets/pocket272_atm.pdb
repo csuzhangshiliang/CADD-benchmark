@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   272:
+HEADER 0  - Pocket Score                      : -0.0732
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9758
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5678
+HEADER 5  - Mean B-factor of pocket residues  : 0.2942
+HEADER 6  - Hydrophobicity Score              : 37.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 253.3966
+HEADER 10  -Pocket volume (convex hull)       : 9.0452
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4286
+ATOM  17989   CB ASN H1127      21.976 100.194 104.191  0.00  0.00           C 0
+ATOM  19062   CB SER H1258      19.942  92.841 104.601  0.00  0.00           C 0
+ATOM  18512  OG1 THR H1191      19.910  97.447 100.478  0.46  4.29           O 0
+ATOM  17991  OD1 ASN H1127      22.884  98.858 102.406  0.00  0.00           O 0
+ATOM  17963    O ALA H1124      23.249  99.886 107.991  0.55  4.29           O 0
+ATOM  17993    N ALA H1128      21.285 101.730 107.054  0.72  1.09           N 0
+ATOM  19081  CD1 LEU H1260      20.093  95.254 110.351  0.00  0.00           C 0
+ATOM  17994   CA ALA H1128      20.345 102.029 108.127  0.00  0.00           C 0
+ATOM  17997   CB ALA H1128      20.905 101.605 109.474  0.00  0.00           C 0
+ATOM  19064    N PHE H1259      22.926  93.518 104.575  0.78  1.09           N 0
+ATOM  19080   CG LEU H1260      21.362  94.783 109.666  0.00  0.00           C 0
+ATOM  17961   CA ALA H1124      24.816  98.176 107.433  0.00  0.00           C 0
+ATOM  19063   OG SER H1258      20.156  92.231 105.863  0.62  5.36           O 0
+ATOM  19068   CB PHE H1259      24.706  94.986 105.380  0.00  0.00           C 0
+ATOM  19075    N LEU H1260      22.848  93.332 107.353  0.00  0.00           N 0
+ATOM  19071  CD2 PHE H1259      24.826  96.443 103.366  0.00  0.00           C 0
+ATOM  17987    C ASN H1127      20.957 101.887 105.778  0.00  0.00           C 0
+ATOM  17988    O ASN H1127      19.838 102.222 105.428  0.39  8.57           O 0
+ATOM  18513  CG2 THR H1191      19.561  99.847 100.591  0.00  0.00           C 0
+TER
+END

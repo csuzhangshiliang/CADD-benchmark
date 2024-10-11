@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   172:
+HEADER 0  - Pocket Score                      : -0.0139
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7098
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5310
+HEADER 5  - Mean B-factor of pocket residues  : 0.2748
+HEADER 6  - Hydrophobicity Score              : -0.8889
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 201.5150
+HEADER 10  -Pocket volume (convex hull)       : 6.9849
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM  21417    O LYS I1254     -13.102  98.510 149.080  0.00  0.00           O 0
+ATOM  21481  OE1 GLU I1261     -13.734  94.930 142.742  0.65  2.14           O 0
+ATOM  21482  OE2 GLU I1261     -12.447  96.240 141.507  0.00  0.00           O 0
+ATOM  21434    O ARG I1256     -14.577  95.176 147.113  0.41  4.29           O 0
+ATOM  21453   CB SER I1258     -17.654  95.597 142.419  0.00  0.00           C 0
+ATOM  21454   OG SER I1258     -16.790  95.455 141.307  0.69  4.29           O 0
+ATOM  21450   CA SER I1258     -17.599  94.376 143.336  0.00  0.00           C 0
+ATOM  20913  CE1 TYR I1192     -18.476  98.964 148.235  0.00  0.00           C 0
+ATOM  21445    O PRO I1257     -16.911  93.399 145.809  0.75  2.14           O 0
+ATOM  22233  ND2 ASN J1049      -8.696  98.136 145.045  0.31  5.47           N 0
+ATOM  21740  CD1 TYR J 987      -9.791  94.253 144.919  0.00  0.00           C 0
+ATOM  21742  CE1 TYR J 987     -10.558  93.911 146.016  0.00  0.00           C 0
+ATOM  22232  OD1 ASN J1049      -9.421  98.249 147.178  0.64  3.21           O 0
+ATOM  20903  OG1 THR I1191     -22.006  97.109 146.397  0.58  8.57           O 0
+ATOM  20911  CD1 TYR I1192     -18.842  97.787 148.874  0.00  0.00           C 0
+ATOM  21449    N SER I1258     -16.249  94.145 143.802  0.00  0.00           N 0
+TER
+END

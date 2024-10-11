@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   130:
+HEADER 0  - Pocket Score                      : 0.0131
+HEADER 1  - Drug Score                        : 0.0024
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9319
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5190
+HEADER 5  - Mean B-factor of pocket residues  : 0.5285
+HEADER 6  - Hydrophobicity Score              : 18.6000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 5.1000
+HEADER 9  - Pocket volume (Monte Carlo)       : 285.0572
+HEADER 10  -Pocket volume (convex hull)       : 22.8355
+HEADER 11 - Charge Score                      :     4
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.7000
+ATOM  36605   NE ARG T1064     -58.062 126.898 132.696  0.70  5.47           N 0
+ATOM  36724  OE2 GLU T1080     -61.855 125.992 135.536  0.69  2.14           O 0
+ATOM  36722   CD GLU T1080     -63.039 126.129 135.139  0.00  0.00           C 0
+ATOM  36723  OE1 GLU T1080     -63.650 125.215 134.553  0.00  0.00           O 0
+ATOM  36270  CG2 VAL T1022     -62.156 131.478 128.688  0.00  0.00           C 0
+ATOM  36720   CB GLU T1080     -62.874 128.638 135.481  0.00  0.00           C 0
+ATOM  36721   CG GLU T1080     -63.787 127.442 135.377  0.00  0.00           C 0
+ATOM  36323    O ARG T1029     -67.245 132.055 133.249  0.63  5.36           O 0
+ATOM  36725    N LEU T1081     -65.968 130.005 136.214  0.55  1.09           N 0
+ATOM  36728    O LEU T1081     -67.782 127.670 135.991  0.00  0.00           O 0
+ATOM  36717   CA GLU T1080     -63.532 129.936 135.969  0.00  0.00           C 0
+ATOM  36319  CG2 THR T1028     -65.473 132.263 130.434  0.00  0.00           C 0
+ATOM  36623  CD1 LEU T1066     -61.912 132.169 132.860  0.00  0.00           C 0
+ATOM  36624  CD2 LEU T1066     -59.582 131.340 132.566  0.00  0.00           C 0
+ATOM  36278   CE LYS T1023     -58.716 130.011 126.852  0.00  0.00           C 0
+ATOM  36608  NH2 ARG T1064     -57.748 124.786 131.827  0.57  9.84           N 0
+ATOM  36570  ND1 HIS T1060     -61.475 120.508 131.104  0.78  5.47           N 0
+ATOM  37199   NZ LYS T1150     -63.368 122.608 134.523  0.58  3.28           N 0
+ATOM  36572  CE1 HIS T1060     -62.761 120.241 130.973  0.00  0.00           C 0
+ATOM  36604   CD ARG T1064     -57.623 128.244 133.040  0.00  0.00           C 0
+TER
+END

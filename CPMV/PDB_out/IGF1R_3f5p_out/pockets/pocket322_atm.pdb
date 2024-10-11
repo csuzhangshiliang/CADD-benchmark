@@ -1,0 +1,47 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   322:
+HEADER 0  - Pocket Score                      : -0.1307
+HEADER 1  - Drug Score                        : 0.0156
+HEADER 2  - Number of alpha spheres           :    35
+HEADER 3  - Mean alpha-sphere radius          : 4.0839
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5672
+HEADER 5  - Mean B-factor of pocket residues  : 0.6934
+HEADER 6  - Hydrophobicity Score              : 44.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.1000
+HEADER 9  - Pocket volume (Monte Carlo)       : 439.8898
+HEADER 10  -Pocket volume (convex hull)       : 33.9422
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 15.4118
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.4857
+ATOM  25913  CD1 PHE K1224     106.325  29.844  85.985  0.00  0.00           C 0
+ATOM  25847  CD1 LEU K1216     109.309  33.225  85.583  0.00  0.00           C 0
+ATOM  25915  CE1 PHE K1224     106.918  28.893  86.794  0.00  0.00           C 0
+ATOM  25848  CD2 LEU K1216     111.428  33.389  84.282  0.00  0.00           C 0
+ATOM  25917   CZ PHE K1224     107.387  29.238  88.040  0.00  0.00           C 0
+ATOM  25973  OD2 ASP K1232     112.941  27.112  90.556  0.46  8.57           O 0
+ATOM  25846   CG LEU K1216     110.651  33.936  85.460  0.00  0.00           C 0
+ATOM  25817   CA TYR K1213     111.407  34.842  90.167  0.00  0.00           C 0
+ATOM  25816    N TYR K1213     111.461  35.177  91.588  0.65  2.19           N 0
+ATOM  25828    N GLN K1214     113.657  35.769  89.931  0.50  1.09           N 0
+ATOM  25746  CZ2 TRP K1203     113.436  32.860  95.503  0.00  0.00           C 0
+ATOM  25831    O GLN K1214     114.752  34.329  87.744  0.64  4.29           O 0
+ATOM  25832   CB GLN K1214     116.100  36.140  89.881  0.00  0.00           C 0
+ATOM  25803    O GLN K1211     113.981  36.847  92.854  0.58  1.07           O 0
+ATOM  25833   CG GLN K1214     116.253  37.075  91.061  0.00  0.00           C 0
+ATOM  25798  OE1 GLU K1210     117.826  34.180  95.438  0.65  8.57           O 0
+ATOM  25970   CB ASP K1232     112.831  26.842  92.938  0.00  0.00           C 0
+ATOM  25966    N ASP K1232     111.050  28.357  93.679  0.00  0.00           N 0
+ATOM  25748  CH2 TRP K1203     113.806  34.169  95.483  0.00  0.00           C 0
+ATOM  25916  CE2 PHE K1224     107.259  30.525  88.484  0.00  0.00           C 0
+ATOM  25953    O LEU K1230     108.007  28.833  91.212  0.56  2.14           O 0
+ATOM  25822  CD1 TYR K1213     108.211  33.616  90.177  0.00  0.00           C 0
+ATOM  25959   CA LEU K1231     109.117  29.798  93.539  0.00  0.00           C 0
+ATOM  25969    O ASP K1232     112.619  28.292  95.869  0.59  1.07           O 0
+ATOM  25965  CD2 LEU K1231     110.035  33.038  93.572  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   222:
+HEADER 0  - Pocket Score                      : -0.0450
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9535
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5789
+HEADER 5  - Mean B-factor of pocket residues  : 0.1543
+HEADER 6  - Hydrophobicity Score              : 37.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 240.5493
+HEADER 10  -Pocket volume (convex hull)       : 9.7964
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.4545
+ATOM  33322   CB SER R1258      82.774  63.833 108.650  0.00  0.00           C 0
+ATOM  32772  OG1 THR R1191      78.419  62.020 104.554  0.58  4.29           O 0
+ATOM  33324    N PHE R1259      81.037  66.469 108.856  0.76  4.37           N 0
+ATOM  33319   CA SER R1258      82.799  65.120 107.833  0.00  0.00           C 0
+ATOM  32251  OD1 ASN R1127      76.078  64.383 106.693  0.68  2.14           O 0
+ATOM  32249   CB ASN R1127      75.060  63.069 108.449  0.00  0.00           C 0
+ATOM  33328   CB PHE R1259      79.051  67.710 109.664  0.00  0.00           C 0
+ATOM  33331  CD2 PHE R1259      77.596  67.336 107.676  0.00  0.00           C 0
+ATOM  33341  CD1 LEU R1260      80.354  63.173 114.568  0.00  0.00           C 0
+ATOM  32223    O ALA R1124      74.934  64.460 112.426  0.55  2.14           O 0
+ATOM  32253    N ALA R1128      73.907  61.849 111.230  0.77  1.09           N 0
+ATOM  32221   CA ALA R1124      76.048  66.507 111.785  0.00  0.00           C 0
+ATOM  33335    N LEU R1260      81.314  66.464 111.592  0.71  1.09           N 0
+ATOM  32247    C ASN R1127      73.710  61.542 109.951  0.00  0.00           C 0
+ATOM  32254   CA ALA R1128      73.980  60.811 112.256  0.00  0.00           C 0
+ATOM  32248    O ASN R1127      73.547  60.388 109.557  0.56  2.14           O 0
+ATOM  33340   CG LEU R1260      80.457  64.555 113.923  0.00  0.00           C 0
+ATOM  33323   OG SER R1258      83.362  64.024 109.926  0.77  3.21           O 0
+ATOM  32257   CB ALA R1128      74.301  61.419 113.606  0.00  0.00           C 0
+TER
+END

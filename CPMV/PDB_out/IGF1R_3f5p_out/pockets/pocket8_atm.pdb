@@ -1,0 +1,49 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.4383
+HEADER 1  - Drug Score                        : 0.2112
+HEADER 2  - Number of alpha spheres           :    38
+HEADER 3  - Mean alpha-sphere radius          : 3.9327
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5144
+HEADER 5  - Mean B-factor of pocket residues  : 0.7706
+HEADER 6  - Hydrophobicity Score              : 47.2727
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0909
+HEADER 9  - Pocket volume (Monte Carlo)       : 346.2302
+HEADER 10  -Pocket volume (convex hull)       : 34.0910
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 27.6552
+HEADER 13 - Number of apolar alpha sphere     :    29
+HEADER 14 - Proportion of apolar alpha sphere : 0.7632
+ATOM  10213   CB ALA E1051      10.014 192.281 146.582  0.00  0.00           C 0
+ATOM  10209    N ALA E1051      11.338 191.519 148.481  0.00  0.00           N 0
+ATOM  10234   CE MET E1054       9.635 186.692 148.126  0.00  0.00           C 0
+ATOM  10210   CA ALA E1051      11.077 191.305 147.068  0.00  0.00           C 0
+ATOM  10208  OE2 GLU E1050       9.291 188.163 152.143  0.45  2.14           O 0
+ATOM  10424   SD MET E1079       6.101 187.294 143.651  0.00  0.00           S 0
+ATOM  10325  CD1 LEU E1065       8.877 190.357 143.554  0.00  0.00           C 0
+ATOM  10408  CG1 VAL E1077       5.192 191.992 144.885  0.00  0.00           C 0
+ATOM  10232   CG MET E1054      10.927 187.950 146.008  0.00  0.00           C 0
+ATOM  10423   CG MET E1079       4.403 187.623 144.141  0.00  0.00           C 0
+ATOM  10425   CE MET E1079       6.277 185.625 144.272  0.00  0.00           C 0
+ATOM  10065   CB LYS E1033       0.699 191.524 147.850  0.00  0.00           C 0
+ATOM  10407   CB VAL E1077       3.917 192.728 145.213  0.00  0.00           C 0
+ATOM   9915  CG1 VAL E1013      -2.519 187.446 147.332  0.00  0.00           C 0
+ATOM   9916  CG2 VAL E1013      -1.699 188.003 149.633  0.00  0.00           C 0
+ATOM  10052   CB ALA E1031      -0.899 186.236 143.676  0.00  0.00           C 0
+ATOM  10061    N LYS E1033      -0.427 191.592 145.650  0.00  0.00           N 0
+ATOM  10422   CB MET E1079       3.435 186.872 143.243  0.00  0.00           C 0
+ATOM  10051    O ALA E1031      -0.065 188.930 142.159  0.00  0.00           O 0
+ATOM  10050    C ALA E1031      -1.097 188.553 142.726  0.00  0.00           C 0
+ATOM  10181  CE1 PHE E1047       4.999 193.068 150.465  0.00  0.00           C 0
+ATOM  10183   CZ PHE E1047       4.962 193.660 149.225  0.00  0.00           C 0
+ATOM  10176    O PHE E1047       9.329 193.701 150.164  0.00  0.00           O 0
+ATOM  10068   CE LYS E1033       2.174 190.737 150.865  0.00  0.00           C 0
+ATOM  10069   NZ LYS E1033       2.219 189.850 152.057  0.86  1.09           N 0
+ATOM   9886   OG SER E1009       4.433 189.275 153.784  0.38  2.14           O 0
+ATOM  10067   CD LYS E1033       0.785 190.787 150.270  0.00  0.00           C 0
+TER
+END

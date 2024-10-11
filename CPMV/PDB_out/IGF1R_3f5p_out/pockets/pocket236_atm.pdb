@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   236:
+HEADER 0  - Pocket Score                      : -0.0504
+HEADER 1  - Drug Score                        : 0.0027
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7660
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3904
+HEADER 5  - Mean B-factor of pocket residues  : 0.6811
+HEADER 6  - Hydrophobicity Score              : 30.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 192.6417
+HEADER 10  -Pocket volume (convex hull)       : 2.4952
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM  26908  NH1 ARG M1042      92.751  20.448  95.358  0.26  7.66           N 0
+ATOM  26168   CG MET K1255      92.104  24.302  99.085  0.00  0.00           C 0
+ATOM  26167   CB MET K1255      93.330  25.108  99.461  0.00  0.00           C 0
+ATOM  26143   CB ASN K1252      91.990  26.561  95.698  0.00  0.00           C 0
+ATOM  26123   CG GLN K1250      96.928  24.730  98.641  0.00  0.00           C 0
+ATOM  26139    N ASN K1252      94.261  27.374  95.088  0.75  2.19           N 0
+ATOM  26902    O ARG M1042      94.707  18.603  98.875  0.00  0.00           O 0
+ATOM  26900   CA ARG M1042      96.702  19.233  97.706  0.00  0.00           C 0
+ATOM  26904   CG ARG M1042      95.222  19.580  95.572  0.00  0.00           C 0
+ATOM  26131   CB TYR K1251      96.504  27.073  92.900  0.00  0.00           C 0
+ATOM  26127    N TYR K1251      97.184  27.140  95.272  0.58  2.19           N 0
+ATOM  26126  NE2 GLN K1250      98.293  22.933  97.741  0.00  0.00           N 0
+ATOM  26903   CB ARG M1042      96.624  19.355  96.169  0.00  0.00           C 0
+ATOM  26934   CB ILE M1045      95.179  20.915 101.946  0.00  0.00           C 0
+TER
+END

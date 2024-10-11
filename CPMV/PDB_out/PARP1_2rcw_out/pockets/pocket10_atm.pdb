@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0122
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8087
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5403
+HEADER 5  - Mean B-factor of pocket residues  : 0.4464
+HEADER 6  - Hydrophobicity Score              : 42.4286
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 130.8745
+HEADER 10  -Pocket volume (convex hull)       : 1.5337
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM   2735   CZ PHE A 348     -26.901  82.127  29.062  0.00  0.00           C 0
+ATOM   1984    O THR A 249     -23.828  79.609  29.696  0.31  6.43           O 0
+ATOM   1329  CE2 TYR A 168     -30.700  78.513  27.958  0.00  0.00           C 0
+ATOM   1986  OG1 THR A 249     -24.672  79.738  26.441  0.50  1.07           O 0
+ATOM   2734  CE2 PHE A 348     -27.812  81.951  30.083  0.00  0.00           C 0
+ATOM   1946   CA ASN A 245     -27.644  73.310  27.696  0.00  0.00           C 0
+ATOM   1952  ND2 ASN A 245     -30.095  74.407  28.070  0.00  0.00           N 0
+ATOM   1972   CA HIS A 248     -22.175  75.867  28.568  0.00  0.00           C 0
+ATOM   1981    N THR A 249     -22.764  78.100  27.834  0.00  0.00           N 0
+ATOM   1948    O ASN A 245     -25.777  72.309  28.816  0.41  8.57           O 0
+ATOM   1971    N HIS A 248     -22.694  75.281  27.341  0.00  0.00           N 0
+ATOM   1943    O ALA A 244     -26.498  74.877  25.716  0.51  5.36           O 0
+ATOM   2715  CE2 PHE A 346     -27.654  78.685  24.627  0.00  0.00           C 0
+TER
+END

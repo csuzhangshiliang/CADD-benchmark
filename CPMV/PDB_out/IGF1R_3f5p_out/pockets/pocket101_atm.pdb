@@ -1,0 +1,47 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   101:
+HEADER 0  - Pocket Score                      : 0.0321
+HEADER 1  - Drug Score                        : 0.0390
+HEADER 2  - Number of alpha spheres           :    34
+HEADER 3  - Mean alpha-sphere radius          : 3.7686
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4141
+HEADER 5  - Mean B-factor of pocket residues  : 0.6069
+HEADER 6  - Hydrophobicity Score              : 13.7273
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.5455
+HEADER 9  - Pocket volume (Monte Carlo)       : 359.2983
+HEADER 10  -Pocket volume (convex hull)       : 21.2641
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 11.3846
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.3824
+ATOM  22601    N PRO J1107      20.774 125.736 142.945  0.46  6.56           N 0
+ATOM  22578    O LEU J1094      24.303 121.435 145.973  0.52  9.64           O 0
+ATOM  22579   CB LEU J1094      21.892 120.352 144.833  0.00  0.00           C 0
+ATOM  22582  CD2 LEU J1094      21.966 119.419 142.539  0.00  0.00           C 0
+ATOM  22581  CD1 LEU J1094      20.196 121.047 143.194  0.00  0.00           C 0
+ATOM  22549   OH TYR J1090      19.057 118.657 139.538  0.58  3.21           O 0
+ATOM  22634   CD LYS J1111      17.344 124.322 135.998  0.00  0.00           C 0
+ATOM  22633   CG LYS J1111      17.897 125.309 137.029  0.00  0.00           C 0
+ATOM  22635   CE LYS J1111      18.438 123.527 135.300  0.00  0.00           C 0
+ATOM  22632   CB LYS J1111      16.868 125.563 138.125  0.00  0.00           C 0
+ATOM  22669   CE MET J1115      14.900 120.665 140.615  0.00  0.00           C 0
+ATOM  22602   CA PRO J1107      19.985 125.952 141.722  0.00  0.00           C 0
+ATOM  23931  OE1 GLU J1271      13.510 123.229 130.941  0.00  0.00           O 0
+ATOM  22919  OG1 THR J1148      10.841 117.299 132.741  0.57  8.57           O 0
+ATOM  22898    O ASP J1146      15.243 117.564 132.745  0.39  6.43           O 0
+ATOM  22687  OE2 GLU J1118       9.358 120.401 134.183  0.48  6.43           O 0
+ATOM  22906    O PHE J1147      13.415 118.182 136.443  0.70  5.36           O 0
+ATOM  22605   CB PRO J1107      18.648 125.261 142.042  0.00  0.00           C 0
+ATOM  22631    O LYS J1111      13.554 124.971 138.389  0.00  0.00           O 0
+ATOM  22667   CG MET J1115      12.515 121.928 140.105  0.00  0.00           C 0
+ATOM  22909  CD1 PHE J1147      18.216 117.415 136.636  0.00  0.00           C 0
+ATOM  22636   NZ LYS J1111      17.884 122.282 134.668  0.00  0.00           N 0
+ATOM  22907   CB PHE J1147      16.139 118.008 135.342  0.00  0.00           C 0
+ATOM  22658   CG GLN J1114      11.572 123.624 134.734  0.00  0.00           C 0
+ATOM  22657   CB GLN J1114      11.837 124.580 135.864  0.00  0.00           C 0
+TER
+END

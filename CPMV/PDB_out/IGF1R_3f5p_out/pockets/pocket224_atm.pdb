@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   224:
+HEADER 0  - Pocket Score                      : -0.0460
+HEADER 1  - Drug Score                        : 0.0174
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7850
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4093
+HEADER 5  - Mean B-factor of pocket residues  : 0.9309
+HEADER 6  - Hydrophobicity Score              : 41.7778
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 146.4657
+HEADER 10  -Pocket volume (convex hull)       : 4.6073
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 19.0000
+HEADER 13 - Number of apolar alpha sphere     :    20
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM   7347   CB TRP D 992     -26.271 100.855 112.020  0.00  0.00           C 0
+ATOM   7944  CG1 VAL D1068     -29.157 100.605 108.729  0.00  0.00           C 0
+ATOM   7926  CD2 LEU D1065     -28.479 104.940 109.804  0.00  0.00           C 0
+ATOM   7812    O ALA D1051     -24.980 105.219 105.846  0.52  2.14           O 0
+ATOM   7925  CD1 LEU D1065     -28.700 105.597 107.395  0.00  0.00           C 0
+ATOM   7813   CB ALA D1051     -27.494 104.166 104.268  0.00  0.00           C 0
+ATOM   7811    C ALA D1051     -25.106 104.767 104.708  0.00  0.00           C 0
+ATOM   7317  CG1 VAL D 988     -26.683  97.728 106.300  0.00  0.00           C 0
+ATOM   7353  CE3 TRP D 992     -26.117 104.150 112.212  0.00  0.00           C 0
+ATOM   7350  CD2 TRP D 992     -25.141 103.171 112.375  0.00  0.00           C 0
+ATOM   7839   CB LYS D1055     -23.230 105.418 109.651  0.00  0.00           C 0
+ATOM   7325   CD PRO D 989     -22.796  98.839 109.091  0.00  0.00           C 0
+ATOM   7815   CA SER D1052     -22.959 103.630 104.814  0.00  0.00           C 0
+ATOM   7316   CB VAL D 988     -26.018  97.694 107.664  0.00  0.00           C 0
+ATOM   7814    N SER D1052     -24.189 103.997 104.135  0.00  0.00           N 0
+ATOM   7303    O TYR D 987     -23.144  97.646 105.224  0.55  1.07           O 0
+ATOM   7817    O SER D1052     -21.239 104.854 105.917  0.39  4.29           O 0
+ATOM   7324   CG PRO D 989     -21.517  99.096 109.828  0.00  0.00           C 0
+ATOM   7348   CG TRP D 992     -25.123 101.750 112.304  0.00  0.00           C 0
+TER
+END

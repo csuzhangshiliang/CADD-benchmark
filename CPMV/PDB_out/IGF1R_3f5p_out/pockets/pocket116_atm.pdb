@@ -1,0 +1,49 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   116:
+HEADER 0  - Pocket Score                      : 0.0233
+HEADER 1  - Drug Score                        : 0.0374
+HEADER 2  - Number of alpha spheres           :    50
+HEADER 3  - Mean alpha-sphere radius          : 3.7273
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4002
+HEADER 5  - Mean B-factor of pocket residues  : 0.3483
+HEADER 6  - Hydrophobicity Score              : 11.1111
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 310.9360
+HEADER 10  -Pocket volume (convex hull)       : 21.5800
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 23.0000
+HEADER 13 - Number of apolar alpha sphere     :    24
+HEADER 14 - Proportion of apolar alpha sphere : 0.4800
+ATOM  32406   CB PHE R1147      72.536  86.279 115.846  0.00  0.00           C 0
+ATOM  32132   CG LYS R1111      78.980  87.807 113.598  0.00  0.00           C 0
+ATOM  32408  CD1 PHE R1147      71.964  88.406 114.663  0.00  0.00           C 0
+ATOM  32407   CG PHE R1147      72.129  87.719 115.847  0.00  0.00           C 0
+ATOM  32134   CE LYS R1111      78.811  89.231 115.699  0.00  0.00           C 0
+ATOM  32135   NZ LYS R1111      78.816  89.225 117.201  0.56  7.66           N 0
+ATOM  32133   CD LYS R1111      79.209  87.868 115.113  0.00  0.00           C 0
+ATOM  33431  OE2 GLU R1271      78.939  85.190 119.596  0.80  4.29           O 0
+ATOM  32412   CZ PHE R1147      71.364  90.378 115.854  0.00  0.00           C 0
+ATOM  32411  CE2 PHE R1147      71.523  89.708 117.032  0.00  0.00           C 0
+ATOM  32041   OH TYR R1090      73.254  89.189 111.849  0.76  3.21           O 0
+ATOM  32130    O LYS R1111      79.330  84.036 112.630  0.00  0.00           O 0
+ATOM  32405    O PHE R1147      72.602  83.603 114.621  0.80  5.36           O 0
+ATOM  32397    O ASP R1146      72.031  85.105 118.506  0.81  9.64           O 0
+ATOM  33430  OE1 GLU R1271      77.546  83.702 120.400  0.74  7.50           O 0
+ATOM  32157   CG GLN R1114      78.224  81.930 116.580  0.00  0.00           C 0
+ATOM  32186  OE2 GLU R1118      74.934  79.422 117.408  0.18  7.50           O 0
+ATOM  32185  OE1 GLU R1118      74.871  80.028 115.311  0.00  0.00           O 0
+ATOM  32156   CB GLN R1114      79.134  82.185 115.399  0.00  0.00           C 0
+ATOM  32168   CE MET R1115      75.306  85.126 110.552  0.00  0.00           C 0
+ATOM  32410  CE1 PHE R1147      71.588  89.734 114.669  0.00  0.00           C 0
+ATOM  32409  CD2 PHE R1147      71.902  88.389 117.031  0.00  0.00           C 0
+ATOM  32404    C PHE R1147      71.815  83.879 115.535  0.00  0.00           C 0
+ATOM  32413    N THR R1148      71.300  82.956 116.332  0.00  0.00           N 0
+ATOM  32418  OG1 THR R1148      71.767  81.042 118.520  0.52  7.50           O 0
+ATOM  32166   CG MET R1115      76.343  82.615 111.086  0.00  0.00           C 0
+ATOM  32414   CA THR R1148      71.640  81.557 116.157  0.00  0.00           C 0
+TER
+END

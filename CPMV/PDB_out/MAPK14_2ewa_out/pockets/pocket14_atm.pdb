@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0942
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.2584
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5591
+HEADER 5  - Mean B-factor of pocket residues  : 0.5898
+HEADER 6  - Hydrophobicity Score              : 34.7143
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 281.5267
+HEADER 10  -Pocket volume (convex hull)       : 5.2078
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4500
+ATOM    290   CB ALA A  40      -9.697  -3.228  26.848  0.00  0.00           C 0
+ATOM    231  CG2 VAL A  30      -7.825  -0.242  26.887  0.00  0.00           C 0
+ATOM    852  CD2 LEU A 108      -7.084  -6.256  25.831  0.00  0.00           C 0
+ATOM    851  CD1 LEU A 108      -6.266  -4.169  24.701  0.00  0.00           C 0
+ATOM   1230  OE1 GLU A 160       0.116 -11.452  26.761  0.76  6.43           O 0
+ATOM    359  NH1 ARG A  49      -7.697 -10.714  29.273  0.00  0.00           N 0
+ATOM    848    O LEU A 108      -3.383  -7.526  22.785  0.00  0.00           O 0
+ATOM    861    N GLY A 110      -0.920  -6.204  25.970  0.56  5.47           N 0
+ATOM    850   CG LEU A 108      -6.052  -5.679  24.867  0.00  0.00           C 0
+ATOM    862   CA GLY A 110      -0.844  -6.022  27.412  0.00  0.00           C 0
+ATOM    356   CD ARG A  49      -8.642 -10.253  26.652  0.00  0.00           C 0
+ATOM    856    O MET A 109      -2.056  -4.290  25.626  0.49  6.43           O 0
+ATOM    864    O GLY A 110      -0.423  -4.253  28.957  0.00  0.00           O 0
+ATOM    354   CB ARG A  49      -8.722  -9.428  24.271  0.00  0.00           C 0
+ATOM    849   CB LEU A 108      -6.176  -6.383  23.509  0.00  0.00           C 0
+ATOM    230  CG1 VAL A  30      -5.521   0.534  27.468  0.00  0.00           C 0
+TER
+END

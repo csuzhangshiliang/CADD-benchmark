@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0570
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0608
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7298
+HEADER 5  - Mean B-factor of pocket residues  : 0.1838
+HEADER 6  - Hydrophobicity Score              : -7.2500
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 200.2556
+HEADER 10  -Pocket volume (convex hull)       : 1.1369
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM   2113   CA ALA B 213      16.560 -29.790  24.425  0.00  0.00           C 0
+ATOM   2115    O ALA B 213      18.776 -29.081  25.011  0.75  2.14           O 0
+ATOM   2136   CD LYS B 216      18.610 -32.055  29.772  0.00  0.00           C 0
+ATOM   2116   CB ALA B 213      16.515 -30.674  23.181  0.00  0.00           C 0
+ATOM   2134   CB LYS B 216      18.572 -29.750  28.741  0.00  0.00           C 0
+ATOM   2135   CG LYS B 216      19.324 -30.728  29.627  0.00  0.00           C 0
+ATOM   2139    N HIS B 217      20.940 -28.584  27.041  0.00  0.00           N 0
+ATOM   2143   CB HIS B 217      22.332 -28.875  25.045  0.00  0.00           C 0
+ATOM   2140   CA HIS B 217      22.307 -28.740  26.573  0.00  0.00           C 0
+ATOM   2176  OD2 ASP B 220      22.637 -31.483  30.117  0.00  0.00           O 0
+ATOM   2138   NZ LYS B 216      20.683 -33.165  30.602  0.00  0.00           N 0
+ATOM   2146  CD2 HIS B 217      24.745 -29.410  24.256  0.00  0.00           C 0
+ATOM   2173   CB ASP B 220      24.528 -30.088  30.446  0.00  0.00           C 0
+ATOM   2142    O HIS B 217      24.289 -27.738  27.498  0.41  1.07           O 0
+TER
+END

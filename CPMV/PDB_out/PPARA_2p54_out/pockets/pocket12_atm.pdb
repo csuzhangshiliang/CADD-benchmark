@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.1177
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8696
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5030
+HEADER 5  - Mean B-factor of pocket residues  : 0.8186
+HEADER 6  - Hydrophobicity Score              : 16.8000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 224.4243
+HEADER 10  -Pocket volume (convex hull)       : 3.7064
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM     77  CD2 TYR A 211      17.315  13.763  20.385  0.00  0.00           C 0
+ATOM   1345   CB SER A 373      13.284  13.646  21.559  0.00  0.00           C 0
+ATOM     48   CD LYS A 208      18.575  10.273  17.852  0.00  0.00           C 0
+ATOM     50   NZ LYS A 208      19.245  10.371  20.259  0.22  5.47           N 0
+ATOM     74   CB TYR A 211      16.824  14.986  18.229  0.00  0.00           C 0
+ATOM     40    O ALA A 207      15.452  13.832  15.380  0.00  0.00           O 0
+ATOM     79  CE2 TYR A 211      17.408  13.704  21.765  0.00  0.00           C 0
+ATOM   1633  NE2 HIS A 411      11.152  11.193  19.754  0.81  7.66           N 0
+ATOM   1344    O SER A 373      11.905  15.790  19.475  0.67  1.07           O 0
+ATOM     41   CB ALA A 207      12.906  11.741  14.746  0.00  0.00           C 0
+ATOM     42    N LYS A 208      15.976  11.715  14.826  0.63  1.09           N 0
+ATOM   1631  CD2 HIS A 411      10.658  10.719  18.563  0.00  0.00           C 0
+ATOM     46   CB LYS A 208      17.930  10.360  15.426  0.00  0.00           C 0
+ATOM     39    C ALA A 207      15.178  12.779  14.804  0.00  0.00           C 0
+ATOM     43   CA LYS A 208      17.238  11.720  15.556  0.00  0.00           C 0
+TER
+END

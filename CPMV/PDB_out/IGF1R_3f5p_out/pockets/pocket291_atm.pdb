@@ -1,0 +1,46 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   291:
+HEADER 0  - Pocket Score                      : -0.0843
+HEADER 1  - Drug Score                        : 0.0117
+HEADER 2  - Number of alpha spheres           :    30
+HEADER 3  - Mean alpha-sphere radius          : 4.0352
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5474
+HEADER 5  - Mean B-factor of pocket residues  : 0.3590
+HEADER 6  - Hydrophobicity Score              : 28.9167
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 344.1742
+HEADER 10  -Pocket volume (convex hull)       : 18.8496
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 19.0000
+HEADER 13 - Number of apolar alpha sphere     :    20
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM  37382    N GLY T1172     -52.371 124.369 163.790  0.65  4.37           N 0
+ATOM  37361   CG LYS T1168     -48.559 123.034 161.078  0.00  0.00           C 0
+ATOM  37360   CB LYS T1168     -47.886 121.738 160.618  0.00  0.00           C 0
+ATOM  37383   CA GLY T1172     -53.026 124.116 162.521  0.00  0.00           C 0
+ATOM  37372    O GLY T1170     -48.968 123.968 164.711  0.60  9.64           O 0
+ATOM  37523   CZ PHE T1189     -51.321 118.585 158.068  0.00  0.00           C 0
+ATOM  37447   SD MET T1179     -55.327 117.589 160.464  0.00  0.00           S 0
+ATOM  37384    C GLY T1172     -54.529 124.128 162.695  0.00  0.00           C 0
+ATOM  37385    O GLY T1172     -55.045 123.721 163.746  0.39  5.36           O 0
+ATOM  37502    N GLY T1187     -47.819 115.930 162.318  0.56  2.19           N 0
+ATOM  37503   CA GLY T1187     -48.038 117.099 161.491  0.00  0.00           C 0
+ATOM  37474    O SER T1183     -50.715 115.387 161.790  0.77  6.43           O 0
+ATOM  37480    O LEU T1184     -51.384 114.157 165.420  0.00  0.00           O 0
+ATOM  37359    O LYS T1168     -45.478 121.233 162.547  0.50  8.57           O 0
+ATOM  37496    C ASP T1186     -46.622 115.635 162.802  0.00  0.00           C 0
+ATOM  37448   CE MET T1179     -53.911 116.713 161.068  0.00  0.00           C 0
+ATOM  37414  CG1 VAL T1176     -58.383 117.347 164.070  0.00  0.00           C 0
+ATOM  37497    O ASP T1186     -45.610 116.282 162.527  0.00  0.00           O 0
+ATOM  37521  CE1 PHE T1189     -49.973 118.773 158.103  0.00  0.00           C 0
+ATOM  37398   CB LEU T1174     -56.175 121.015 158.665  0.00  0.00           C 0
+ATOM  37077  NH2 ARG T1134     -51.159 122.311 157.037  0.47  4.37           N 0
+ATOM  37394    N LEU T1174     -56.676 122.815 160.258  0.76  1.09           N 0
+ATOM  37400  CD1 LEU T1174     -54.146 120.830 157.199  0.00  0.00           C 0
+ATOM  37397    O LEU T1174     -57.855 120.364 161.142  0.60  7.50           O 0
+TER
+END

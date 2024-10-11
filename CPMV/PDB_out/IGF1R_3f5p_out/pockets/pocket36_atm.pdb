@@ -1,0 +1,46 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    36:
+HEADER 0  - Pocket Score                      : 0.1524
+HEADER 1  - Drug Score                        : 0.0050
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.7381
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4747
+HEADER 5  - Mean B-factor of pocket residues  : 0.5253
+HEADER 6  - Hydrophobicity Score              : 38.4167
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.9167
+HEADER 9  - Pocket volume (Monte Carlo)       : 279.3568
+HEADER 10  -Pocket volume (convex hull)       : 15.5107
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2222
+ATOM  35455    O GLY S1229     -40.197 148.924 162.650  0.48  1.07           O 0
+ATOM  35463  CD2 LEU S1230     -41.791 148.345 159.745  0.00  0.00           C 0
+ATOM  35449   CA GLY S1228     -42.168 145.481 164.631  0.00  0.00           C 0
+ATOM  35450    C GLY S1228     -42.291 146.952 164.311  0.00  0.00           C 0
+ATOM  35613    O TRP S1249     -41.972 145.192 157.403  0.69  5.36           O 0
+ATOM  35639  CD1 TYR S1251     -41.416 142.199 162.379  0.00  0.00           C 0
+ATOM  35451    O GLY S1228     -43.149 147.331 163.523  0.00  0.00           O 0
+ATOM  35637   CB TYR S1251     -42.951 141.589 160.489  0.00  0.00           C 0
+ATOM  35197  CH2 TRP S1196     -38.232 146.165 159.162  0.00  0.00           C 0
+ATOM  35427    O VAL S1225     -38.217 145.389 164.066  0.56  1.07           O 0
+ATOM  35633    N TYR S1251     -42.887 142.370 158.134  0.00  0.00           N 0
+ATOM  35462  CD1 LEU S1230     -43.916 149.278 158.859  0.00  0.00           C 0
+ATOM  35461   CG LEU S1230     -42.950 149.276 160.024  0.00  0.00           C 0
+ATOM  35632  NE2 GLN S1250     -47.019 142.930 156.231  0.08  8.75           N 0
+ATOM  35631  OE1 GLN S1250     -45.969 144.060 154.596  0.76  1.07           O 0
+ATOM  36413   SD MET T1041     -48.033 147.002 152.551  0.00  0.00           S 0
+ATOM  35592   NE ARG S1246     -48.217 150.381 155.462  0.71  6.56           N 0
+ATOM  35588    O ARG S1246     -44.461 146.811 154.049  0.70  3.21           O 0
+ATOM  36415    N ARG T1042     -51.530 143.777 154.412  0.00  0.00           N 0
+ATOM  35595  NH2 ARG S1246     -50.161 149.257 155.990  0.27  4.37           N 0
+ATOM  36407    N MET T1041     -52.985 145.941 153.679  0.55  3.28           N 0
+ATOM  36405   CB SER T1040     -54.507 144.590 156.182  0.00  0.00           C 0
+ATOM  36419   CB ARG T1042     -51.191 142.455 156.428  0.00  0.00           C 0
+ATOM  36412   CG MET T1041     -49.369 145.831 152.842  0.00  0.00           C 0
+TER
+END

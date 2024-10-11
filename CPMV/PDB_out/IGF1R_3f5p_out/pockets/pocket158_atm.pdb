@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   158:
+HEADER 0  - Pocket Score                      : -0.0068
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8770
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6070
+HEADER 5  - Mean B-factor of pocket residues  : 0.3514
+HEADER 6  - Hydrophobicity Score              : 24.5714
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 298.6368
+HEADER 10  -Pocket volume (convex hull)       : 13.5902
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2941
+ATOM   4257  ND2 ASN B1218      29.074  82.620 169.986  0.00  0.00           N 0
+ATOM   4254   CB ASN B1218      27.723  80.699 170.567  0.00  0.00           C 0
+ATOM   4255   CG ASN B1218      28.011  81.902 169.674  0.00  0.00           C 0
+ATOM   3916  CG1 VAL B1176      29.520  76.928 167.204  0.00  0.00           C 0
+ATOM   3917  CG2 VAL B1176      27.521  78.435 167.146  0.00  0.00           C 0
+ATOM   3928  NH2 ARG B1177      25.066  84.002 168.426  0.00  0.00           N 0
+ATOM   4203  NE2 GLN B1211      24.445  85.655 166.199  0.00  0.00           N 0
+ATOM   4256  OD1 ASN B1218      27.295  82.170 168.712  0.00  0.00           O 0
+ATOM   3925   NE ARG B1177      25.135  82.998 166.364  0.77  3.28           N 0
+ATOM   3911    N VAL B1176      29.216  78.449 164.687  0.60  2.19           N 0
+ATOM   3899    O LEU B1174      32.599  77.727 164.527  0.46  3.21           O 0
+ATOM   3905   CA PRO B1175      30.890  79.629 163.349  0.00  0.00           C 0
+ATOM   3923   CG ARG B1177      25.658  81.353 164.634  0.00  0.00           C 0
+ATOM   3908   CB PRO B1175      30.439  80.648 162.297  0.00  0.00           C 0
+ATOM   3941  CZ3 TRP B1178      27.130  82.512 160.855  0.00  0.00           C 0
+TER
+END

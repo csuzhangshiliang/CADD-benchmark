@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   139:
+HEADER 0  - Pocket Score                      : 0.0069
+HEADER 1  - Drug Score                        : 0.0024
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0403
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6596
+HEADER 5  - Mean B-factor of pocket residues  : 0.3980
+HEADER 6  - Hydrophobicity Score              : 11.8750
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 368.1495
+HEADER 10  -Pocket volume (convex hull)       : 18.0059
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4500
+ATOM  21640   OH TYR I1280     -15.594  92.083 133.014  0.50  9.64           O 0
+ATOM  21632    O TYR I1280     -21.131  93.315 130.675  0.00  0.00           O 0
+ATOM  21637  CE1 TYR I1280     -17.435  91.119 131.854  0.00  0.00           C 0
+ATOM  21639   CZ TYR I1280     -16.933  91.747 132.975  0.00  0.00           C 0
+ATOM  21684  ND2 ASN I1285     -20.952  95.171 132.893  0.56  3.28           N 0
+ATOM  21469    O LEU I1260     -16.543  92.023 137.378  0.62  1.07           O 0
+ATOM  21468    C LEU I1260     -16.978  92.670 138.325  0.00  0.00           C 0
+ATOM  21479   CG GLU I1261     -13.543  94.438 140.420  0.00  0.00           C 0
+ATOM  21470   CB LEU I1260     -18.539  94.599 137.769  0.00  0.00           C 0
+ATOM  21475   CA GLU I1261     -14.864  92.478 139.536  0.00  0.00           C 0
+ATOM  21503   CB SER I1264     -13.826  91.161 135.554  0.00  0.00           C 0
+ATOM  21638  CE2 TYR I1280     -17.766  92.028 134.045  0.00  0.00           C 0
+ATOM  21776  OE2 GLU J 991     -11.130  96.853 132.258  0.00  0.00           O 0
+ATOM  21504   OG SER I1264     -12.454  91.223 135.173  0.43  2.14           O 0
+ATOM  21474    N GLU I1261     -16.255  92.926 139.414  0.61  1.09           N 0
+ATOM  21472  CD1 LEU I1260     -20.119  96.419 136.863  0.00  0.00           C 0
+ATOM  21754   CA PRO J 989      -9.165  95.572 135.412  0.00  0.00           C 0
+ATOM  21757   CB PRO J 989      -9.437  97.018 134.986  0.00  0.00           C 0
+ATOM  21730    O VAL J 986     -10.849  92.426 140.140  0.59  3.21           O 0
+ATOM  21758   CG PRO J 989      -8.942  97.893 136.126  0.00  0.00           C 0
+ATOM  21753    N PRO J 989      -8.380  95.710 136.643  0.39  1.09           N 0
+ATOM  21482  OE2 GLU I1261     -12.447  96.240 141.507  0.00  0.00           O 0
+TER
+END

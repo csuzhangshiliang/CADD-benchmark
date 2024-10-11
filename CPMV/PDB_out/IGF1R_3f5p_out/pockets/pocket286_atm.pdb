@@ -1,0 +1,51 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   286:
+HEADER 0  - Pocket Score                      : -0.0812
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    36
+HEADER 3  - Mean alpha-sphere radius          : 4.0956
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5344
+HEADER 5  - Mean B-factor of pocket residues  : 0.7092
+HEADER 6  - Hydrophobicity Score              : 11.0000
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 3.7333
+HEADER 9  - Pocket volume (Monte Carlo)       : 716.4021
+HEADER 10  -Pocket volume (convex hull)       : 111.8447
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.5000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1111
+ATOM  34012    O ALA S1039       1.697 145.621 151.841  0.00  0.00           O 0
+ATOM  23719  NH2 ARG J1246       4.249 140.117 153.796  0.25  8.75           N 0
+ATOM  34015   CA SER S1040       0.698 144.256 154.020  0.00  0.00           C 0
+ATOM  34020    N MET S1041       0.924 142.258 152.670  0.68  2.19           N 0
+ATOM  34007    O ALA S1038       2.639 148.292 154.049  0.00  0.00           O 0
+ATOM  23718  NH1 ARG J1246       5.915 139.704 152.278  0.79  6.56           N 0
+ATOM  34024   CB MET S1041       1.401 140.118 151.586  0.00  0.00           C 0
+ATOM  33998    O GLU S1037       3.982 147.764 150.801  0.00  0.00           O 0
+ATOM  34057  NH1 ARG S1044       1.633 144.546 148.181  0.62  3.28           N 0
+ATOM  34027   CE MET S1041       3.280 138.355 149.517  0.00  0.00           C 0
+ATOM  33578    N ALA S 983       1.686 139.701 145.290  0.00  0.00           N 0
+ATOM  33576   CB SER S 982       3.639 141.898 144.597  0.00  0.00           C 0
+ATOM  23692  OE2 GLU J1243       6.875 138.863 150.266  0.70  2.14           O 0
+ATOM  34002  OE1 GLU S1037       7.784 146.984 146.867  0.00  0.00           O 0
+ATOM  23649    N ASP J1239      13.818 136.700 146.355  0.73  3.28           N 0
+ATOM  23646   CB PRO J1238      14.989 134.197 144.293  0.00  0.00           C 0
+ATOM  23657    N MET J1240      11.388 136.580 145.033  0.62  3.28           N 0
+ATOM  23661   CB MET J1240      10.481 136.137 142.813  0.00  0.00           C 0
+ATOM  23653   CB ASP J1239      12.711 138.847 146.710  0.00  0.00           C 0
+ATOM  23655  OD1 ASP J1239      14.647 140.241 146.566  0.38  8.57           O 0
+ATOM  33559   CB SER S 980       9.428 142.991 142.803  0.00  0.00           C 0
+ATOM  33560   OG SER S 980       8.326 143.542 143.505  0.17  9.64           O 0
+ATOM  33564    O PHE S 981       6.576 140.362 144.391  0.74  3.21           O 0
+ATOM  23691  OE1 GLU J1243       8.775 138.655 149.168  0.69  4.29           O 0
+ATOM  23690   CD GLU J1243       7.518 138.664 149.212  0.00  0.00           C 0
+ATOM  33561    N PHE S 981       7.922 140.596 141.959  0.93  4.37           N 0
+ATOM  33556   CA SER S 980       9.039 142.658 141.367  0.00  0.00           C 0
+ATOM  23643   CA PRO J1238      15.224 134.856 145.651  0.00  0.00           C 0
+ATOM  23689   CG GLU J1243       6.734 138.439 147.921  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   270:
+HEADER 0  - Pocket Score                      : -0.0711
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.0426
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6082
+HEADER 5  - Mean B-factor of pocket residues  : 0.4093
+HEADER 6  - Hydrophobicity Score              : 0.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 292.9391
+HEADER 10  -Pocket volume (convex hull)       : 21.0383
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1364
+ATOM   4202  OE1 GLN B1211      22.997  87.372 166.174  0.42  7.50           O 0
+ATOM   4229   CD GLN B1214      18.512  89.537 165.994  0.00  0.00           C 0
+ATOM   4231  NE2 GLN B1214      18.361  89.663 164.670  0.79  8.75           N 0
+ATOM   4228   CG GLN B1214      19.390  88.408 166.471  0.00  0.00           C 0
+ATOM   4196   CA GLN B1211      22.118  86.726 162.087  0.00  0.00           C 0
+ATOM   3942  CH2 TRP B1178      26.555  83.414 159.953  0.00  0.00           C 0
+ATOM   3267   NZ LYS B1088      27.192  88.192 158.380  0.65  9.84           N 0
+ATOM   4200   CG GLN B1211      23.640  86.442 164.056  0.00  0.00           C 0
+ATOM   4210   CD PRO B1212      22.794  84.113 161.000  0.00  0.00           C 0
+ATOM   4199   CB GLN B1211      22.585  87.306 163.413  0.00  0.00           C 0
+ATOM   4195    N GLN B1211      21.420  87.727 161.299  0.69  2.19           N 0
+ATOM   3304  NH2 ARG B1092      21.081  93.131 158.780  0.49  6.56           N 0
+ATOM   4191   CG GLU B1210      18.344  89.021 160.902  0.00  0.00           C 0
+ATOM   4194  OE2 GLU B1210      17.080  91.037 161.099  0.50  6.43           O 0
+ATOM   3303  NH1 ARG B1092      22.760  94.675 158.960  0.00  0.00           N 0
+ATOM   3266   CE LYS B1088      26.528  89.308 157.665  0.00  0.00           C 0
+ATOM   3302   CZ ARG B1092      22.236  93.617 158.360  0.00  0.00           C 0
+ATOM   4184    O ALA B1209      22.387  89.764 158.000  0.73  2.14           O 0
+ATOM   3301   NE ARG B1092      22.866  93.051 157.339  0.00  0.00           N 0
+ATOM   3300   CD ARG B1092      24.155  93.510 156.830  0.00  0.00           C 0
+TER
+END

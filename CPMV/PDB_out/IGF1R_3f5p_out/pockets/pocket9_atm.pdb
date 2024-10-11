@@ -1,0 +1,66 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.4373
+HEADER 1  - Drug Score                        : 0.1617
+HEADER 2  - Number of alpha spheres           :    51
+HEADER 3  - Mean alpha-sphere radius          : 4.0610
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5566
+HEADER 5  - Mean B-factor of pocket residues  : 0.3101
+HEADER 6  - Hydrophobicity Score              : 21.1000
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 4.0500
+HEADER 9  - Pocket volume (Monte Carlo)       : 846.2025
+HEADER 10  -Pocket volume (convex hull)       : 242.7427
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 21.8462
+HEADER 13 - Number of apolar alpha sphere     :    26
+HEADER 14 - Proportion of apolar alpha sphere : 0.5098
+ATOM  31385    O LEU R1005      56.045  87.098 106.078  0.57  7.50           O 0
+ATOM  31390    N GLY R1006      54.343  85.634 105.891  0.00  0.00           N 0
+ATOM  31391   CA GLY R1006      54.493  85.531 104.450  0.00  0.00           C 0
+ATOM  31397    O GLN R1007      55.664  81.669 102.022  0.08  6.43           O 0
+ATOM  31440   CB VAL R1013      54.048  81.395 107.383  0.00  0.00           C 0
+ATOM  31392    C GLY R1006      53.870  84.303 103.843  0.00  0.00           C 0
+ATOM  31442  CG2 VAL R1013      54.342  80.241 106.445  0.00  0.00           C 0
+ATOM  32371   SD MET R1142      63.752  80.137 108.237  0.00  0.00           S 0
+ATOM  32003   CB ASP R1086      65.859  82.555 104.912  0.00  0.00           C 0
+ATOM  32005  OD1 ASP R1086      64.918  84.511 103.949  0.78  7.50           O 0
+ATOM  31999    N ASP R1086      65.347  83.962 106.849  0.62  1.09           N 0
+ATOM  32372   CE MET R1142      62.705  80.869 109.490  0.00  0.00           C 0
+ATOM  31832  CG1 VAL R1063      62.812  76.194 112.651  0.00  0.00           C 0
+ATOM  32447    O GLY R1152      63.091  73.584 107.738  0.54  6.43           O 0
+ATOM  32370   CG MET R1142      64.800  79.064 109.213  0.00  0.00           C 0
+ATOM  32392  OE1 GLU R1145      65.053  89.543 117.976  0.00  0.00           O 0
+ATOM  31992   CZ ARG R1084      67.984  90.261 115.392  0.00  0.00           C 0
+ATOM  31993  NH1 ARG R1084      68.133  91.000 114.292  0.00  0.00           N 0
+ATOM  31994  NH2 ARG R1084      67.853  90.848 116.580  0.17  6.56           N 0
+ATOM  31980    O THR R1083      63.038  88.124 112.916  0.47  2.14           O 0
+ATOM  31951   CE MET R1079      59.859  73.729 111.726  0.00  0.00           C 0
+ATOM  31578   CB ALA R1031      56.494  80.382 112.482  0.00  0.00           C 0
+ATOM  31955    O GLU R1080      60.145  78.454 114.477  0.00  0.00           O 0
+ATOM  31969    N MET R1082      61.600  81.914 114.124  0.00  0.00           N 0
+ATOM  31968  CD2 LEU R1081      59.126  83.648 114.227  0.00  0.00           C 0
+ATOM  31386   CB LEU R1005      55.623  85.542 108.841  0.00  0.00           C 0
+ATOM  31384    C LEU R1005      55.123  86.457 106.588  0.00  0.00           C 0
+ATOM  31389  CD2 LEU R1005      56.263  86.858 110.850  0.00  0.00           C 0
+ATOM  31996   CA GLY R1085      64.224  85.048 108.675  0.00  0.00           C 0
+ATOM  31388  CD1 LEU R1005      56.024  84.373 111.021  0.00  0.00           C 0
+ATOM  31441  CG1 VAL R1013      54.739  81.176 108.715  0.00  0.00           C 0
+ATOM  31981   CB THR R1083      62.367  86.891 115.396  0.00  0.00           C 0
+ATOM  32393  OE2 GLU R1145      63.252  88.701 118.909  0.69  5.36           O 0
+ATOM  31982  OG1 THR R1083      63.665  87.107 115.963  0.00  0.00           O 0
+ATOM  31566  NH2 ARG R1029      58.151  88.118 118.017  0.00  0.00           N 0
+ATOM  31565  NH1 ARG R1029      60.013  87.776 119.319  0.63  6.56           N 0
+ATOM  31462  OE1 GLU R1015      56.083  87.894 114.734  0.59  7.50           O 0
+ATOM  31372  NH2 ARG R1003      56.807  90.350 110.700  0.50  7.66           N 0
+ATOM  31948   CB MET R1079      57.761  75.886 112.850  0.00  0.00           C 0
+ATOM  31949   CG MET R1079      57.351  74.900 111.766  0.00  0.00           C 0
+ATOM  31978   CA THR R1083      62.502  86.121 114.072  0.00  0.00           C 0
+ATOM  31972    O MET R1082      62.991  84.128 112.138  0.00  0.00           O 0
+ATOM  31995    N GLY R1085      64.425  85.580 110.008  0.00  0.00           N 0
+ATOM  31979    C THR R1083      63.346  86.964 113.126  0.00  0.00           C 0
+TER
+END

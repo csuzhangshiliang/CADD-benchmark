@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   205:
+HEADER 0  - Pocket Score                      : -0.0319
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.6702
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5557
+HEADER 5  - Mean B-factor of pocket residues  : 0.6388
+HEADER 6  - Hydrophobicity Score              : 6.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 116.2009
+HEADER 10  -Pocket volume (convex hull)       : 1.1202
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM  21973   CA GLY J1016      13.495  97.182 134.171  0.00  0.00           C 0
+ATOM  21971  OE2 GLU J1015      17.306 101.784 134.656  0.00  0.00           O 0
+ATOM  21968   CG GLU J1015      15.843 100.524 136.022  0.00  0.00           C 0
+ATOM  21869   OG SER J1002      18.179  96.588 135.543  0.75  4.29           O 0
+ATOM  21854  OG1 THR J1000      14.607  92.357 131.415  0.50  9.64           O 0
+ATOM  21976    N VAL J1017      12.851  96.854 131.896  0.57  1.09           N 0
+ATOM  21868   CB SER J1002      18.072  95.345 134.870  0.00  0.00           C 0
+ATOM  21982  CG2 VAL J1017      14.375  97.824 129.232  0.00  0.00           C 0
+ATOM  21980   CB VAL J1017      13.350  96.733 129.487  0.00  0.00           C 0
+ATOM  21975    O GLY J1016      12.857  98.965 132.698  0.00  0.00           O 0
+ATOM  22071   NE ARG J1029      16.763 103.267 131.690  0.88  5.47           N 0
+ATOM  22069   CG ARG J1029      14.872 102.597 130.227  0.00  0.00           C 0
+ATOM  21974    C GLY J1016      13.036  97.755 132.852  0.00  0.00           C 0
+ATOM  21969   CD GLU J1015      17.209 101.049 135.658  0.00  0.00           C 0
+ATOM  21852    O THR J1000      13.049  94.240 133.182  0.00  0.00           O 0
+TER
+END

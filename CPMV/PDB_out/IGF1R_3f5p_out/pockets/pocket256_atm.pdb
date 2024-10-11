@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   256:
+HEADER 0  - Pocket Score                      : -0.0640
+HEADER 1  - Drug Score                        : 0.0018
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.7136
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5116
+HEADER 5  - Mean B-factor of pocket residues  : 0.5145
+HEADER 6  - Hydrophobicity Score              : -23.7143
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 237.9118
+HEADER 10  -Pocket volume (convex hull)       : 7.2324
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM  14175    O TYR F1251      60.931 169.650 162.404  0.65  1.07           O 0
+ATOM  13618   CB GLU F1182      55.109 169.527 163.649  0.00  0.00           C 0
+ATOM  14181  CE2 TYR F1251      61.364 170.181 166.371  0.00  0.00           C 0
+ATOM  14198   CD PRO F1253      58.955 171.576 160.877  0.00  0.00           C 0
+ATOM  13645   NZ LYS F1185      56.798 172.709 169.693  0.00  0.00           N 0
+ATOM  13615   CA GLU F1182      54.990 168.578 164.858  0.00  0.00           C 0
+ATOM  13653  OD2 ASP F1186      52.587 172.082 166.759  0.84  6.43           O 0
+ATOM  13644   CE LYS F1185      55.514 171.973 169.922  0.00  0.00           C 0
+ATOM  13643   CD LYS F1185      55.766 170.544 170.389  0.00  0.00           C 0
+ATOM  14185   CA ASN F1252      61.826 171.897 161.031  0.00  0.00           C 0
+ATOM  14179  CD2 TYR F1251      62.229 170.166 165.281  0.00  0.00           C 0
+ATOM  14188   CB ASN F1252      62.672 173.181 160.910  0.00  0.00           C 0
+ATOM  14183   OH TYR F1251      60.265 168.970 168.131  0.44  5.36           O 0
+ATOM  13610    O PRO F1181      55.496 166.816 166.907  0.70  2.14           O 0
+ATOM  13614    N GLU F1182      55.986 167.510 164.823  0.77  1.09           N 0
+ATOM  13621  OE1 GLU F1182      57.127 168.284 162.307  0.62  1.07           O 0
+TER
+END

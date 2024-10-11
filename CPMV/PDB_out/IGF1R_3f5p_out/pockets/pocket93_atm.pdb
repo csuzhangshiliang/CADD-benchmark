@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    93:
+HEADER 0  - Pocket Score                      : 0.0365
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.6027
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4197
+HEADER 5  - Mean B-factor of pocket residues  : 0.3565
+HEADER 6  - Hydrophobicity Score              : 10.6250
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 73.0103
+HEADER 10  -Pocket volume (convex hull)       : 0.3029
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4375
+ATOM  35168   OG SER S1193     -31.242 139.718 154.620  0.80  1.07           O 0
+ATOM  35133  CD2 PHE S1189     -27.526 140.299 156.442  0.00  0.00           C 0
+ATOM  34681   CA ARG S1134     -26.101 142.700 153.247  0.00  0.00           C 0
+ATOM  35167   CB SER S1193     -32.216 140.629 155.091  0.00  0.00           C 0
+ATOM  35203   OG SER S1197     -30.643 146.263 154.124  0.67  4.29           O 0
+ATOM  34683    O ARG S1134     -26.105 144.491 154.847  0.39  3.21           O 0
+ATOM  35135  CE2 PHE S1189     -27.133 141.138 157.469  0.00  0.00           C 0
+ATOM  35089   OG SER S1183     -30.970 140.544 158.360  0.62  1.07           O 0
+ATOM  35165    C SER S1193     -32.657 142.237 153.106  0.00  0.00           C 0
+ATOM  35175  OD1 ASP S1194     -28.896 142.427 151.008  0.55  1.07           O 0
+ATOM  35062    N SER S1180     -32.499 144.132 158.817  0.00  0.00           N 0
+ATOM  35055   CA MET S1179     -30.697 145.720 159.102  0.00  0.00           C 0
+ATOM  35059   CG MET S1179     -28.362 145.037 159.946  0.00  0.00           C 0
+TER
+END

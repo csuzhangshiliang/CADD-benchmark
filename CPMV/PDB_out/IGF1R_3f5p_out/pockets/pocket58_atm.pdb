@@ -1,0 +1,47 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    58:
+HEADER 0  - Pocket Score                      : 0.0895
+HEADER 1  - Drug Score                        : 0.0136
+HEADER 2  - Number of alpha spheres           :    35
+HEADER 3  - Mean alpha-sphere radius          : 3.9499
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6121
+HEADER 5  - Mean B-factor of pocket residues  : 0.5894
+HEADER 6  - Hydrophobicity Score              : 20.9091
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.6364
+HEADER 9  - Pocket volume (Monte Carlo)       : 449.0463
+HEADER 10  -Pocket volume (convex hull)       : 34.2120
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.4857
+ATOM  29470   CD ARG L1064      41.270  32.518 119.398  0.00  0.00           C 0
+ATOM  29473  NH1 ARG L1064      41.879  31.344 121.873  0.61  7.66           N 0
+ATOM  29423  ND2 ASN L1058      44.381  34.384 120.364  0.52  5.47           N 0
+ATOM  29436  ND1 HIS L1060      38.287  39.275 121.266  0.70  5.47           N 0
+ATOM  29185  CG2 THR L1028      34.079  27.684 122.124  0.00  0.00           C 0
+ATOM  29587   CG GLU L1080      35.854  32.137 116.841  0.00  0.00           C 0
+ATOM  29136  CG2 VAL L1022      38.060  28.705 123.526  0.00  0.00           C 0
+ATOM  29586   CB GLU L1080      36.692  30.887 116.881  0.00  0.00           C 0
+ATOM  29469   CG ARG L1064      40.778  31.955 118.073  0.00  0.00           C 0
+ATOM  29588   CD GLU L1080      36.672  33.352 117.245  0.00  0.00           C 0
+ATOM  29590  OE2 GLU L1080      37.902  33.357 116.996  0.85  2.14           O 0
+ATOM  29489  CD1 LEU L1066      37.407  27.251 119.473  0.00  0.00           C 0
+ATOM  29434   CB HIS L1060      40.291  40.260 120.083  0.00  0.00           C 0
+ATOM  29431   CA HIS L1060      40.691  39.177 119.088  0.00  0.00           C 0
+ATOM  30058   NZ LYS L1150      36.879  36.658 117.759  0.49  4.37           N 0
+ATOM  29427    O CYS L1059      42.134  37.148 117.894  0.56  3.21           O 0
+ATOM  29589  OE1 GLU L1080      36.096  34.295 117.822  0.57  9.64           O 0
+ATOM  29594    O LEU L1081      31.915  32.228 116.361  0.00  0.00           O 0
+ATOM  29438  CE1 HIS L1060      37.004  39.520 121.435  0.00  0.00           C 0
+ATOM  29189    O ARG L1029      32.446  27.761 119.150  0.62  7.50           O 0
+ATOM  29430    N HIS L1060      42.114  39.200 118.825  0.70  3.28           N 0
+ATOM  29419    O ASN L1058      45.968  37.065 119.598  0.40  2.14           O 0
+ATOM  29426    C CYS L1059      42.719  38.187 118.215  0.00  0.00           C 0
+ATOM  29591    N LEU L1081      33.586  29.791 116.289  0.00  0.00           N 0
+ATOM  29490  CD2 LEU L1066      39.584  28.365 119.954  0.00  0.00           C 0
+TER
+END

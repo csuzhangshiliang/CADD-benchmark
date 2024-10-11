@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0555
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0199
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6617
+HEADER 5  - Mean B-factor of pocket residues  : 0.2976
+HEADER 6  - Hydrophobicity Score              : 1.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 309.5146
+HEADER 10  -Pocket volume (convex hull)       : 11.2786
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5556
+ATOM   2249  NE2 GLN A 919      30.662  21.918  70.334  0.00  0.00           N 0
+ATOM   2247   CD GLN A 919      31.181  21.658  69.135  0.00  0.00           C 0
+ATOM   2280  CD1 LEU A 923      33.498  27.316  65.790  0.00  0.00           C 0
+ATOM   2248  OE1 GLN A 919      32.314  21.226  68.986  0.63  3.21           O 0
+ATOM   2211   CB PRO A 915      35.238  22.236  66.958  0.00  0.00           C 0
+ATOM   2190    O LYS A 913      38.539  21.254  71.378  0.40  9.64           O 0
+ATOM   2128   CB THR A 905      39.768  24.637  68.208  0.00  0.00           C 0
+ATOM   2130  CG2 THR A 905      39.819  25.987  68.915  0.00  0.00           C 0
+ATOM   2207    N PRO A 915      36.756  20.784  68.006  0.00  0.00           N 0
+ATOM   2129  OG1 THR A 905      39.037  24.771  66.985  0.74  5.36           O 0
+ATOM   2208   CA PRO A 915      35.323  20.931  67.750  0.00  0.00           C 0
+ATOM   2199    O ARG A 914      36.347  19.276  69.601  0.42  5.36           O 0
+ATOM   2245   CB GLN A 919      30.947  22.787  66.883  0.00  0.00           C 0
+ATOM   2281  CD2 LEU A 923      31.977  29.209  66.538  0.00  0.00           C 0
+ATOM   2279   CG LEU A 923      32.178  28.035  65.547  0.00  0.00           C 0
+ATOM   2272  OE1 GLN A 922      26.333  26.129  67.092  0.54  7.50           O 0
+ATOM   2246   CG GLN A 919      30.288  21.910  67.949  0.00  0.00           C 0
+ATOM   2244    O GLN A 919      30.435  25.134  64.632  0.00  0.00           O 0
+ATOM   2213   CD PRO A 915      37.559  21.642  67.117  0.00  0.00           C 0
+TER
+END

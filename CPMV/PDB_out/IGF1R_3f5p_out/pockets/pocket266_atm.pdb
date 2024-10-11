@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   266:
+HEADER 0  - Pocket Score                      : -0.0687
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9549
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5591
+HEADER 5  - Mean B-factor of pocket residues  : 0.6713
+HEADER 6  - Hydrophobicity Score              : 23.2222
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 292.0771
+HEADER 10  -Pocket volume (convex hull)       : 13.6684
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2727
+ATOM  24837  OE1 GLU K1080     107.369  50.083 118.068  0.56  6.43           O 0
+ATOM  25306   NZ LYS K1150     106.348  47.396 118.199  0.47  7.66           N 0
+ATOM  24721  NH1 ARG K1064     101.535  51.322 121.869  0.65  9.84           N 0
+ATOM  24722  NH2 ARG K1064     101.288  49.341 120.719  0.63  8.75           N 0
+ATOM  24684  ND1 HIS K1060     105.234  44.926 121.468  0.56  8.75           N 0
+ATOM  24437    O ARG K1029     111.006  56.416 119.504  0.62  5.36           O 0
+ATOM  24834   CB GLU K1080     106.883  53.252 117.381  0.00  0.00           C 0
+ATOM  24842    O LEU K1081     111.396  51.983 116.714  0.31  9.64           O 0
+ATOM  24717   CG ARG K1064     101.900  53.202 118.222  0.00  0.00           C 0
+ATOM  24738  CD2 LEU K1066     103.685  55.862 120.128  0.00  0.00           C 0
+ATOM  24836   CD GLU K1080     106.640  50.746 117.299  0.00  0.00           C 0
+ATOM  24686  CE1 HIS K1060     106.497  44.583 121.621  0.00  0.00           C 0
+ATOM  24839    N LEU K1081     109.926  54.476 116.684  0.00  0.00           N 0
+ATOM  24718   CD ARG K1064     101.155  52.790 119.485  0.00  0.00           C 0
+ATOM  24838  OE2 GLU K1080     105.449  50.438 117.056  0.79  1.07           O 0
+ATOM  24719   NE ARG K1064     101.139  51.339 119.601  0.00  0.00           N 0
+ATOM  24720   CZ ARG K1064     101.317  50.668 120.732  0.00  0.00           C 0
+ATOM  24384  CG2 VAL K1022     105.265  55.444 123.765  0.00  0.00           C 0
+ATOM  24737  CD1 LEU K1066     105.935  56.826 119.595  0.00  0.00           C 0
+ATOM  24433  CG2 THR K1028     109.144  56.511 122.644  0.00  0.00           C 0
+TER
+END

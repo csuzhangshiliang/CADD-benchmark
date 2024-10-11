@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0231
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.0428
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5641
+HEADER 5  - Mean B-factor of pocket residues  : 0.5065
+HEADER 6  - Hydrophobicity Score              : 14.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 279.4164
+HEADER 10  -Pocket volume (convex hull)       : 4.7841
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2273
+ATOM    924   CB GLU A 423      37.909   8.337  33.684  0.00  0.00           C 0
+ATOM    918  CG1 VAL A 422      40.594   5.087  34.206  0.00  0.00           C 0
+ATOM    904    O GLY A 420      37.417   2.705  30.619  0.63  5.36           O 0
+ATOM    928  OE2 GLU A 423      41.188   8.704  32.306  0.87  5.36           O 0
+ATOM   1709    O LYS A 520      37.914   5.959  26.497  0.58  5.36           O 0
+ATOM   1739   CB GLU A 523      40.515   6.726  24.480  0.00  0.00           C 0
+ATOM   1742  OE1 GLU A 523      41.212   9.225  25.805  0.76  9.64           O 0
+ATOM   1713   CE LYS A 520      39.048  10.307  28.801  0.00  0.00           C 0
+ATOM   1710   CB LYS A 520      36.581   8.592  27.912  0.00  0.00           C 0
+ATOM    926   CD GLU A 423      40.097   9.158  32.719  0.00  0.00           C 0
+ATOM   1748   CB HIS A 524      39.678   2.092  26.877  0.00  0.00           C 0
+ATOM    929    N ILE A 424      35.345   6.618  33.197  0.00  0.00           N 0
+ATOM    935  CG2 ILE A 424      34.640   6.935  30.395  0.00  0.00           C 0
+ATOM    920    N GLU A 423      37.846   6.055  34.570  0.00  0.00           N 0
+ATOM    902   CA GLY A 420      38.983   0.908  30.642  0.00  0.00           C 0
+ATOM   1751  CD2 HIS A 524      41.192   0.375  28.104  0.00  0.00           C 0
+ATOM   1744    N HIS A 524      40.021   3.699  25.042  0.70  1.09           N 0
+ATOM   1737    C GLU A 523      40.717   4.260  24.060  0.00  0.00           C 0
+ATOM   1738    O GLU A 523      41.733   3.748  23.594  0.76  4.29           O 0
+ATOM   1745   CA HIS A 524      40.455   2.427  25.607  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.1086
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.5109
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4266
+HEADER 5  - Mean B-factor of pocket residues  : 0.0614
+HEADER 6  - Hydrophobicity Score              : 15.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 70.4268
+HEADER 10  -Pocket volume (convex hull)       : 0.2946
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1579  CE2 PHE A1031      -3.962  -1.490  12.178  0.00  0.00           C 0
+ATOM   1639   OG SER A1039      -0.278  -1.016  17.984  0.55  2.14           O 0
+ATOM   1498  CD1 TYR A1021      -0.655  -3.944  13.612  0.00  0.00           C 0
+ATOM   1105    O ARG A 975       0.197   0.741  12.879  0.50  1.07           O 0
+ATOM   1530   OG SER A1025      -6.018  -2.936  14.846  0.00  0.00           O 0
+ATOM   1602    O SER A1035      -3.342  -0.116  19.008  0.58  1.07           O 0
+ATOM   1604   OG SER A1035      -5.910   0.605  16.330  0.00  0.00           O 0
+ATOM   1603   CB SER A1035      -6.049  -0.420  17.298  0.00  0.00           C 0
+ATOM   1103   CA ARG A 975      -1.251   2.612  13.255  0.00  0.00           C 0
+ATOM   1611  OD1 ASP A1036      -2.040   3.787  16.632  0.50  1.07           O 0
+ATOM   1577  CD2 PHE A1031      -4.682  -0.390  12.645  0.00  0.00           C 0
+ATOM   1504    N ALA A1022      -3.434  -4.829  17.451  0.00  0.00           N 0
+ATOM   1493   CA TYR A1021      -1.376  -5.117  16.208  0.00  0.00           C 0
+TER
+END

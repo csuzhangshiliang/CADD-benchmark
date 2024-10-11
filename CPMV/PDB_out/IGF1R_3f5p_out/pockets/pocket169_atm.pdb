@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   169:
+HEADER 0  - Pocket Score                      : -0.0130
+HEADER 1  - Drug Score                        : 0.0026
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8682
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5231
+HEADER 5  - Mean B-factor of pocket residues  : 0.3513
+HEADER 6  - Hydrophobicity Score              : 41.8750
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 222.2409
+HEADER 10  -Pocket volume (convex hull)       : 9.3398
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4286
+ATOM   8338  OD1 ASN D1127     -16.645 122.543 102.061  0.69  2.14           O 0
+ATOM   8336   CB ASN D1127     -15.649 121.128 103.741  0.00  0.00           C 0
+ATOM   8859  OG1 THR D1191     -13.318 123.748  99.794  0.52  5.36           O 0
+ATOM   9409   CB SER D1258     -13.814 128.518 104.249  0.00  0.00           C 0
+ATOM   9427   CG LEU D1260     -15.024 126.538 109.178  0.00  0.00           C 0
+ATOM   9428  CD1 LEU D1260     -13.765 126.143 109.932  0.00  0.00           C 0
+ATOM   8310    O ALA D1124     -16.970 121.519 107.841  0.56  2.14           O 0
+ATOM   8308   CA ALA D1124     -18.569 123.145 107.119  0.00  0.00           C 0
+ATOM   9410   OG SER D1258     -13.939 129.294 105.429  0.68  7.50           O 0
+ATOM   9426   CB LEU D1260     -14.965 127.991 108.664  0.00  0.00           C 0
+ATOM   9411    N PHE D1259     -16.774 127.777 104.200  0.77  3.28           N 0
+ATOM   9415   CB PHE D1259     -18.616 126.280 104.918  0.00  0.00           C 0
+ATOM   9406   CA SER D1258     -14.861 128.913 103.220  0.00  0.00           C 0
+ATOM   9422    N LEU D1260     -16.608 128.096 106.819  0.85  1.09           N 0
+ATOM   8341   CA ALA D1128     -14.108 119.179 107.649  0.00  0.00           C 0
+ATOM   8344   CB ALA D1128     -14.611 119.678 108.998  0.00  0.00           C 0
+ATOM   8340    N ALA D1128     -15.058 119.486 106.585  0.00  0.00           N 0
+ATOM   8893  CG2 VAL D1195     -17.453 127.245  99.759  0.00  0.00           C 0
+TER
+END

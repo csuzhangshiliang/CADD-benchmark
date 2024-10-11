@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   273:
+HEADER 0  - Pocket Score                      : -0.0748
+HEADER 1  - Drug Score                        : 0.0115
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8561
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6137
+HEADER 5  - Mean B-factor of pocket residues  : 0.4342
+HEADER 6  - Hydrophobicity Score              : 8.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 228.0263
+HEADER 10  -Pocket volume (convex hull)       : 8.4162
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.8421
+ATOM  28534   CG PRO M1253      60.941  21.835  95.893  0.00  0.00           C 0
+ATOM  27956   CG GLU M1182      64.552  20.807  93.864  0.00  0.00           C 0
+ATOM  28019  CG2 THR M1190      66.949  24.211  98.498  0.00  0.00           C 0
+ATOM  27959  OE2 GLU M1182      63.822  19.739  95.869  0.63  1.07           O 0
+ATOM  28018  OG1 THR M1190      65.807  22.367  99.517  0.59  1.07           O 0
+ATOM  28000  CG1 VAL M1188      67.924  24.904  94.414  0.00  0.00           C 0
+ATOM  27955   CB GLU M1182      64.000  21.184  92.513  0.00  0.00           C 0
+ATOM  28001  CG2 VAL M1188      68.205  24.883  91.927  0.00  0.00           C 0
+ATOM  27999   CB VAL M1188      68.208  24.047  93.194  0.00  0.00           C 0
+ATOM  28533   CB PRO M1253      60.968  21.820  97.391  0.00  0.00           C 0
+ATOM  28034  CD2 TYR M1192      62.908  23.573 100.355  0.00  0.00           C 0
+ATOM  28036  CE2 TYR M1192      62.541  24.747 100.990  0.00  0.00           C 0
+ATOM  28541   CG LYS M1254      58.444  25.785  99.565  0.00  0.00           C 0
+ATOM  28542   CD LYS M1254      57.938  26.905  98.693  0.00  0.00           C 0
+ATOM  28535   CD PRO M1253      59.515  22.005  95.491  0.00  0.00           C 0
+ATOM  28543   CE LYS M1254      57.047  26.337  97.598  0.00  0.00           C 0
+TER
+END

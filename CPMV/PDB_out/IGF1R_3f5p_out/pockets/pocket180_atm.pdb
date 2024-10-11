@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   180:
+HEADER 0  - Pocket Score                      : -0.0171
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9074
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5099
+HEADER 5  - Mean B-factor of pocket residues  : 0.5731
+HEADER 6  - Hydrophobicity Score              : -7.3750
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 246.4471
+HEADER 10  -Pocket volume (convex hull)       : 3.0169
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2353
+ATOM  28159  CG2 THR M1207      62.231  -1.591  98.499  0.00  0.00           C 0
+ATOM  28181  OE2 GLU M1210      63.546  -5.936  95.944  0.65  9.64           O 0
+ATOM  28372    N ASP M1235      56.789  -4.301  97.826  0.63  4.37           N 0
+ATOM  28180  OE1 GLU M1210      63.443  -3.965  94.955  0.71  6.43           O 0
+ATOM  28157   CB THR M1207      63.391  -2.517  98.798  0.00  0.00           C 0
+ATOM  28366   CA PRO M1234      57.549  -2.003  98.008  0.00  0.00           C 0
+ATOM  28128  CZ2 TRP M1203      62.155   0.385  95.336  0.00  0.00           C 0
+ATOM  28359    O LYS M1233      55.588  -1.177  96.163  0.58  7.50           O 0
+ATOM  28369   CB PRO M1234      58.600  -1.799  99.110  0.00  0.00           C 0
+ATOM  28376   CB ASP M1235      56.601  -6.726  97.530  0.00  0.00           C 0
+ATOM  28375    O ASP M1235      57.286  -5.661 100.311  0.37  3.21           O 0
+ATOM  28154   CA THR M1207      63.240  -3.156 100.208  0.00  0.00           C 0
+ATOM  28156    O THR M1207      64.775  -4.957  99.759  0.40  3.21           O 0
+ATOM  28151    O ALA M1206      61.329  -3.338 102.168  0.62  9.64           O 0
+ATOM  28351    O ASP M1232      57.522   1.005  95.497  0.54  4.29           O 0
+TER
+END

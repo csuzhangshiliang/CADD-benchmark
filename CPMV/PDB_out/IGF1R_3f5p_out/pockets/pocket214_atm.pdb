@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   214:
+HEADER 0  - Pocket Score                      : -0.0375
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8300
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4586
+HEADER 5  - Mean B-factor of pocket residues  : 0.6691
+HEADER 6  - Hydrophobicity Score              : 18.3333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 181.0340
+HEADER 10  -Pocket volume (convex hull)       : 4.2266
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2778
+ATOM   8854    N THR D1191     -14.285 121.744  97.626  0.74  1.09           N 0
+ATOM   8859  OG1 THR D1191     -13.318 123.748  99.794  0.52  5.36           O 0
+ATOM   8860  CG2 THR D1191     -13.750 121.481 100.525  0.00  0.00           C 0
+ATOM   8631    O ASP D1164      -9.863 119.113  96.446  0.23  7.50           O 0
+ATOM   8871   CZ TYR D1192      -9.825 125.827  97.681  0.00  0.00           C 0
+ATOM   8870  CE2 TYR D1192      -9.909 125.343  96.391  0.00  0.00           C 0
+ATOM   8872   OH TYR D1192      -8.626 125.750  98.361  0.00  0.00           O 0
+ATOM   8634  OD1 ASP D1164      -8.271 117.697 100.633  0.00  0.00           O 0
+ATOM   8360   CE LYS D1130      -9.377 117.694 103.865  0.00  0.00           C 0
+ATOM   8633   CG ASP D1164      -7.651 118.481  99.874  0.00  0.00           C 0
+ATOM   8599  CD1 ILE D1160     -13.073 117.232  99.499  0.00  0.00           C 0
+ATOM   8635  OD2 ASP D1164      -6.643 119.119 100.233  0.00  0.00           O 0
+ATOM   8851   CB THR D1190     -12.753 121.770  95.028  0.00  0.00           C 0
+ATOM   8632   CB ASP D1164      -8.159 118.672  98.461  0.00  0.00           C 0
+TER
+END

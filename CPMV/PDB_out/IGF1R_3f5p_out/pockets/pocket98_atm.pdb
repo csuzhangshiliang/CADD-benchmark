@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    98:
+HEADER 0  - Pocket Score                      : 0.0334
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.6661
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4743
+HEADER 5  - Mean B-factor of pocket residues  : 0.3374
+HEADER 6  - Hydrophobicity Score              : 45.1111
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 207.5130
+HEADER 10  -Pocket volume (convex hull)       : 13.3603
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0952
+ATOM  33085  CD1 LEU R1230      88.678  74.137  93.630  0.00  0.00           C 0
+ATOM  33255  NE2 GLN R1250      90.681  67.308  97.196  0.71  9.84           N 0
+ATOM  33254  OE1 GLN R1250      90.941  69.050  98.601  0.68  4.29           O 0
+ATOM  33236    O TRP R1249      86.192  69.857  95.661  0.67  1.07           O 0
+ATOM  33256    N TYR R1251      87.369  67.093  94.927  0.00  0.00           N 0
+ATOM  33248   CA GLN R1250      87.636  68.080  97.136  0.00  0.00           C 0
+ATOM  33074    O GLY R1228      87.742  72.173  89.759  0.61  6.43           O 0
+ATOM  33260   CB TYR R1251      87.442  66.264  92.624  0.00  0.00           C 0
+ATOM  33211    O ARG R1246      88.444  71.696  99.145  0.67  1.07           O 0
+ATOM  33218  NH2 ARG R1246      94.072  74.284  96.898  0.00  0.00           N 0
+ATOM  33262  CD1 TYR R1251      85.981  66.999  90.720  0.00  0.00           C 0
+ATOM  33078    O GLY R1229      85.343  73.443  90.742  0.00  0.00           O 0
+ATOM  32820  CH2 TRP R1196      82.679  71.207  93.789  0.00  0.00           C 0
+ATOM  33072   CA GLY R1228      86.803  70.345  88.527  0.00  0.00           C 0
+ATOM  33086  CD2 LEU R1230      86.251  73.571  93.799  0.00  0.00           C 0
+ATOM  33215   NE ARG R1246      92.278  75.357  97.870  0.72  4.37           N 0
+ATOM  33212   CB ARG R1246      89.989  74.489  99.633  0.00  0.00           C 0
+ATOM  32819  CZ3 TRP R1196      83.088  70.246  94.725  0.00  0.00           C 0
+ATOM  33050    O VAL R1225      83.177  70.185  88.746  0.00  0.00           O 0
+TER
+END

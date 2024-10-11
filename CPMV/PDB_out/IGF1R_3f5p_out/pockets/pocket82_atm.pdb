@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    82:
+HEADER 0  - Pocket Score                      : 0.0539
+HEADER 1  - Drug Score                        : 0.0018
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9367
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6100
+HEADER 5  - Mean B-factor of pocket residues  : 0.4524
+HEADER 6  - Hydrophobicity Score              : -20.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 303.2455
+HEADER 10  -Pocket volume (convex hull)       : 12.8663
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5789
+ATOM  18467   CD LYS H1185      18.951  95.503  81.957  0.00  0.00           C 0
+ATOM  19007   OH TYR H1251      20.303  90.952  84.036  0.86  2.14           O 0
+ATOM  18442   CB GLU H1182      19.913  96.194  88.464  0.00  0.00           C 0
+ATOM  18469   NZ LYS H1185      16.801  94.298  81.603  0.55  4.37           N 0
+ATOM  18477  OD2 ASP H1186      17.233  98.633  84.976  0.80  9.64           O 0
+ATOM  19005  CE2 TYR H1251      19.220  89.958  85.904  0.00  0.00           C 0
+ATOM  18445  OE1 GLU H1182      21.221  94.169  89.913  0.00  0.00           O 0
+ATOM  18999    O TYR H1251      19.719  90.430  89.902  0.56  1.07           O 0
+ATOM  18439   CA GLU H1182      20.903  96.242  87.287  0.00  0.00           C 0
+ATOM  19022   CD PRO H1253      17.768  92.296  91.379  0.00  0.00           C 0
+ATOM  18438    N GLU H1182      21.915  95.195  87.404  0.00  0.00           N 0
+ATOM  19015  ND2 ASN H1252      13.841  88.872  91.692  0.00  0.00           N 0
+ATOM  19013   CG ASN H1252      15.027  89.351  92.048  0.00  0.00           C 0
+ATOM  19014  OD1 ASN H1252      15.151  90.348  92.763  0.00  0.00           O 0
+ATOM  19003  CD2 TYR H1251      19.271  89.117  87.013  0.00  0.00           C 0
+ATOM  19009   CA ASN H1252      17.481  89.468  91.279  0.00  0.00           C 0
+ATOM  19012   CB ASN H1252      16.253  88.578  91.534  0.00  0.00           C 0
+TER
+END

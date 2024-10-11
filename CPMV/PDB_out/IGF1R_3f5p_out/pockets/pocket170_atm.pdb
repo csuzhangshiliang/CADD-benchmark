@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   170:
+HEADER 0  - Pocket Score                      : -0.0134
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9809
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5525
+HEADER 5  - Mean B-factor of pocket residues  : 0.9600
+HEADER 6  - Hydrophobicity Score              : 33.5556
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 280.8442
+HEADER 10  -Pocket volume (convex hull)       : 9.5117
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM  33873    O VAL S1021     -11.773 147.673 127.574  0.00  0.00           O 0
+ATOM  33663    O GLU S 993      -4.768 143.374 131.292  0.00  0.00           O 0
+ATOM  34233    O LEU S1066     -10.751 146.463 132.802  0.60  6.43           O 0
+ATOM  33640    O GLU S 991      -8.838 140.192 131.146  0.00  0.00           O 0
+ATOM  33649    O TRP S 992      -7.053 143.777 133.558  0.68  2.14           O 0
+ATOM  33674  CG1 VAL S 994      -5.886 146.795 132.827  0.00  0.00           C 0
+ATOM  33673   CB VAL S 994      -4.958 146.954 131.649  0.00  0.00           C 0
+ATOM  33874   CB VAL S1021      -9.889 149.716 129.441  0.00  0.00           C 0
+ATOM  33871   CA VAL S1021     -10.010 149.269 127.951  0.00  0.00           C 0
+ATOM  33875  CG1 VAL S1021      -8.460 150.135 129.762  0.00  0.00           C 0
+ATOM  33869    O GLY S1020      -8.130 148.820 125.962  0.60  4.29           O 0
+ATOM  33709   NZ LYS S 998      -4.657 148.278 125.478  0.00  0.00           N 0
+ATOM  33647   CA TRP S 992      -8.093 141.615 133.443  0.00  0.00           C 0
+ATOM  33656  CE3 TRP S 992     -11.989 142.095 134.601  0.00  0.00           C 0
+ATOM  33670   CA VAL S 994      -3.780 145.956 131.739  0.00  0.00           C 0
+ATOM  33676    N ALA S 995      -1.695 147.005 131.042  0.80  6.56           N 0
+ATOM  33707   CD LYS S 998      -3.401 149.519 127.179  0.00  0.00           C 0
+TER
+END

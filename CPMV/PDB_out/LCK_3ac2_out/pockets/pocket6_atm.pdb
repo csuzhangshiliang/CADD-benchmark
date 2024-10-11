@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.2181
+HEADER 1  - Drug Score                        : 0.0061
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9906
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6580
+HEADER 5  - Mean B-factor of pocket residues  : 0.2433
+HEADER 6  - Hydrophobicity Score              : 24.3333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 351.3247
+HEADER 10  -Pocket volume (convex hull)       : 20.2046
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 10.6667
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM   1831    O ARG A 458      23.233   6.914  19.703  0.46  5.36           O 0
+ATOM   1783  ND2 ASN A 452      24.654   3.617  15.639  0.69  8.75           N 0
+ATOM   1853  CG2 VAL A 460      27.983   6.107  20.238  0.00  0.00           C 0
+ATOM   1823  CD2 TYR A 457      23.032   1.262  18.189  0.00  0.00           C 0
+ATOM   1860   CD ARG A 461      27.499   9.010  27.807  0.00  0.00           C 0
+ATOM   1863  NH1 ARG A 461      26.113   6.574  27.929  0.00  0.00           N 0
+ATOM   1858   CB ARG A 461      28.184  10.023  25.625  0.00  0.00           C 0
+ATOM   1852  CG1 VAL A 460      29.412   7.603  21.691  0.00  0.00           C 0
+ATOM   1820   CB TYR A 457      21.589   3.234  18.752  0.00  0.00           C 0
+ATOM   1822  CD1 TYR A 457      21.602   1.081  20.091  0.00  0.00           C 0
+ATOM   1821   CG TYR A 457      22.059   1.821  19.005  0.00  0.00           C 0
+ATOM   1826   CZ TYR A 457      23.054  -0.770  19.488  0.00  0.00           C 0
+ATOM   1825  CE2 TYR A 457      23.493  -0.045  18.398  0.00  0.00           C 0
+ATOM   1859   CG ARG A 461      27.045   9.447  26.407  0.00  0.00           C 0
+ATOM   1854    N ARG A 461      27.414   9.424  23.369  0.00  0.00           N 0
+ATOM   1848   CA VAL A 460      26.994   8.218  21.293  0.00  0.00           C 0
+ATOM   1938   OH TYR A 470      23.608   8.796  23.947  0.42  9.64           O 0
+ATOM   1828    N ARG A 458      20.809   6.013  19.989  0.00  0.00           N 0
+ATOM   1817   CA TYR A 457      20.348   3.676  19.503  0.00  0.00           C 0
+TER
+END

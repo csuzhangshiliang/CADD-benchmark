@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    89:
+HEADER 0  - Pocket Score                      : 0.0424
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9060
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6016
+HEADER 5  - Mean B-factor of pocket residues  : 0.8063
+HEADER 6  - Hydrophobicity Score              : 33.5556
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 324.8232
+HEADER 10  -Pocket volume (convex hull)       : 18.2746
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2778
+ATOM  24164    O GLU K 993      98.557  65.263 120.783  0.00  0.00           O 0
+ATOM  24208   CD LYS K 998     104.565  67.653 125.421  0.00  0.00           C 0
+ATOM  24174   CB VAL K 994     101.816  65.627 120.562  0.00  0.00           C 0
+ATOM  24171   CA VAL K 994     100.850  66.815 120.481  0.00  0.00           C 0
+ATOM  24734    O LEU K1066     101.549  59.932 119.669  0.52  7.50           O 0
+ATOM  24175  CG1 VAL K 994     101.693  64.758 119.323  0.00  0.00           C 0
+ATOM  24370    O GLY K1020     103.411  62.090 126.483  0.00  0.00           O 0
+ATOM  24150    O TRP K 992      98.454  63.398 118.212  0.00  0.00           O 0
+ATOM  24141    O GLU K 991      94.901  61.611 120.834  0.00  0.00           O 0
+ATOM  24374    O VAL K1021     102.739  58.413 123.907  0.00  0.00           O 0
+ATOM  24372   CA VAL K1021     103.879  60.489 124.270  0.00  0.00           C 0
+ATOM  24375   CB VAL K1021     104.212  60.757 122.787  0.00  0.00           C 0
+ATOM  24149    C TRP K 992      97.279  63.599 118.482  0.00  0.00           C 0
+ATOM  24376  CG1 VAL K1021     104.327  62.251 122.531  0.00  0.00           C 0
+ATOM  24176  CG2 VAL K 994     103.243  66.117 120.755  0.00  0.00           C 0
+ATOM  24148   CA TRP K 992      96.287  62.459 118.516  0.00  0.00           C 0
+ATOM  24177    N ALA K 995     101.931  68.892 121.137  0.64  3.28           N 0
+ATOM  24157  CE3 TRP K 992      97.080  58.913 117.957  0.00  0.00           C 0
+ATOM  24159  CZ3 TRP K 992      97.209  57.575 118.250  0.00  0.00           C 0
+TER
+END

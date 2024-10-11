@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   178:
+HEADER 0  - Pocket Score                      : -0.0164
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9254
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5751
+HEADER 5  - Mean B-factor of pocket residues  : 0.3429
+HEADER 6  - Hydrophobicity Score              : 24.6000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 351.1587
+HEADER 10  -Pocket volume (convex hull)       : 10.1930
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM  20752    O GLY I1172     -34.278  90.501 163.013  0.21  6.43           O 0
+ATOM  20764    O LEU I1174     -31.268  87.548 160.482  0.48  5.36           O 0
+ATOM  20781  CG1 VAL I1176     -28.101  87.171 163.269  0.00  0.00           C 0
+ATOM  20748   NZ LYS I1171     -34.801  89.690 167.391  0.00  0.00           N 0
+ATOM  20755    C LEU I1173     -34.456  88.149 160.062  0.00  0.00           C 0
+ATOM  20754   CA LEU I1173     -35.392  88.847 161.052  0.00  0.00           C 0
+ATOM  20756    O LEU I1173     -34.616  86.960 159.800  0.22  6.43           O 0
+ATOM  21068  NE2 GLN I1211     -26.999  76.704 162.182  0.04  2.19           N 0
+ATOM  20806  CZ3 TRP I1178     -27.954  81.120 156.754  0.00  0.00           C 0
+ATOM  20789   CD ARG I1177     -25.753  80.392 161.166  0.00  0.00           C 0
+ATOM  21065   CG GLN I1211     -26.079  76.149 160.011  0.00  0.00           C 0
+ATOM  20790   NE ARG I1177     -26.438  80.039 162.407  0.16  4.37           N 0
+ATOM  20770   CA PRO I1175     -30.556  85.096 159.422  0.00  0.00           C 0
+ATOM  20773   CB PRO I1175     -30.548  83.940 158.421  0.00  0.00           C 0
+ATOM  21121  OD1 ASN I1218     -28.606  81.374 164.907  0.17  6.43           O 0
+ATOM  21122  ND2 ASN I1218     -30.470  82.130 165.904  0.00  0.00           N 0
+ATOM  20788   CG ARG I1177     -26.356  81.630 160.521  0.00  0.00           C 0
+ATOM  20776    N VAL I1176     -28.616  85.637 160.771  0.63  2.19           N 0
+ATOM  20782  CG2 VAL I1176     -26.975  84.944 163.096  0.00  0.00           C 0
+TER
+END

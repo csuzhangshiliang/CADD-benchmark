@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   136:
+HEADER 0  - Pocket Score                      : 0.0075
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.6506
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5538
+HEADER 5  - Mean B-factor of pocket residues  : 0.8290
+HEADER 6  - Hydrophobicity Score              : 25.2222
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 99.1690
+HEADER 10  -Pocket volume (convex hull)       : 0.9092
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4118
+ATOM  34166    O ASN S1058     -23.847 142.454 133.449  0.28  3.21           O 0
+ATOM  35861    O SER S1278     -31.140 144.426 131.160  0.00  0.00           O 0
+ATOM  35903   CB SER S1282     -30.789 141.002 130.153  0.00  0.00           C 0
+ATOM  35865   CA PHE S1279     -30.878 143.045 133.587  0.00  0.00           C 0
+ATOM  35904   OG SER S1282     -30.853 140.159 131.292  0.78  1.07           O 0
+ATOM  35921  OE1 GLU S1284     -26.001 138.797 131.790  0.59  5.36           O 0
+ATOM  35870  CD1 PHE S1279     -29.917 140.202 134.954  0.00  0.00           C 0
+ATOM  34172   CA CYS S1059     -24.647 144.593 134.918  0.00  0.00           C 0
+ATOM  34176   SG CYS S1059     -27.126 145.133 136.133  0.00  0.00           S 0
+ATOM  35864    N PHE S1279     -30.936 144.488 133.414  0.00  0.00           N 0
+ATOM  35868   CB PHE S1279     -30.276 142.681 134.939  0.00  0.00           C 0
+ATOM  34610  CE1 TYR S1125     -25.818 140.215 135.889  0.00  0.00           C 0
+ATOM  34608  CD1 TYR S1125     -26.935 140.763 136.486  0.00  0.00           C 0
+ATOM  35854    O VAL S1277     -28.794 147.032 131.282  0.00  0.00           O 0
+ATOM  34177    N HIS S1060     -25.349 146.655 133.893  0.60  4.37           N 0
+TER
+END

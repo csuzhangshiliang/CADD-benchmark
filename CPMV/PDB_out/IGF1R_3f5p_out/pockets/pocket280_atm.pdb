@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   280:
+HEADER 0  - Pocket Score                      : -0.0784
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7774
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5698
+HEADER 5  - Mean B-factor of pocket residues  : 0.7693
+HEADER 6  - Hydrophobicity Score              : 6.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 152.0530
+HEADER 10  -Pocket volume (convex hull)       : 2.2013
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3529
+ATOM  33851  CG2 VAL S1017      -8.420 160.118 130.365  0.00  0.00           C 0
+ATOM  33938   CG ARG S1029     -12.970 160.515 131.668  0.00  0.00           C 0
+ATOM  33940   NE ARG S1029     -13.931 162.478 132.879  0.74  7.66           N 0
+ATOM  33939   CD ARG S1029     -13.953 161.685 131.649  0.00  0.00           C 0
+ATOM  33738   OG SER S1002      -7.246 163.929 136.871  0.59  7.50           O 0
+ATOM  33840  OE2 GLU S1015     -12.174 162.662 135.288  0.00  0.00           O 0
+ATOM  33737   CB SER S1002      -6.033 163.716 136.176  0.00  0.00           C 0
+ATOM  33842   CA GLY S1016      -8.124 159.099 135.244  0.00  0.00           C 0
+ATOM  33843    C GLY S1016      -8.633 158.817 133.848  0.00  0.00           C 0
+ATOM  33837   CG GLU S1015     -10.601 161.647 136.762  0.00  0.00           C 0
+ATOM  33844    O GLY S1016      -9.814 158.980 133.516  0.00  0.00           O 0
+ATOM  33845    N VAL S1017      -7.685 158.397 133.024  0.00  0.00           N 0
+ATOM  33723  OG1 THR S1000      -3.715 160.004 132.372  0.44  5.36           O 0
+ATOM  33721    O THR S1000      -5.146 158.706 134.255  0.00  0.00           O 0
+TER
+END

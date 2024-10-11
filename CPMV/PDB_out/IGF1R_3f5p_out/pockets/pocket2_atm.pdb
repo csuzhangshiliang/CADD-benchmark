@@ -1,0 +1,65 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.5621
+HEADER 1  - Drug Score                        : 0.3515
+HEADER 2  - Number of alpha spheres           :    63
+HEADER 3  - Mean alpha-sphere radius          : 3.8924
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5117
+HEADER 5  - Mean B-factor of pocket residues  : 0.6007
+HEADER 6  - Hydrophobicity Score              : 27.3684
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.1579
+HEADER 9  - Pocket volume (Monte Carlo)       : 729.9238
+HEADER 10  -Pocket volume (convex hull)       : 200.7372
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 25.5429
+HEADER 13 - Number of apolar alpha sphere     :    35
+HEADER 14 - Proportion of apolar alpha sphere : 0.5556
+ATOM  17682    O MET H1082      45.970 104.296 107.729  0.00  0.00           O 0
+ATOM  17678  CD2 LEU H1081      46.734 108.070 109.761  0.00  0.00           C 0
+ATOM  17690    O THR H1083      49.489 103.037 108.155  0.42  3.21           O 0
+ATOM  17099  CD2 LEU H1005      50.860 109.457 106.154  0.00  0.00           C 0
+ATOM  18111   SD MET H1142      41.972 104.708 103.759  0.00  0.00           S 0
+ATOM  17709    N ASP H1086      45.035 101.814 102.419  0.70  2.19           N 0
+ATOM  17713   CB ASP H1086      43.539 101.820 100.459  0.00  0.00           C 0
+ATOM  17715  OD1 ASP H1086      45.660 102.123  99.448  0.42  8.57           O 0
+ATOM  18112   CE MET H1142      42.647 105.900 104.892  0.00  0.00           C 0
+ATOM  17100    N GLY H1006      50.564 111.575 101.150  0.00  0.00           N 0
+ATOM  17152  CG2 VAL H1013      45.511 113.076 101.895  0.00  0.00           C 0
+ATOM  17094    C LEU H1005      50.894 110.501 101.867  0.00  0.00           C 0
+ATOM  17150   CB VAL H1013      46.550 113.186 103.003  0.00  0.00           C 0
+ATOM  17107    O GLN H1007      46.179 111.596  98.225  0.39  9.64           O 0
+ATOM  17706   CA GLY H1085      46.350 102.678 104.254  0.00  0.00           C 0
+ATOM  17679    N MET H1082      44.295 106.241 109.673  0.00  0.00           N 0
+ATOM  17172  OE1 GLU H1015      52.639 109.392 110.037  0.90  2.14           O 0
+ATOM  17082  NH2 ARG H1003      54.738 107.072 108.662  0.50  8.75           N 0
+ATOM  17276  NH2 ARG H1029      51.556 106.859 113.074  0.59  3.28           N 0
+ATOM  17103    O GLY H1006      48.672 113.211 100.019  0.00  0.00           O 0
+ATOM  17096   CB LEU H1005      49.816 110.422 104.122  0.00  0.00           C 0
+ATOM  17151  CG1 VAL H1013      45.932 112.820 104.346  0.00  0.00           C 0
+ATOM  17705    N GLY H1085      46.755 102.300 105.599  0.00  0.00           N 0
+ATOM  17095    O LEU H1005      51.034 109.375 101.375  0.24  9.64           O 0
+ATOM  17288   CB ALA H1031      44.626 111.499 107.871  0.00  0.00           C 0
+ATOM  17659   CG MET H1079      39.270 112.786 107.269  0.00  0.00           C 0
+ATOM  17665    O GLU H1080      41.769 108.732 109.904  0.00  0.00           O 0
+ATOM  17297    N LYS H1033      44.103 116.946 105.877  0.00  0.00           N 0
+ATOM  17287    O ALA H1031      43.558 114.155 109.179  0.00  0.00           O 0
+ATOM  17301   CB LYS H1033      42.902 116.819 103.754  0.00  0.00           C 0
+ATOM  17688   CA THR H1083      47.907 103.861 109.732  0.00  0.00           C 0
+ATOM  17691   CB THR H1083      48.566 103.400 111.041  0.00  0.00           C 0
+ATOM  17101   CA GLY H1006      50.332 111.501  99.718  0.00  0.00           C 0
+ATOM  17658   CB MET H1079      40.147 112.047 108.273  0.00  0.00           C 0
+ATOM  17542  CG1 VAL H1063      38.549 107.207 108.340  0.00  0.00           C 0
+ATOM  17661   CE MET H1079      37.238 110.895 107.393  0.00  0.00           C 0
+ATOM  17642    O VAL H1077      41.782 116.930 107.952  0.00  0.00           O 0
+ATOM  17286    C ALA H1031      44.674 113.843 108.761  0.00  0.00           C 0
+ATOM  17098  CD1 LEU H1005      48.539 110.361 106.267  0.00  0.00           C 0
+ATOM  17171   CD GLU H1015      51.784 109.625 110.922  0.00  0.00           C 0
+ATOM  17677  CD1 LEU H1081      47.875 108.030 111.984  0.00  0.00           C 0
+ATOM  17303   CD LYS H1033      41.981 115.999 101.590  0.00  0.00           C 0
+ATOM  17102    C GLY H1006      49.221 112.417  99.244  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,71 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   305:
+HEADER 0  - Pocket Score                      : -0.1076
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    72
+HEADER 3  - Mean alpha-sphere radius          : 3.9801
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4832
+HEADER 5  - Mean B-factor of pocket residues  : 0.7111
+HEADER 6  - Hydrophobicity Score              : 6.1000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.7000
+HEADER 9  - Pocket volume (Monte Carlo)       : 701.5804
+HEADER 10  -Pocket volume (convex hull)       : 198.5886
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.4000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.1389
+ATOM  21566    O PRO I1272     -21.199  82.118 125.740  0.00  0.00           O 0
+ATOM  21592   NE ARG I1275     -18.174  87.049 125.005  0.54  1.09           N 0
+ATOM  21595  NH2 ARG I1275     -16.160  86.057 125.473  0.62  3.28           N 0
+ATOM   7148   NE ARG C1275     -16.594  86.384 121.832  0.57  2.19           N 0
+ATOM  21578   CB PHE I1274     -21.508  83.736 129.914  0.00  0.00           C 0
+ATOM  21585    N ARG I1275     -21.806  85.339 127.310  0.49  1.09           N 0
+ATOM  21649  CE1 TYR I1281     -18.671  87.964 128.850  0.00  0.00           C 0
+ATOM   7151  NH2 ARG C1275     -18.698  87.085 121.255  0.27  4.37           N 0
+ATOM   7122    O PRO C1272     -15.890  80.352 120.669  0.00  0.00           O 0
+ATOM  21522    O LYS I1267     -15.818  83.815 131.125  0.44  6.43           O 0
+ATOM  21529   CA GLU I1268     -13.116  83.417 130.777  0.00  0.00           C 0
+ATOM  21536  OE2 GLU I1268     -12.632  85.934 128.793  0.64  7.50           O 0
+ATOM   7157   CG GLU C1276      -9.847  81.805 123.906  0.00  0.00           C 0
+ATOM   7146   CG ARG C1275     -14.476  85.217 122.309  0.00  0.00           C 0
+ATOM  21589   CB ARG I1275     -20.637  86.485 125.509  0.00  0.00           C 0
+ATOM   7145   CB ARG C1275     -14.868  84.211 121.214  0.00  0.00           C 0
+ATOM   7121    C PRO C1272     -16.200  79.154 120.611  0.00  0.00           C 0
+ATOM   7126    N GLY C1273     -15.325  78.162 120.468  0.00  0.00           N 0
+ATOM   7127   CA GLY C1273     -13.883  78.381 120.478  0.00  0.00           C 0
+ATOM   7123   CB PRO C1272     -17.899  77.841 121.891  0.00  0.00           C 0
+ATOM   7113    O GLU C1271     -17.177  79.187 117.962  0.00  0.00           O 0
+ATOM   7105    O MET C1270     -19.735  79.713 117.067  0.56  5.36           O 0
+ATOM   7141    N ARG C1275     -14.175  82.911 119.243  0.47  1.09           N 0
+ATOM  21604  OE2 GLU I1276     -23.838  83.077 122.283  0.00  0.00           O 0
+ATOM  21557    O GLU I1271     -20.529  80.574 128.765  0.63  2.14           O 0
+ATOM  21549    O MET I1270     -17.458  79.902 129.889  0.74  6.43           O 0
+ATOM   7205  CE1 TYR C1281     -16.239  86.617 117.824  0.00  0.00           C 0
+ATOM   7078    O LYS C1267     -20.677  83.745 115.613  0.42  6.43           O 0
+ATOM   7087    O GLU C1268     -24.056  82.272 116.242  0.42  9.64           O 0
+ATOM   7092  OE2 GLU C1268     -23.392  86.666 117.503  0.28  4.29           O 0
+ATOM   7208   OH TYR C1281     -18.313  87.821 117.625  0.74  3.21           O 0
+ATOM   7134   CB PHE C1274     -14.798  81.329 116.760  0.00  0.00           C 0
+ATOM   7137  CD2 PHE C1274     -14.878  83.471 115.438  0.00  0.00           C 0
+ATOM  21601   CG GLU I1276     -24.865  85.133 122.918  0.00  0.00           C 0
+ATOM   7120   CA PRO C1272     -17.666  78.756 120.693  0.00  0.00           C 0
+ATOM  21531    O GLU I1268     -13.177  81.101 130.159  0.35  9.64           O 0
+ATOM   7124   CG PRO C1272     -19.044  77.035 121.493  0.00  0.00           C 0
+ATOM   7119    N PRO C1272     -18.086  77.917 119.572  0.00  0.00           N 0
+ATOM  21567   CB PRO I1272     -20.463  78.887 124.882  0.00  0.00           C 0
+ATOM  21533   CG GLU I1268     -11.080  84.206 129.427  0.00  0.00           C 0
+ATOM   7106   CB MET C1270     -18.285  80.962 114.569  0.00  0.00           C 0
+ATOM   7160  OE2 GLU C1276      -9.926  79.485 124.474  0.00  0.00           O 0
+ATOM  21569   CD PRO I1272     -19.442  77.790 126.793  0.00  0.00           C 0
+ATOM  21564   CA PRO I1272     -20.208  79.940 125.957  0.00  0.00           C 0
+ATOM  21563    N PRO I1272     -19.957  79.121 127.153  0.00  0.00           N 0
+ATOM  21568   CG PRO I1272     -19.588  77.759 125.291  0.00  0.00           C 0
+ATOM   7129    O GLY C1273     -12.488  80.306 120.226  0.00  0.00           O 0
+ATOM   7156   CB GLU C1276     -10.726  81.690 122.676  0.00  0.00           C 0
+ATOM   7152    N GLU C1276     -11.996  83.002 121.058  0.00  0.00           N 0
+TER
+END

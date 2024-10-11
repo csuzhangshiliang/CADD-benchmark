@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   223:
+HEADER 0  - Pocket Score                      : -0.0459
+HEADER 1  - Drug Score                        : 0.0299
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.7378
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4616
+HEADER 5  - Mean B-factor of pocket residues  : 0.6675
+HEADER 6  - Hydrophobicity Score              : -7.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 146.9283
+HEADER 10  -Pocket volume (convex hull)       : 5.3495
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 20.0000
+HEADER 13 - Number of apolar alpha sphere     :    21
+HEADER 14 - Proportion of apolar alpha sphere : 0.8400
+ATOM  17857   CB LEU H1109      38.660  81.059 106.962  0.00  0.00           C 0
+ATOM  31902   CB GLN R1073      37.995  74.907 109.859  0.00  0.00           C 0
+ATOM  31907    N PRO R1074      41.080  74.925 109.621  0.00  0.00           N 0
+ATOM  31912   CG PRO R1074      41.719  77.047 110.252  0.00  0.00           C 0
+ATOM  31900    C GLN R1073      40.232  73.995 109.130  0.00  0.00           C 0
+ATOM  17859  CD1 LEU H1109      36.456  80.049 107.306  0.00  0.00           C 0
+ATOM  31618    N GLU R1037      40.960  74.939 103.640  0.65  2.19           N 0
+ATOM  31908   CA PRO R1074      42.413  75.060 109.028  0.00  0.00           C 0
+ATOM  31901    O GLN R1073      40.437  73.383 108.070  0.92  1.07           O 0
+ATOM  18885   CB PRO H1238      37.570  79.133 102.719  0.00  0.00           C 0
+ATOM  31623   CG GLU R1037      37.857  73.613 104.061  0.00  0.00           C 0
+ATOM  31622   CB GLU R1037      38.649  74.383 103.037  0.00  0.00           C 0
+ATOM  17858   CG LEU H1109      37.273  80.882 106.356  0.00  0.00           C 0
+ATOM  17848   CA SER H1108      43.140  82.752 107.175  0.00  0.00           C 0
+ATOM  31911   CB PRO R1074      42.758  76.534 109.266  0.00  0.00           C 0
+ATOM  31600   CB THR R1034      46.563  78.675 108.196  0.00  0.00           C 0
+ATOM  17851   CB SER H1108      43.555  82.549 108.621  0.00  0.00           C 0
+ATOM  31601  OG1 THR R1034      46.747  79.572 107.101  0.67  3.21           O 0
+ATOM  31611   CA ASN R1036      43.043  75.924 104.388  0.00  0.00           C 0
+ATOM  31614   CB ASN R1036      42.735  77.331 103.879  0.00  0.00           C 0
+ATOM  17853    N LEU H1109      40.810  82.180 106.849  0.70  5.47           N 0
+ATOM  18886   CG PRO H1238      38.911  79.701 102.788  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,55 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   233:
+HEADER 0  - Pocket Score                      : -0.0499
+HEADER 1  - Drug Score                        : 0.0255
+HEADER 2  - Number of alpha spheres           :    43
+HEADER 3  - Mean alpha-sphere radius          : 3.8040
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5308
+HEADER 5  - Mean B-factor of pocket residues  : 0.3234
+HEADER 6  - Hydrophobicity Score              : 18.2857
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.0714
+HEADER 9  - Pocket volume (Monte Carlo)       : 397.6827
+HEADER 10  -Pocket volume (convex hull)       : 61.9934
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 15.1765
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.3953
+ATOM  28575   CB SER M1258      60.802  20.116 108.649  0.00  0.00           C 0
+ATOM  28593   CG LEU M1260      62.974  19.475 113.651  0.00  0.00           C 0
+ATOM  28594  CD1 LEU M1260      63.043  20.659 114.579  0.00  0.00           C 0
+ATOM  28576   OG SER M1258      60.140  19.850 109.879  0.56  2.14           O 0
+ATOM  28059  CG2 VAL M1195      63.216  16.786 104.315  0.00  0.00           C 0
+ATOM  28025  OG1 THR M1191      65.096  22.084 104.228  0.65  5.36           O 0
+ATOM  28033  CD1 TYR M1192      61.970  22.298 102.134  0.00  0.00           C 0
+ATOM  28567    O PRO M1257      60.089  17.609 105.344  0.79  1.07           O 0
+ATOM  28539    O LYS M1254      56.268  22.932 102.027  0.00  0.00           O 0
+ATOM  28603  OE1 GLU M1261      56.978  19.558 108.296  0.56  3.21           O 0
+ATOM  28604  OE2 GLU M1261      55.621  20.784 109.512  0.00  9.64           O 0
+ATOM  28556    O ARG M1256      57.432  19.632 104.050  0.00  0.00           O 0
+ATOM  28584  CD2 PHE M1259      65.840  16.702 107.478  0.00  0.00           C 0
+ATOM  27504  OD1 ASN M1127      67.579  19.011 106.793  0.00  0.00           O 0
+ATOM  28572   CA SER M1258      60.766  18.918 107.689  0.00  0.00           C 0
+ATOM  28035  CE1 TYR M1192      61.591  23.471 102.777  0.00  0.00           C 0
+ATOM  28571    N SER M1258      59.421  18.719 107.158  0.56  2.19           N 0
+ATOM  29355  ND2 ASN L1049      52.105  22.639 105.803  0.59  6.56           N 0
+ATOM  27502   CB ASN M1127      68.475  20.698 108.262  0.00  0.00           C 0
+ATOM  28024   CB THR M1191      66.379  21.486 104.447  0.00  0.00           C 0
+ATOM  28026  CG2 THR M1191      67.348  22.545 104.963  0.00  0.00           C 0
+ATOM  27476    O ALA M1124      68.426  19.517 112.188  0.60  3.21           O 0
+ATOM  27507   CA ALA M1128      69.671  23.006 112.061  0.00  0.00           C 0
+ATOM  27510   CB ALA M1128      69.406  22.384 113.430  0.00  0.00           C 0
+ATOM  28592   CB LEU M1260      61.542  19.120 113.270  0.00  0.00           C 0
+ATOM  28588    N LEU M1260      62.126  17.564 111.468  0.00  0.00           N 0
+ATOM  28577    N PHE M1259      62.507  17.573 108.802  0.77  2.19           N 0
+ATOM  28581   CB PHE M1259      64.519  16.325 109.563  0.00  0.00           C 0
+ATOM  27474   CA ALA M1124      67.435  17.453 111.505  0.00  0.00           C 0
+ATOM  27477   CB ALA M1124      66.371  17.082 112.507  0.00  0.00           C 0
+ATOM  27501    O ASN M1127      69.468  23.421 109.345  0.32  5.36           O 0
+ATOM  27506    N ALA M1128      69.789  21.980 111.042  0.00  0.00           N 0
+ATOM  27500    C ASN M1127      69.682  22.282 109.756  0.00  0.00           C 0
+TER
+END

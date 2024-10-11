@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   188:
+HEADER 0  - Pocket Score                      : -0.0217
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0964
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6648
+HEADER 5  - Mean B-factor of pocket residues  : 0.4363
+HEADER 6  - Hydrophobicity Score              : 3.5556
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 277.1542
+HEADER 10  -Pocket volume (convex hull)       : 9.0296
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM  17518  CE1 HIS H1060      36.708 100.904 116.685  0.00  0.00           C 0
+ATOM  18140  OD1 ASP H1146      42.620  97.885 114.740  0.00  0.00           O 0
+ATOM  18124   CB ALA H1144      42.671 100.511 112.260  0.00  0.00           C 0
+ATOM  18141  OD2 ASP H1146      42.195  97.510 116.876  0.54  9.64           O 0
+ATOM  18174   CE LYS H1150      37.911 102.133 112.551  0.00  0.00           C 0
+ATOM  18157   CB THR H1148      39.928  97.651 112.873  0.00  0.00           C 0
+ATOM  18139   CG ASP H1146      42.980  97.554 115.894  0.00  0.00           C 0
+ATOM  18134    N ASP H1146      45.624  98.371 114.345  0.73  2.19           N 0
+ATOM  18175   NZ LYS H1150      37.356 103.143 113.504  0.55  2.19           N 0
+ATOM  18158  OG1 THR H1148      40.000  96.855 114.060  0.72  6.43           O 0
+ATOM  17669  OE1 GLU H1080      39.435 104.923 113.008  0.21  9.64           O 0
+ATOM  18129   CB GLU H1145      47.517 100.892 114.229  0.00  0.00           C 0
+ATOM  18138   CB ASP H1146      44.440  97.185 116.142  0.00  0.00           C 0
+ATOM  18125    N GLU H1145      45.724 100.493 112.584  0.70  3.28           N 0
+ATOM  17674    O LEU H1081      43.657 105.964 111.823  0.00  0.00           O 0
+ATOM  17693  CG2 THR H1083      48.246 104.356 112.175  0.00  0.00           C 0
+TER
+END

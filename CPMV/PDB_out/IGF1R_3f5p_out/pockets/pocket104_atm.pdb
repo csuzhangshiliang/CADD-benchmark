@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   104:
+HEADER 0  - Pocket Score                      : 0.0316
+HEADER 1  - Drug Score                        : 0.0024
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8043
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4493
+HEADER 5  - Mean B-factor of pocket residues  : 0.8755
+HEADER 6  - Hydrophobicity Score              : 57.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 90.5998
+HEADER 10  -Pocket volume (convex hull)       : 0.5485
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.9333
+ATOM    562   CB ALA A1051      71.455  42.271 147.253  0.00  0.00           C 0
+ATOM    563    N SER A1052      68.209  42.148 147.129  0.00  0.00           N 0
+ATOM     66  CG1 VAL A 988      70.551  36.463 145.021  0.00  0.00           C 0
+ATOM    536    O LEU A1048      69.317  40.042 148.656  0.00  0.00           O 0
+ATOM     97   CG TRP A 992      69.158  39.632 139.700  0.00  0.00           C 0
+ATOM    674  CD1 LEU A1065      72.431  43.659 143.882  0.00  0.00           C 0
+ATOM    675  CD2 LEU A1065      72.405  43.119 141.460  0.00  0.00           C 0
+ATOM    561    O ALA A1051      69.005  43.696 145.714  0.00  0.00           O 0
+ATOM    588   CB LYS A1055      66.908  43.491 142.215  0.00  0.00           C 0
+ATOM     99  CD2 TRP A 992      69.022  41.036 139.466  0.00  0.00           C 0
+ATOM    693  CG1 VAL A1068      73.509  39.225 143.001  0.00  0.00           C 0
+ATOM     96   CB TRP A 992      70.406  38.852 139.669  0.00  0.00           C 0
+ATOM    564   CA SER A1052      67.029  41.860 146.310  0.00  0.00           C 0
+ATOM    560    C ALA A1051      69.120  43.041 146.745  0.00  0.00           C 0
+TER
+END

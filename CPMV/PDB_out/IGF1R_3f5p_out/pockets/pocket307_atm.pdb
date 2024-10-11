@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   307:
+HEADER 0  - Pocket Score                      : -0.1109
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0766
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5536
+HEADER 5  - Mean B-factor of pocket residues  : 0.3813
+HEADER 6  - Hydrophobicity Score              : 24.6000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 371.7960
+HEADER 10  -Pocket volume (convex hull)       : 7.3880
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM   8716  CD2 LEU D1173     -28.074 112.681  83.327  0.00  0.00           C 0
+ATOM   9078  ND2 ASN D1218     -31.199 121.417  80.587  0.00  0.00           N 0
+ATOM   8737  CG1 VAL D1176     -25.738 121.390  83.208  0.00  0.00           C 0
+ATOM   8704   NZ LYS D1171     -25.001 114.283  78.937  0.00  0.00           N 0
+ATOM   8712    O LEU D1173     -27.993 115.542  86.746  0.45  6.43           O 0
+ATOM   8710   CA LEU D1173     -26.527 114.078  85.550  0.00  0.00           C 0
+ATOM   8720    O LEU D1174     -26.200 118.278  86.028  0.41  1.07           O 0
+ATOM   8726   CA PRO D1175     -28.217 119.923  87.117  0.00  0.00           C 0
+ATOM   9077  OD1 ASN D1218     -31.070 123.433  81.562  0.81  7.50           O 0
+ATOM   8729   CB PRO D1175     -29.286 120.323  88.146  0.00  0.00           C 0
+ATOM   8708    O GLY D1172     -24.693 114.376  83.549  0.58  8.57           O 0
+ATOM   8732    N VAL D1176     -27.104 121.594  85.749  0.60  3.28           N 0
+ATOM   8738  CG2 VAL D1176     -27.138 123.452  83.376  0.00  0.00           C 0
+ATOM   9076   CG ASN D1218     -30.647 122.611  80.749  0.00  0.00           C 0
+ATOM   8744   CG ARG D1177     -29.772 125.344  85.786  0.00  0.00           C 0
+ATOM   9024  NE2 GLN D1211     -34.762 125.482  84.738  0.00  0.00           N 0
+ATOM   8746   NE ARG D1177     -31.307 125.851  83.999  0.52  1.09           N 0
+ATOM   8762  CZ3 TRP D1178     -30.947 124.024  89.559  0.00  0.00           C 0
+TER
+END

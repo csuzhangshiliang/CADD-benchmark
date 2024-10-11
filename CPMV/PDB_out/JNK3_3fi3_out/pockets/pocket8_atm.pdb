@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0628
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9994
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5378
+HEADER 5  - Mean B-factor of pocket residues  : 0.5919
+HEADER 6  - Hydrophobicity Score              : -9.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 217.1993
+HEADER 10  -Pocket volume (convex hull)       : 5.0435
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM    310   NE ARG A  88     -38.911 -41.881  -2.853  0.68  6.56           N 0
+ATOM    317    O ASN A  89     -37.381 -41.259  -7.022  0.00  0.00           O 0
+ATOM    806  OE2 GLU A 147     -37.625 -36.119  -2.722  0.61  4.29           O 0
+ATOM    313  NH2 ARG A  88     -37.239 -40.328  -2.541  0.62  4.37           N 0
+ATOM    803   CG GLU A 147     -36.007 -37.455  -3.833  0.00  0.00           C 0
+ATOM    810    O LEU A 148     -36.735 -35.985  -7.326  0.65  3.21           O 0
+ATOM    814  CD2 LEU A 148     -37.058 -38.452 -11.497  0.00  0.00           C 0
+ATOM    811   CB LEU A 148     -36.007 -38.307  -9.183  0.00  0.00           C 0
+ATOM    318   CB ASN A  89     -39.182 -40.938  -9.631  0.00  0.00           C 0
+ATOM    321  ND2 ASN A  89     -41.284 -40.340 -10.638  0.50  2.19           N 0
+ATOM    308   CG ARG A  88     -40.652 -43.463  -3.623  0.00  0.00           C 0
+ATOM    307   CB ARG A  88     -39.859 -43.699  -4.887  0.00  0.00           C 0
+ATOM    314    N ASN A  89     -39.718 -42.501  -7.808  0.78  4.37           N 0
+ATOM   1222   NZ LYS A 198     -39.877 -34.386  -5.537  0.00  0.00           N 0
+ATOM    829  OD1 ASP A 150     -39.350 -32.831 -10.086  0.77  2.14           O 0
+ATOM    812   CG LEU A 148     -36.107 -37.675 -10.579  0.00  0.00           C 0
+TER
+END

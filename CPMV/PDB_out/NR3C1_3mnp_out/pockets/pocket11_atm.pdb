@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0123
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9392
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5869
+HEADER 5  - Mean B-factor of pocket residues  : 0.6399
+HEADER 6  - Hydrophobicity Score              : 5.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 173.9116
+HEADER 10  -Pocket volume (convex hull)       : 2.4849
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM   1511   CB ARG A 710     -48.656   8.209   1.654  0.00  0.00           C 0
+ATOM   1523   CA GLY A 712     -50.213  10.967  -2.848  0.00  0.00           C 0
+ATOM   1522    N GLY A 712     -49.833   9.603  -2.496  0.55  1.09           N 0
+ATOM   1510    O ARG A 710     -50.895   7.057   0.032  0.54  5.36           O 0
+ATOM   1513   CD ARG A 710     -48.293   9.737   3.528  0.00  0.00           C 0
+ATOM   1550   CB GLN A 716     -49.515  15.387  -2.156  0.00  0.00           C 0
+ATOM   1552   CD GLN A 716     -52.010  14.993  -2.506  0.00  0.00           C 0
+ATOM   1554  NE2 GLN A 716     -53.108  15.347  -1.856  0.62  9.84           N 0
+ATOM   1553  OE1 GLN A 716     -51.886  13.899  -3.046  0.50  2.14           O 0
+ATOM   1561  OD1 ASN A 717     -46.293  11.899  -2.336  0.79  2.14           O 0
+ATOM   1592   CD ARG A 720     -46.424  13.665   4.111  0.00  0.00           C 0
+ATOM   1491  CG2 ILE A 707     -44.207  11.923   0.980  0.00  0.00           C 0
+ATOM   1488    O ILE A 707     -45.828   9.117   0.719  0.40  1.07           O 0
+ATOM   1549    O GLN A 716     -46.698  16.036  -0.659  0.79  2.14           O 0
+ATOM   1590   CB ARG A 720     -45.464  15.267   2.421  0.00  0.00           C 0
+TER
+END

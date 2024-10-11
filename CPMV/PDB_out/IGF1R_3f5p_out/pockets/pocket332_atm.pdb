@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   332:
+HEADER 0  - Pocket Score                      : -0.1689
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0694
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5040
+HEADER 5  - Mean B-factor of pocket residues  : 0.6929
+HEADER 6  - Hydrophobicity Score              : 40.8889
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 241.4068
+HEADER 10  -Pocket volume (convex hull)       : 4.6393
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.7059
+ATOM  26283   CD GLU K1269     109.857  25.239 117.846  0.00  0.00           C 0
+ATOM  24990  CD1 LEU K1109     113.599  25.262 111.907  0.00  0.00           C 0
+ATOM  26282   CG GLU K1269     110.162  26.538 117.124  0.00  0.00           C 0
+ATOM  26285  OE2 GLU K1269     110.786  24.639 118.440  0.50  8.57           O 0
+ATOM  26284  OE1 GLU K1269     108.674  24.827 117.818  0.00  0.00           O 0
+ATOM  26257  CG2 ILE K1266     105.953  27.804 113.061  0.00  0.00           C 0
+ATOM  26440  CE1 PHE M 981     105.099  23.441 111.308  0.00  0.00           C 0
+ATOM  26248    O SER K1265     104.081  25.099 114.698  0.45  8.57           O 0
+ATOM  26438  CD1 PHE M 981     105.876  22.442 110.780  0.00  0.00           C 0
+ATOM  27140  OE1 GLN M1071     104.050  18.199 115.950  0.00  0.00           O 0
+ATOM  26032   CG MET K1240     109.149  23.878 109.771  0.00  0.00           C 0
+ATOM  26033   SD MET K1240     109.452  25.573 110.281  0.00  0.00           S 0
+ATOM  25022  CD1 ILE K1113     110.424  28.152 112.125  0.00  0.00           C 0
+ATOM  26465  OD1 ASP M 985     103.200  19.473 113.034  0.58  8.57           O 0
+ATOM  26034   CE MET K1240     107.787  26.231 110.236  0.00  0.00           C 0
+TER
+END

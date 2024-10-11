@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   234:
+HEADER 0  - Pocket Score                      : -0.0501
+HEADER 1  - Drug Score                        : 0.0021
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7076
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5176
+HEADER 5  - Mean B-factor of pocket residues  : 0.5949
+HEADER 6  - Hydrophobicity Score              : 61.8571
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 133.5533
+HEADER 10  -Pocket volume (convex hull)       : 2.3686
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.7647
+ATOM  28665   CD GLU M1269      54.584   3.639 117.592  0.00  0.00           C 0
+ATOM  28415   SD MET M1240      54.792   4.331 110.439  0.00  0.00           S 0
+ATOM  28664   CG GLU M1269      55.895   3.479 116.848  0.00  0.00           C 0
+ATOM  27372  CD1 LEU M1109      54.712   0.092 111.575  0.00  0.00           C 0
+ATOM  27404  CD1 ILE M1113      57.478   3.753 112.111  0.00  0.00           C 0
+ATOM  28639  CG2 ILE M1266      57.231   7.948 112.605  0.00  0.00           C 0
+ATOM  28663   CB GLU M1269      56.775   4.686 117.033  0.00  0.00           C 0
+ATOM  28667  OE2 GLU M1269      54.133   4.799 117.739  0.37  7.50           O 0
+ATOM  28666  OE1 GLU M1269      54.012   2.617 118.035  0.50  8.57           O 0
+ATOM  28630    O SER M1265      54.490   9.658 114.415  0.26  6.43           O 0
+ATOM  28634   CA ILE M1266      57.004   8.775 115.002  0.00  0.00           C 0
+ATOM  28416   CE MET M1240      55.819   5.798 110.245  0.00  0.00           C 0
+ATOM  28822  CE1 PHE L 981      52.829   8.699 111.043  0.00  0.00           C 0
+ATOM  28820  CD1 PHE L 981      51.841   7.767 110.812  0.00  0.00           C 0
+TER
+END

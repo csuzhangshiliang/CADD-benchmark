@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   252:
+HEADER 0  - Pocket Score                      : -0.0617
+HEADER 1  - Drug Score                        : 0.0029
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.8259
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5488
+HEADER 5  - Mean B-factor of pocket residues  : 0.2280
+HEADER 6  - Hydrophobicity Score              : 37.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 209.6041
+HEADER 10  -Pocket volume (convex hull)       : 6.4050
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.5417
+ATOM  26193   CB SER K1258      93.778  31.486 109.091  0.00  0.00           C 0
+ATOM  25122  OD1 ASN K1127      94.080  38.040 107.032  0.71  3.21           O 0
+ATOM  26190   CA SER K1258      94.927  31.523 108.086  0.00  0.00           C 0
+ATOM  25643  OG1 THR K1191      92.103  36.140 104.800  0.42  7.50           O 0
+ATOM  26199   CB PHE K1259      97.424  35.251 109.926  0.00  0.00           C 0
+ATOM  26206    N LEU K1260      96.294  32.989 111.858  0.74  1.09           N 0
+ATOM  25095   CB ALA K1124      96.749  37.176 112.967  0.00  0.00           C 0
+ATOM  26211   CG LEU K1260      94.263  33.865 114.104  0.00  0.00           C 0
+ATOM  25092   CA ALA K1124      96.394  38.263 111.977  0.00  0.00           C 0
+ATOM  26195    N PHE K1259      96.282  33.230 109.151  0.77  3.28           N 0
+ATOM  26212  CD1 LEU K1260      92.758  33.986 114.164  0.00  0.00           C 0
+ATOM  25128   CB ALA K1128      91.494  40.121 113.918  0.00  0.00           C 0
+ATOM  25094    O ALA K1124      94.357  39.418 112.502  0.57  1.07           O 0
+ATOM  25125   CA ALA K1128      90.848  40.429 112.588  0.00  0.00           C 0
+ATOM  25120   CB ASN K1127      92.981  39.223 108.827  0.00  0.00           C 0
+ATOM  25124    N ALA K1128      91.852  40.527 111.543  0.76  1.09           N 0
+ATOM  25118    C ASN K1127      91.519  40.647 110.264  0.00  0.00           C 0
+ATOM  25119    O ASN K1127      90.351  40.744 109.874  0.00  0.00           O 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   131:
+HEADER 0  - Pocket Score                      : 0.0113
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0324
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6718
+HEADER 5  - Mean B-factor of pocket residues  : 0.1402
+HEADER 6  - Hydrophobicity Score              : 25.3333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 261.6542
+HEADER 10  -Pocket volume (convex hull)       : 6.5900
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM    850    O SER A1089      85.924  63.245 151.966  0.47  4.29           O 0
+ATOM    849    C SER A1089      84.928  62.518 151.834  0.00  0.00           C 0
+ATOM    810    O ARG A1084      84.875  59.374 146.977  0.61  1.07           O 0
+ATOM    851   CB SER A1089      84.982  60.155 152.509  0.00  0.00           C 0
+ATOM    853    N TYR A1090      84.162  62.529 150.757  0.00  0.00           N 0
+ATOM    854   CA TYR A1090      84.474  63.424 149.670  0.00  0.00           C 0
+ATOM    888   CB SER A1093      88.650  64.961 150.276  0.00  0.00           C 0
+ATOM    889   OG SER A1093      87.909  65.304 149.121  0.00  0.00           O 0
+ATOM    859  CD1 TYR A1090      84.697  64.429 146.637  0.00  0.00           C 0
+ATOM    816  NH1 ARG A1084      88.182  62.448 141.186  0.57  7.66           N 0
+ATOM    861  CE1 TYR A1090      84.776  65.465 145.716  0.00  0.00           C 0
+ATOM    813   CD ARG A1084      85.680  61.972 142.474  0.00  0.00           C 0
+ATOM    811   CB ARG A1084      84.986  60.193 144.169  0.00  0.00           C 0
+ATOM    812   CG ARG A1084      85.565  60.475 142.780  0.00  0.00           C 0
+ATOM    803    O THR A1083      86.886  56.706 143.915  0.67  6.43           O 0
+ATOM    808   CA ARG A1084      85.320  58.790 144.691  0.00  0.00           C 0
+ATOM   1263  CE1 PHE A1147      85.453  65.415 141.825  0.00  0.00           C 0
+TER
+END

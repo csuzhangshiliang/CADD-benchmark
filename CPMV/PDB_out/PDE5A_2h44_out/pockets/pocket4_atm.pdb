@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0390
+HEADER 1  - Drug Score                        : 0.0057
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.1472
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7195
+HEADER 5  - Mean B-factor of pocket residues  : 0.5769
+HEADER 6  - Hydrophobicity Score              : 41.1429
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 355.6547
+HEADER 10  -Pocket volume (convex hull)       : 14.4956
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.7895
+ATOM   1419   CE LYS A 710      62.932  -2.415   9.386  0.00  0.00           C 0
+ATOM   1447   CB LYS A 714      65.664   2.012  14.101  0.00  0.00           C 0
+ATOM   1417   CG LYS A 710      65.291  -1.609   9.179  0.00  0.00           C 0
+ATOM   1415    O LYS A 710      67.112   0.454  10.951  0.62  2.14           O 0
+ATOM   1416   CB LYS A 710      66.695  -1.884   8.666  0.00  0.00           C 0
+ATOM   1409  CE2 TYR A 709      69.304   2.134   4.753  0.00  0.00           C 0
+ATOM   1413   CA LYS A 710      67.683  -0.750   8.958  0.00  0.00           C 0
+ATOM   1407  CD2 TYR A 709      69.653   0.893   5.274  0.00  0.00           C 0
+ATOM   1448   CG LYS A 714      64.734   2.123  15.307  0.00  0.00           C 0
+ATOM   1474   CD LYS A 717      62.946   7.891  12.802  0.00  0.00           C 0
+ATOM   1476   NZ LYS A 717      60.603   7.977  12.009  0.00  0.00           N 0
+ATOM   1439   CB LEU A 713      68.071   3.891   9.632  0.00  0.00           C 0
+ATOM   1236   CZ PHE A 686      66.330   8.173   9.991  0.00  0.00           C 0
+ATOM   1235  CE2 PHE A 686      65.123   8.785   9.684  0.00  0.00           C 0
+ATOM   1444   CA LYS A 714      66.276   3.358  13.711  0.00  0.00           C 0
+ATOM   1443    N LYS A 714      67.250   3.209  12.642  0.00  0.00           N 0
+ATOM   1441  CD1 LEU A 713      67.972   4.009   7.160  0.00  0.00           C 0
+ATOM   1267  CD2 LEU A 690      65.724   8.568   5.279  0.00  0.00           C 0
+ATOM   1438    O LEU A 713      67.478   5.433  12.397  0.00  0.00           O 0
+ATOM   1437    C LEU A 713      67.779   4.285  12.069  0.00  0.00           C 0
+TER
+END

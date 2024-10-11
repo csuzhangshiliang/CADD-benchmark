@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   115:
+HEADER 0  - Pocket Score                      : 0.0234
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0483
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6697
+HEADER 5  - Mean B-factor of pocket residues  : 0.6594
+HEADER 6  - Hydrophobicity Score              : -6.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 282.1654
+HEADER 10  -Pocket volume (convex hull)       : 7.3506
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM  22282  OE2 GLU J1056     -11.058 109.895 138.470  0.00  0.00           O 0
+HETATM23018   CB PTR J1161     -16.497 114.208 143.735  0.00  0.00           C 0
+ATOM  23005  OD2 ASP J1159     -13.861 109.978 144.729  0.52  4.29           O 0
+ATOM  22762    O ASN J1129     -11.186 114.152 141.156  0.49  8.57           O 0
+ATOM  22757    O ALA J1128     -11.195 118.048 138.606  0.00  0.00           O 0
+ATOM  22773   CD LYS J1130     -13.055 118.222 142.180  0.00  0.00           C 0
+HETATM23023  CE2 PTR J1161     -18.772 115.681 141.007  0.00  0.00           C 0
+HETATM23021  CD2 PTR J1161     -17.635 115.340 141.759  0.00  0.00           C 0
+ATOM  22774   CE LYS J1130     -13.884 119.460 142.383  0.00  0.00           C 0
+ATOM  23004  OD1 ASP J1159     -13.451 112.126 144.979  0.69  2.14           O 0
+ATOM  22772   CG LYS J1130     -13.772 117.022 142.734  0.00  0.00           C 0
+ATOM  22771   CB LYS J1130     -12.845 115.844 142.848  0.00  0.00           C 0
+ATOM  22785  CE2 PHE J1131      -9.412 111.248 142.118  0.00  0.00           C 0
+ATOM  22786   CZ PHE J1131      -9.538 110.201 142.988  0.00  0.00           C 0
+ATOM  22761    C ASN J1129     -10.764 115.274 140.841  0.00  0.00           C 0
+ATOM  22760   CA ASN J1129     -10.205 115.552 139.447  0.00  0.00           C 0
+TER
+END

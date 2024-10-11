@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    85:
+HEADER 0  - Pocket Score                      : 0.0500
+HEADER 1  - Drug Score                        : 0.0058
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.7912
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5158
+HEADER 5  - Mean B-factor of pocket residues  : 0.7371
+HEADER 6  - Hydrophobicity Score              : 45.5556
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 115.8161
+HEADER 10  -Pocket volume (convex hull)       : 2.6657
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 0.6923
+ATOM  34116   CB ALA S1051     -10.813 143.348 142.987  0.00  0.00           C 0
+ATOM  34090    O LEU S1048      -9.254 140.344 144.160  0.55  1.07           O 0
+ATOM  34122   OG SER S1052     -10.189 137.935 142.054  0.46  5.36           O 0
+ATOM  33620  CG1 VAL S 988      -5.373 140.773 140.241  0.00  0.00           C 0
+ATOM  34117    N SER S1052     -12.058 140.376 142.884  0.00  0.00           N 0
+ATOM  34118   CA SER S1052     -12.306 139.175 142.090  0.00  0.00           C 0
+ATOM  34115    O ALA S1051     -13.112 141.770 141.478  0.00  0.00           O 0
+ATOM  34229  CD2 LEU S1065     -11.743 144.633 137.284  0.00  0.00           C 0
+ATOM  33653  CD2 TRP S 992     -11.254 140.915 134.772  0.00  0.00           C 0
+ATOM  34142   CB LYS S1055     -14.115 139.259 138.042  0.00  0.00           C 0
+ATOM  34114    C ALA S1051     -12.477 141.578 142.504  0.00  0.00           C 0
+ATOM  34247  CG1 VAL S1068      -7.653 144.028 138.387  0.00  0.00           C 0
+ATOM  34228  CD1 LEU S1065     -12.303 144.656 139.716  0.00  0.00           C 0
+ATOM  33628   CD PRO S 989      -7.824 137.612 137.701  0.00  0.00           C 0
+ATOM  33652  CD1 TRP S 992      -9.758 139.276 135.034  0.00  0.00           C 0
+ATOM  33654  NE1 TRP S 992     -11.004 138.705 135.033  0.85  1.09           N 0
+ATOM  33650   CB TRP S 992      -8.754 141.575 134.818  0.00  0.00           C 0
+ATOM  33651   CG TRP S 992      -9.858 140.622 134.880  0.00  0.00           C 0
+TER
+END

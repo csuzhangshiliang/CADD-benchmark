@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   227:
+HEADER 0  - Pocket Score                      : -0.0470
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.1304
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5857
+HEADER 5  - Mean B-factor of pocket residues  : 0.8177
+HEADER 6  - Hydrophobicity Score              : 11.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 189.8281
+HEADER 10  -Pocket volume (convex hull)       : 3.8011
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM  28774   OH TYR M1281      59.363  12.479 122.261  0.71  4.29           O 0
+ATOM  28658  OE2 GLU M1268      55.328  11.137 123.044  0.33  8.57           O 0
+ATOM  28644    O LYS M1267      59.046   8.343 119.971  0.49  4.29           O 0
+ATOM  28717  NH2 ARG M1275      59.002  12.318 126.143  0.00  0.00           N 0
+ATOM  28679    O GLU M1271      63.538   5.166 122.395  0.67  1.07           O 0
+ATOM  28686   CA PRO M1272      62.964   4.801 125.147  0.00  0.00           C 0
+ATOM  28671    O MET M1270      60.488   4.443 121.407  0.51  6.43           O 0
+ATOM  28688    O PRO M1272      64.180   6.812 125.555  0.00  0.00           O 0
+ATOM  28700   CB PHE M1274      64.510   8.255 121.353  0.00  0.00           C 0
+ATOM  28711   CB ARG M1275      63.642  10.937 125.789  0.00  0.00           C 0
+ATOM  28771  CE1 TYR M1281      61.742  12.545 122.150  0.00  0.00           C 0
+ATOM  28714   NE ARG M1275      61.292  12.422 126.334  0.41  3.28           N 0
+ATOM  28707    N ARG M1275      64.782   9.859 123.914  0.00  0.00           N 0
+ATOM  28651   CA GLU M1268      56.364   7.943 120.561  0.00  0.00           C 0
+ATOM  28653    O GLU M1268      56.294   5.566 120.947  0.38  8.57           O 0
+TER
+END

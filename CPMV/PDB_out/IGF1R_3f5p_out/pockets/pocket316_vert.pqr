@@ -1,0 +1,49 @@
+HEADER
+HEADER This is a pqr format file writen by the programm fpocket.                 
+HEADER It represent the voronoi vertices of a single pocket found by the         
+HEADER algorithm.                                                                
+HEADER                                                                           
+HEADER Information about the pocket   316:
+HEADER 0  - Pocket Score                      : -0.1226
+HEADER 1  - Drug Score                        : 0.0135
+HEADER 2  - Number of V. Vertices             :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.8936
+HEADER 4  - Mean alpha-sphere SA              : 0.5047
+HEADER 5  - Mean B-factor                     : 0.3554
+HEADER 6  - Hydrophobicity Score              : 61.8571
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Volume Score                      : 4.5714
+HEADER 9  - Real volume (approximation)       : 236.3068
+HEADER 10 - Charge Score                      :    -1
+HEADER 11 - Local hydrophobic density Score   : 21.0000
+HEADER 12 - Number of apolar alpha sphere     :    22
+HEADER 13 - Proportion of apolar alpha sphere : 0.8148
+ATOM      1    C STP   316     -10.917  81.090 137.639    0.00     4.04
+ATOM      2    C STP   316     -10.883  81.102 137.789    0.00     3.92
+ATOM      3    C STP   316     -10.853  81.034 137.642    0.00     4.03
+ATOM      4    C STP   316     -10.639  79.892 137.554    0.00     3.97
+ATOM      5    O STP   316      -9.018  79.543 137.368    0.00     4.33
+ATOM      6    O STP   316      -8.246  79.766 137.302    0.00     4.64
+ATOM      7    C STP   316     -10.516  79.168 137.609    0.00     4.00
+ATOM      8    C STP   316      -9.619  78.926 137.511    0.00     4.18
+ATOM      9    O STP   316     -10.926  81.107 137.636    0.00     4.04
+ATOM     10    C STP   316     -10.956  81.220 137.731    0.00     3.93
+ATOM     11    C STP   316     -11.068  79.134 137.561    0.00     3.89
+ATOM     12    C STP   316     -11.786  79.023 137.645    0.00     3.72
+ATOM     13    C STP   316     -11.352  80.041 137.480    0.00     3.87
+ATOM     14    C STP   316     -12.077  79.951 137.563    0.00     3.74
+ATOM     15    C STP   316     -12.453  80.163 137.369    0.00     3.58
+ATOM     16    C STP   316     -10.889  77.891 136.827    0.00     3.46
+ATOM     17    C STP   316      -7.072  78.925 139.076    0.00     4.12
+ATOM     18    O STP   316     -10.979  81.110 137.624    0.00     4.02
+ATOM     19    O STP   316     -11.707  81.659 136.828    0.00     3.46
+ATOM     20    C STP   316     -11.013  81.306 137.795    0.00     3.84
+ATOM     21    C STP   316     -12.145  81.400 136.721    0.00     3.40
+ATOM     22    C STP   316     -11.077  81.032 137.614    0.00     4.00
+ATOM     23    C STP   316     -12.274  80.588 137.887    0.00     3.53
+ATOM     24    C STP   316     -11.829  80.526 137.469    0.00     3.91
+ATOM     25    C STP   316     -11.918  80.594 137.371    0.00     3.83
+ATOM     26    C STP   316     -12.070  80.424 137.505    0.00     3.85
+ATOM     27    C STP   316     -12.125  80.432 137.480    0.00     3.82
+TER
+END

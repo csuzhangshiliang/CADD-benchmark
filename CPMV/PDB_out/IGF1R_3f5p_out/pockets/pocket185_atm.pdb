@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   185:
+HEADER 0  - Pocket Score                      : -0.0205
+HEADER 1  - Drug Score                        : 0.0039
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8522
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4763
+HEADER 5  - Mean B-factor of pocket residues  : 0.4324
+HEADER 6  - Hydrophobicity Score              : 10.3333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 357.9359
+HEADER 10  -Pocket volume (convex hull)       : 25.9960
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4706
+ATOM   8699    O LYS D1171     -21.602 110.864  84.254  0.74  3.21           O 0
+ATOM   8714   CG LEU D1173     -27.470 111.976  84.533  0.00  0.00           C 0
+ATOM   8700   CB LYS D1171     -22.703 110.448  81.293  0.00  0.00           C 0
+ATOM   8715  CD1 LEU D1173     -28.205 110.688  84.857  0.00  0.00           C 0
+ATOM   8564   SD MET D1156     -24.881 112.057  92.017  0.00  0.00           S 0
+ATOM   8713   CB LEU D1173     -27.483 112.908  85.741  0.00  0.00           C 0
+ATOM   8712    O LEU D1173     -27.993 115.542  86.746  0.45  6.43           O 0
+ATOM   8711    C LEU D1173     -26.830 115.194  86.540  0.00  0.00           C 0
+ATOM   8565   CE MET D1156     -23.445 111.087  91.503  0.00  0.00           C 0
+ATOM   8709    N LEU D1173     -25.158 113.615  85.613  0.61  4.37           N 0
+ATOM   8717    N LEU D1174     -25.792 115.763  87.144  0.00  0.00           N 0
+ATOM   8722   CG LEU D1174     -24.161 116.374  89.673  0.00  0.00           C 0
+ATOM   8687   NZ LYS D1168     -20.992 110.609  87.482  0.53  7.66           N 0
+ATOM   8731   CD PRO D1175     -28.303 118.380  88.979  0.00  0.00           C 0
+ATOM   8436  NH1 ARG D1139     -30.578 118.632  92.865  0.70  4.37           N 0
+ATOM   8408  OD2 ASP D1135     -27.670 115.695  94.069  0.00  0.00           O 0
+ATOM   8724  CD2 LEU D1174     -25.253 116.031  90.650  0.00  0.00           C 0
+ATOM   8400  NH2 ARG D1134     -20.633 114.144  89.902  0.56  2.19           N 0
+TER
+END

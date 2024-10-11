@@ -1,0 +1,54 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   174:
+HEADER 0  - Pocket Score                      : -0.0147
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    34
+HEADER 3  - Mean alpha-sphere radius          : 4.0265
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5703
+HEADER 5  - Mean B-factor of pocket residues  : 0.6511
+HEADER 6  - Hydrophobicity Score              : 0.7000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 622.3290
+HEADER 10  -Pocket volume (convex hull)       : 118.6165
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1176
+ATOM  10590   CB LEU E1104      -4.545 158.953 156.449  0.00  0.00           C 0
+ATOM  10565   CG PRO E1096      -9.411 160.364 156.079  0.00  0.00           C 0
+ATOM  10578    C PRO E1102      -7.399 156.197 160.074  0.00  0.00           C 0
+ATOM  10579    O PRO E1102      -6.183 156.377 160.252  0.28  9.64           O 0
+ATOM  10576    N PRO E1102      -9.602 157.323 160.543  0.00  0.00           N 0
+ATOM  10564   CB PRO E1096     -10.620 160.340 155.238  0.00  0.00           C 0
+ATOM  10575  OE2 GLU E1097     -14.984 160.196 158.545  0.64  8.57           O 0
+ATOM  10574  OE1 GLU E1097     -15.287 159.678 156.434  0.00  0.00           O 0
+ATOM  10584    O VAL E1103      -7.605 156.398 155.935  0.47  2.14           O 0
+ATOM  10559  NH2 ARG E1095      -3.772 163.378 159.070  0.52  7.66           N 0
+ATOM  10577   CA PRO E1102      -8.414 156.687 161.125  0.00  0.00           C 0
+ATOM  10566   CD PRO E1096      -8.446 161.283 155.439  0.00  0.00           C 0
+ATOM  10571   CB GLU E1097     -13.676 162.592 157.797  0.00  0.00           C 0
+ATOM  10567    N GLU E1097     -11.687 162.976 156.425  0.61  2.19           N 0
+ATOM  10569    C GLU E1097     -12.431 164.734 158.026  0.00  0.00           C 0
+ATOM  10570    O GLU E1097     -13.115 164.950 159.026  0.50  7.50           O 0
+ATOM  10556   NE ARG E1095      -5.114 164.416 157.518  0.00  0.00           N 0
+ATOM  33787    O SER S1009      -8.836 150.456 152.897  0.71  6.43           O 0
+ATOM  33783    O GLY S1008      -9.066 153.591 151.397  0.68  5.36           O 0
+ATOM  33785   CA SER S1009     -10.702 151.350 151.685  0.00  0.00           C 0
+ATOM  10585   CB VAL E1103      -7.584 153.817 157.302  0.00  0.00           C 0
+ATOM  10553   CB ARG E1095      -6.641 163.841 155.329  0.00  0.00           C 0
+ATOM  33774    O GLN S1007     -11.537 156.846 150.747  0.22  9.64           O 0
+ATOM  33775   CB GLN S1007      -9.398 158.567 151.970  0.00  0.00           C 0
+ATOM  33776   CG GLN S1007      -8.175 157.975 152.629  0.00  0.00           C 0
+ATOM  33784    N SER S1009     -10.905 152.465 150.761  0.37  3.28           N 0
+ATOM  33782    C GLY S1008     -10.078 153.501 150.712  0.00  0.00           C 0
+ATOM  10555   CD ARG E1095      -5.550 165.563 156.732  0.00  0.00           C 0
+ATOM  10533  NH1 ARG E1092      -5.429 168.512 159.711  0.00  0.00           N 0
+ATOM  10552    O ARG E1095      -9.640 164.311 153.918  0.63  9.64           O 0
+ATOM  10527    O ARG E1092      -6.766 167.429 154.136  0.57  6.43           O 0
+ATOM  10554   CG ARG E1095      -5.955 165.173 155.336  0.00  0.00           C 0
+TER
+END

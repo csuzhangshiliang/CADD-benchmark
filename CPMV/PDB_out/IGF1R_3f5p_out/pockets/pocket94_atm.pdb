@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    94:
+HEADER 0  - Pocket Score                      : 0.0348
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.5687
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4312
+HEADER 5  - Mean B-factor of pocket residues  : 0.2858
+HEADER 6  - Hydrophobicity Score              : 29.6250
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 58.0797
+HEADER 10  -Pocket volume (convex hull)       : 0.1144
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM  25697   OG SER K1197     100.921  39.182  98.981  0.71  3.21           O 0
+ATOM  25177    O ARG K1134      99.435  43.563  98.224  0.41  6.43           O 0
+ATOM  25537    O TRP K1178     101.989  38.909  96.301  0.37  3.21           O 0
+ATOM  25549   CA MET K1179     100.677  39.049  93.858  0.00  0.00           C 0
+ATOM  25583   OG SER K1183      95.367  39.176  94.745  0.63  1.07           O 0
+ATOM  25556    N SER K1180      99.040  37.302  94.311  0.56  1.09           N 0
+ATOM  25660    O SER K1193      98.175  37.530  99.473  0.42  1.07           O 0
+ATOM  25661   CB SER K1193      95.357  38.027  98.028  0.00  0.00           C 0
+ATOM  25627  CD2 PHE K1189      95.279  42.351  96.258  0.00  0.00           C 0
+ATOM  25662   OG SER K1193      94.936  39.148  98.778  0.77  1.07           O 0
+ATOM  25629  CE2 PHE K1189      96.075  42.738  95.219  0.00  0.00           C 0
+ATOM  25553   CG MET K1179     100.095  41.402  93.069  0.00  0.00           C 0
+TER
+END

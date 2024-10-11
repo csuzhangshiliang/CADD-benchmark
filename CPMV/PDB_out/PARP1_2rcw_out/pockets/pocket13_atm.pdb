@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0496
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6954
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4681
+HEADER 5  - Mean B-factor of pocket residues  : 0.7851
+HEADER 6  - Hydrophobicity Score              : 31.1667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 149.1912
+HEADER 10  -Pocket volume (convex hull)       : 4.1453
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM    715  CD1 LEU A  90     -11.174  61.750  49.529  0.00  0.00           C 0
+ATOM    509  OD1 ASP A  65     -14.522  57.488  54.275  0.00  0.00           O 0
+ATOM    532  CG2 ILE A  68     -13.058  57.474  47.919  0.00  0.00           C 0
+ATOM    534    N LEU A  69      -9.837  57.457  49.656  0.00  0.00           N 0
+ATOM    714   CG LEU A  90     -12.203  62.716  50.091  0.00  0.00           C 0
+ATOM    540  CD1 LEU A  69      -8.640  61.064  51.854  0.00  0.00           C 0
+ATOM    694   NZ LYS A  87     -11.216  64.555  53.469  0.82  4.37           N 0
+ATOM    713   CB LEU A  90     -13.400  62.787  49.139  0.00  0.00           C 0
+ATOM    729   CB ASN A  92     -16.723  59.430  48.512  0.00  0.00           C 0
+ATOM    533  CD1 ILE A  68     -14.877  55.196  48.452  0.00  0.00           C 0
+ATOM    731  OD1 ASN A  92     -17.212  61.036  50.217  0.48  7.50           O 0
+ATOM    538   CB LEU A  69      -8.660  58.599  51.475  0.00  0.00           C 0
+ATOM    507   CB ASP A  65     -12.704  55.966  54.505  0.00  0.00           C 0
+ATOM    541  CD2 LEU A  69      -7.460  59.544  53.447  0.00  0.00           C 0
+ATOM    504   CA ASP A  65     -12.720  55.490  53.050  0.00  0.00           C 0
+ATOM    530   CB ILE A  68     -12.547  56.213  48.592  0.00  0.00           C 0
+TER
+END

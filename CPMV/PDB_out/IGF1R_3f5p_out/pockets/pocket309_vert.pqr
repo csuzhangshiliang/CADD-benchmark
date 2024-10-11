@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pqr format file writen by the programm fpocket.                 
+HEADER It represent the voronoi vertices of a single pocket found by the         
+HEADER algorithm.                                                                
+HEADER                                                                           
+HEADER Information about the pocket   309:
+HEADER 0  - Pocket Score                      : -0.1112
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of V. Vertices             :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0665
+HEADER 4  - Mean alpha-sphere SA              : 0.4450
+HEADER 5  - Mean B-factor                     : 0.6282
+HEADER 6  - Hydrophobicity Score              : 4.4444
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Volume Score                      : 3.3333
+HEADER 9  - Real volume (approximation)       : 243.8699
+HEADER 10 - Charge Score                      :    -1
+HEADER 11 - Local hydrophobic density Score   : 3.0000
+HEADER 12 - Number of apolar alpha sphere     :     4
+HEADER 13 - Proportion of apolar alpha sphere : 0.2500
+ATOM      1    O STP   309      84.311  89.960 103.491    0.00     3.78
+ATOM      2    O STP   309      85.082  91.851 105.515    0.00     4.34
+ATOM      3    C STP   309      84.104  91.616 104.837    0.00     4.48
+ATOM      4    C STP   309      82.170  91.387 103.409    0.00     4.35
+ATOM      5    C STP   309      81.852  90.761 103.802    0.00     3.93
+ATOM      6    O STP   309      83.686  90.580 104.518    0.00     4.44
+ATOM      7    O STP   309      83.788  90.706 104.466    0.00     4.52
+ATOM      8    O STP   309      83.780  90.696 104.456    0.00     4.53
+ATOM      9    O STP   309      83.781  90.689 104.461    0.00     4.52
+ATOM     10    O STP   309      84.686  87.827 104.336    0.00     3.51
+ATOM     11    O STP   309      85.994  89.028 106.930    0.00     3.61
+ATOM     12    O STP   309      83.456  89.664 104.912    0.00     3.99
+ATOM     13    O STP   309      84.645  87.881 104.415    0.00     3.54
+ATOM     14    O STP   309      83.995  89.537 104.884    0.00     4.11
+ATOM     15    O STP   309      84.768  88.645 105.805    0.00     3.74
+ATOM     16    C STP   309      84.772  88.565 105.910    0.00     3.68
+TER
+END

@@ -1,0 +1,53 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   166:
+HEADER 0  - Pocket Score                      : -0.0103
+HEADER 1  - Drug Score                        : 0.0025
+HEADER 2  - Number of alpha spheres           :    32
+HEADER 3  - Mean alpha-sphere radius          : 3.9200
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6252
+HEADER 5  - Mean B-factor of pocket residues  : 0.5803
+HEADER 6  - Hydrophobicity Score              : 15.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 539.0417
+HEADER 10  -Pocket volume (convex hull)       : 63.2404
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.6364
+HEADER 13 - Number of apolar alpha sphere     :    22
+HEADER 14 - Proportion of apolar alpha sphere : 0.6875
+ATOM  23524  CD1 LEU J1222      -0.427 121.002 167.385  0.00  0.00           C 0
+ATOM  23527   CA ARG J1223       1.718 125.147 168.512  0.00  0.00           C 0
+ATOM  23531   CG ARG J1223       1.432 126.268 170.854  0.00  0.00           C 0
+ATOM  23530   CB ARG J1223       2.215 125.282 169.960  0.00  0.00           C 0
+ATOM  23496    O GLU J1219       4.073 121.716 169.884  0.59  2.14           O 0
+ATOM  23526    N ARG J1223       2.272 123.937 167.904  0.00  0.00           N 0
+ATOM  23533   NE ARG J1223       2.037 124.963 172.932  0.00  0.00           N 0
+ATOM  23523   CG LEU J1222       0.767 120.135 167.091  0.00  0.00           C 0
+ATOM  23522   CB LEU J1222       2.053 120.926 167.286  0.00  0.00           C 0
+ATOM  23500  OE1 GLU J1219       4.588 117.262 173.208  0.00  0.00           O 0
+ATOM  23536  NH2 ARG J1223       3.120 123.133 173.840  0.00  0.00           N 0
+ATOM  23497   CB GLU J1219       5.427 119.081 171.291  0.00  0.00           C 0
+ATOM  23494   CA GLU J1219       5.111 119.554 169.875  0.00  0.00           C 0
+ATOM  23501  OE2 GLU J1219       5.123 115.519 171.976  0.00  0.00           O 0
+ATOM  23499   CD GLU J1219       5.171 116.745 172.232  0.00  0.00           C 0
+ATOM  23559   CB MET J1226      -1.788 126.014 165.686  0.00  0.00           C 0
+ATOM  23562   CE MET J1226      -4.176 124.717 166.844  0.00  0.00           C 0
+ATOM  23529    O ARG J1223       1.354 127.340 167.613  0.57  1.07           O 0
+ATOM  23571  OE2 GLU J1227      -1.430 129.875 170.941  0.55  7.50           O 0
+ATOM  23568   CG GLU J1227      -1.309 130.607 168.671  0.00  0.00           C 0
+ATOM  23118   NZ LYS J1171      -0.142 110.569 167.633  0.00  0.00           N 0
+ATOM  23151  CG1 VAL J1176       2.308 117.174 163.393  0.00  0.00           C 0
+ATOM  23489   CB ASN J1218       6.575 116.925 166.738  0.00  0.00           C 0
+ATOM  23558    O MET J1226      -2.716 128.947 164.876  0.45  5.36           O 0
+ATOM  23492  ND2 ASN J1218       7.357 114.799 165.915  0.66  9.84           N 0
+ATOM  23493    N GLU J1219       6.036 118.935 168.933  0.00  0.00           N 0
+ATOM  23498   CG GLU J1219       5.966 117.648 171.310  0.00  0.00           C 0
+ATOM  23487    C ASN J1218       5.973 119.186 167.633  0.00  0.00           C 0
+ATOM  23561   SD MET J1226      -2.924 123.575 166.278  0.00  0.00           S 0
+ATOM  23488    O ASN J1218       5.196 120.006 167.156  0.79  1.07           O 0
+ATOM  23525  CD2 LEU J1222       0.730 119.609 165.665  0.00  0.00           C 0
+TER
+END

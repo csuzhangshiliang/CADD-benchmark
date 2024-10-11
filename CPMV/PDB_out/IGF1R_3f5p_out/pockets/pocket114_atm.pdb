@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   114:
+HEADER 0  - Pocket Score                      : 0.0241
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0768
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7163
+HEADER 5  - Mean B-factor of pocket residues  : 0.6175
+HEADER 6  - Hydrophobicity Score              : 9.1429
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 409.2093
+HEADER 10  -Pocket volume (convex hull)       : 30.2590
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4375
+ATOM  15722   CB GLU G1145      12.633 155.222 113.537  0.00  0.00           C 0
+ATOM  15734  OD2 ASP G1146      15.650 149.940 116.376  0.00  0.00           O 0
+ATOM  15732   CG ASP G1146      15.716 150.687 115.374  0.00  0.00           C 0
+ATOM  15731   CB ASP G1146      16.326 152.065 115.537  0.00  0.00           C 0
+ATOM  14852    O ARG G1029       3.458 152.920 113.898  0.00  0.00           O 0
+ATOM  14853   CB ARG G1029       4.188 155.812 114.547  0.00  0.00           C 0
+ATOM  14849    N ARG G1029       2.806 154.530 116.117  0.73  3.28           N 0
+ATOM  14848  CG2 THR G1028       2.728 151.528 116.884  0.00  0.00           C 0
+ATOM  15264  CD1 LEU G1081       5.504 155.796 110.852  0.00  0.00           C 0
+ATOM  15262   CB LEU G1081       5.116 153.308 110.980  0.00  0.00           C 0
+ATOM  15280  CG2 THR G1083       9.428 156.457 111.254  0.00  0.00           C 0
+ATOM  15717   CB ALA G1144      12.705 150.349 111.616  0.00  0.00           C 0
+ATOM  15733  OD1 ASP G1146      15.300 150.354 114.247  0.82  1.07           O 0
+ATOM  15718    N GLU G1145      12.941 153.471 111.837  0.50  1.09           N 0
+ATOM  15727    N ASP G1146      15.144 153.149 113.644  0.00  0.00           N 0
+ATOM  15723   CG GLU G1145      13.195 156.432 114.263  0.00  0.00           C 0
+ATOM  15261    O LEU G1081       7.502 151.203 111.005  0.26  8.57           O 0
+ATOM  14855   CD ARG G1029       5.608 157.768 114.979  0.00  0.00           C 0
+ATOM  14858  NH1 ARG G1029       7.854 158.792 113.651  0.78  5.47           N 0
+ATOM  15726  OE2 GLU G1145      11.940 158.436 114.131  0.62  5.36           O 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0651
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8641
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5987
+HEADER 5  - Mean B-factor of pocket residues  : 0.4697
+HEADER 6  - Hydrophobicity Score              : 3.2000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 208.4047
+HEADER 10  -Pocket volume (convex hull)       : 7.1499
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1579
+ATOM   2371  OD1 ASP A1128       6.218  14.550  41.461  0.00  0.00           O 0
+ATOM   2364  NH2 ARG A1127       9.578  12.977  34.122  0.69  7.66           N 0
+ATOM   2366   CA ASP A1128       6.625  11.637  40.690  0.00  0.00           C 0
+ATOM   2369   CB ASP A1128       5.388  12.529  40.545  0.00  0.00           C 0
+ATOM   2332    O ASP A1124       4.458  11.265  37.775  0.00  0.00           O 0
+ATOM   2393   CB ALA A1131      11.402  11.851  40.870  0.00  0.00           C 0
+ATOM   2362   CZ ARG A1127       8.613  12.086  33.961  0.00  0.00           C 0
+ATOM   2363  NH1 ARG A1127       7.562  12.394  33.215  0.29  6.56           N 0
+ATOM   2365    N ASP A1128       6.677  10.651  39.617  0.00  0.00           N 0
+ATOM    907  CG2 ILE A 951      12.887   8.781  37.292  0.00  0.00           C 0
+ATOM   2361   NE ARG A1127       8.701  10.892  34.536  0.73  1.09           N 0
+ATOM   2358   CB ARG A1127       7.716   9.672  36.942  0.00  0.00           C 0
+ATOM   2356    C ARG A1127       7.705   9.801  39.404  0.00  0.00           C 0
+ATOM   2357    O ARG A1127       8.710   9.765  40.110  0.00  0.00           O 0
+ATOM   2334   CG ASP A1124       3.729  12.515  33.633  0.00  0.00           C 0
+ATOM   2335  OD1 ASP A1124       4.833  12.033  33.308  0.00  0.00           O 0
+ATOM   2336  OD2 ASP A1124       3.127  13.368  32.942  0.79  4.29           O 0
+ATOM   2333   CB ASP A1124       3.107  12.083  34.961  0.00  0.00           C 0
+TER
+END

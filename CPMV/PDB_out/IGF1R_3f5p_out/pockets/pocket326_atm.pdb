@@ -1,0 +1,62 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   326:
+HEADER 0  - Pocket Score                      : -0.1408
+HEADER 1  - Drug Score                        : 0.0044
+HEADER 2  - Number of alpha spheres           :    51
+HEADER 3  - Mean alpha-sphere radius          : 4.0056
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5540
+HEADER 5  - Mean B-factor of pocket residues  : 0.5869
+HEADER 6  - Hydrophobicity Score              : 1.0000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 824.2361
+HEADER 10  -Pocket volume (convex hull)       : 198.4136
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.2353
+ATOM   1820   CD GLN A1214      81.574  70.549 165.944  0.00  0.00           C 0
+ATOM   1793  OE1 GLN A1211      79.377  66.109 166.727  0.00  0.00           O 0
+ATOM   1822  NE2 GLN A1214      81.302  70.463 164.639  0.00  0.00           N 0
+ATOM   1790   CB GLN A1211      79.231  66.432 164.002  0.00  0.00           C 0
+ATOM    908  NH2 ARG A1095      84.655  71.328 158.685  0.50  4.37           N 0
+ATOM    907  NH1 ARG A1095      85.043  69.074 158.561  0.60  4.37           N 0
+ATOM   1821  OE1 GLN A1214      82.625  71.036 166.373  0.00  0.00           O 0
+ATOM    901    O ARG A1095      91.146  70.379 153.161  0.44  6.43           O 0
+ATOM    917   CA GLU A1097      94.044  70.312 156.560  0.00  0.00           C 0
+ATOM    876    O ARG A1092      88.047  67.210 153.809  0.53  5.36           O 0
+ATOM    921   CG GLU A1097      95.428  69.400 154.628  0.00  0.00           C 0
+ATOM    885   CA SER A1093      88.560  66.038 151.372  0.00  0.00           C 0
+ATOM   1819   CG GLN A1214      80.501  70.024 166.898  0.00  0.00           C 0
+ATOM    930   CG MET A1098      92.225  68.558 160.486  0.00  0.00           C 0
+ATOM    904   CD ARG A1095      86.737  69.375 156.397  0.00  0.00           C 0
+ATOM    883  NH2 ARG A1092      86.776  66.594 159.798  0.00  0.00           N 0
+ATOM    880   NE ARG A1092      85.717  65.814 157.904  0.78  4.37           N 0
+ATOM    939  CD1 LEU A1104      86.930  74.097 157.583  0.00  0.00           C 0
+ATOM    926   CA MET A1098      92.994  70.993 160.213  0.00  0.00           C 0
+ATOM    927    C MET A1098      93.977  72.009 160.790  0.00  0.00           C 0
+ATOM    928    O MET A1098      93.776  72.493 161.909  0.00  0.00           O 0
+ATOM    882  NH1 ARG A1092      84.500  66.812 159.600  0.00  0.00           N 0
+ATOM    916    N GLU A1097      93.019  71.049 155.778  0.57  2.19           N 0
+ATOM    887    O SER A1093      89.859  67.793 150.359  0.41  5.36           O 0
+ATOM    924  OE2 GLU A1097      95.501  70.128 152.361  0.52  6.43           O 0
+ATOM    877   CB ARG A1092      86.090  65.041 155.040  0.00  0.00           C 0
+ATOM    905   NE ARG A1095      86.057  70.470 157.072  0.00  0.00           N 0
+ATOM    925    N MET A1098      93.136  70.602 158.794  0.54  2.19           N 0
+ATOM    932   CE MET A1098      90.389  67.865 162.465  0.00  0.00           C 0
+ATOM   1783   CD GLU A1210      81.058  72.692 161.130  0.00  0.00           C 0
+ATOM   1785  OE2 GLU A1210      81.739  73.637 160.651  0.00  0.00           O 0
+ATOM   1784  OE1 GLU A1210      80.072  72.886 161.886  0.40  5.36           O 0
+ATOM    913   CB PRO A1096      92.110  74.111 155.066  0.00  0.00           C 0
+ATOM    902   CB ARG A1095      88.420  70.514 155.030  0.00  0.00           C 0
+ATOM   1786    N GLN A1211      79.636  67.750 161.991  0.47  4.37           N 0
+ATOM   1778   CA GLU A1210      80.508  68.927 160.066  0.00  0.00           C 0
+ATOM    906   CZ ARG A1095      85.252  70.298 158.109  0.00  0.00           C 0
+ATOM   1782   CG GLU A1210      81.441  71.243 160.772  0.00  0.00           C 0
+ATOM    915   CD PRO A1096      89.895  73.353 154.733  0.00  0.00           C 0
+ATOM    914   CG PRO A1096      90.736  74.568 154.834  0.00  0.00           C 0
+TER
+END

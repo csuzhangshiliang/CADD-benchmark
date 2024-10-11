@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   167:
+HEADER 0  - Pocket Score                      : -0.0107
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8385
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4365
+HEADER 5  - Mean B-factor of pocket residues  : 0.5836
+HEADER 6  - Hydrophobicity Score              : -7.3750
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 219.6853
+HEADER 10  -Pocket volume (convex hull)       : 4.5425
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1905
+ATOM  37889  OD1 ASP T1235     -76.652 102.250 157.225  0.00  0.00           O 0
+ATOM  37877   CA PRO T1234     -71.942 103.567 154.051  0.00  0.00           C 0
+ATOM  37691  OE1 GLU T1210     -73.779 109.402 157.444  0.38  8.57           O 0
+ATOM  37870    O LYS T1233     -71.368 101.612 155.852  0.56  5.36           O 0
+ATOM  37639  CZ2 TRP T1203     -69.478 108.142 156.758  0.00  0.00           C 0
+ATOM  37862    O ASP T1232     -68.642 103.456 156.520  0.47  3.21           O 0
+ATOM  37692  OE2 GLU T1210     -75.727 109.278 156.407  0.00  0.00           O 0
+ATOM  37880   CB PRO T1234     -71.694 104.636 152.976  0.00  0.00           C 0
+ATOM  37668   CB THR T1207     -72.476 109.296 153.378  0.00  0.00           C 0
+ATOM  37883    N ASP T1235     -74.181 102.677 154.272  0.52  4.37           N 0
+ATOM  37887   CB ASP T1235     -76.494 102.119 154.835  0.00  0.00           C 0
+ATOM  37886    O ASP T1235     -75.768 103.261 152.014  0.15  3.21           O 0
+ATOM  37665   CA THR T1207     -73.096 109.277 151.978  0.00  0.00           C 0
+ATOM  37662    O ALA T1206     -73.329 107.359 150.056  0.46  8.57           O 0
+ATOM  37670  CG2 THR T1207     -71.141 108.555 153.400  0.00  0.00           C 0
+TER
+END

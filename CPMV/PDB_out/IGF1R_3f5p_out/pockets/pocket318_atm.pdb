@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   318:
+HEADER 0  - Pocket Score                      : -0.1233
+HEADER 1  - Drug Score                        : 0.0135
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.8785
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4287
+HEADER 5  - Mean B-factor of pocket residues  : 0.5109
+HEADER 6  - Hydrophobicity Score              : 46.8571
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 244.9190
+HEADER 10  -Pocket volume (convex hull)       : 8.5164
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 19.9048
+HEADER 13 - Number of apolar alpha sphere     :    21
+HEADER 14 - Proportion of apolar alpha sphere : 0.8750
+ATOM  14327   CG GLU F1269      69.479 155.140 139.399  0.00  0.00           C 0
+ATOM  13042   OG SER F1110      67.839 149.685 139.948  0.57  5.36           O 0
+ATOM  14330  OE2 GLU F1269      71.788 155.708 139.579  0.00  0.00           O 0
+ATOM  13041   CB SER F1110      68.187 149.085 141.181  0.00  0.00           C 0
+ATOM  13035  CD1 LEU F1109      71.195 152.921 145.676  0.00  0.00           C 0
+ATOM  14328   CD GLU F1269      70.614 156.130 139.567  0.00  0.00           C 0
+ATOM  14077   CG MET F1240      71.265 157.365 147.282  0.00  0.00           C 0
+ATOM  14329  OE1 GLU F1269      70.326 157.338 139.706  0.70  9.64           O 0
+ATOM  13037    N SER F1110      68.395 149.608 143.570  0.71  2.19           N 0
+ATOM  13038   CA SER F1110      67.660 149.909 142.352  0.00  0.00           C 0
+ATOM  13065  CG1 ILE F1113      67.039 154.169 144.415  0.00  0.00           C 0
+ATOM  13067  CD1 ILE F1113      66.938 155.359 145.327  0.00  0.00           C 0
+ATOM  14326   CB GLU F1269      68.121 155.827 139.464  0.00  0.00           C 0
+ATOM  14078   SD MET F1240      69.629 156.644 147.175  0.00  0.00           S 0
+ATOM  14302  CG2 ILE F1266      66.442 159.214 144.033  0.00  0.00           C 0
+ATOM  14293    O SER F1265      68.192 161.745 142.112  0.25  7.50           O 0
+ATOM  14079   CE MET F1240      68.587 158.108 147.301  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   249:
+HEADER 0  - Pocket Score                      : -0.0588
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8142
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4688
+HEADER 5  - Mean B-factor of pocket residues  : 0.3184
+HEADER 6  - Hydrophobicity Score              : 18.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 250.8636
+HEADER 10  -Pocket volume (convex hull)       : 12.1232
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4118
+ATOM   3314    O LEU B1094      17.533  96.254 150.592  0.65  1.07           O 0
+ATOM   3312   CA LEU B1094      19.731  95.883 149.741  0.00  0.00           C 0
+ATOM  21899   CA GLY J1006      15.419  99.809 146.724  0.00  0.00           C 0
+ATOM   3308    O SER B1093      21.422  98.043 150.099  0.58  5.36           O 0
+ATOM  21902    N GLN J1007      13.878  99.564 148.525  0.53  5.47           N 0
+ATOM  21905    O GLN J1007      11.532 101.037 149.233  0.00  0.00           O 0
+ATOM  21906   CB GLN J1007      13.131  98.831 150.701  0.00  0.00           C 0
+ATOM   3334   CB PRO B1096      15.657 100.635 154.323  0.00  0.00           C 0
+ATOM   3331   CA PRO B1096      17.087 100.472 153.791  0.00  0.00           C 0
+ATOM   3318  CD2 LEU B1094      19.967  94.856 146.729  0.00  0.00           C 0
+ATOM  21942   SD MET J1012      14.405  95.096 147.224  0.00  0.00           S 0
+ATOM  21893    O LEU J1005      16.672 101.532 145.009  0.00  0.00           O 0
+ATOM  21884    O GLU J1004      18.391  98.479 142.515  0.62  8.57           O 0
+ATOM   3322    O ARG B1095      19.056  99.089 152.360  0.55  6.43           O 0
+ATOM  21885   CB GLU J1004      17.296  95.702 143.576  0.00  0.00           C 0
+ATOM  21898    N GLY J1006      15.538  99.611 145.295  0.00  0.00           N 0
+ATOM  21892    C LEU J1005      16.186 100.497 144.545  0.00  0.00           C 0
+TER
+END

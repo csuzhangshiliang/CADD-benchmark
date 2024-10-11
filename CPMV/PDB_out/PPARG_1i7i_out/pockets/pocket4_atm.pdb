@@ -1,0 +1,64 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0446
+HEADER 1  - Drug Score                        : 0.0211
+HEADER 2  - Number of alpha spheres           :    64
+HEADER 3  - Mean alpha-sphere radius          : 3.8318
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4631
+HEADER 5  - Mean B-factor of pocket residues  : 0.6158
+HEADER 6  - Hydrophobicity Score              : 36.9231
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.7692
+HEADER 9  - Pocket volume (Monte Carlo)       : 524.8983
+HEADER 10  -Pocket volume (convex hull)       : 92.9104
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 35.7500
+HEADER 13 - Number of apolar alpha sphere     :    40
+HEADER 14 - Proportion of apolar alpha sphere : 0.6250
+ATOM   1948    C MET A 463      25.725  29.806  21.718  0.00  0.00           C 0
+ATOM   1954    N SER A 464      24.513  29.269  21.704  0.53  1.09           N 0
+ATOM   1953   CE MET A 463      26.710  26.653  18.098  0.00  0.00           C 0
+ATOM   1949    O MET A 463      26.491  29.685  22.665  0.00  0.00           O 0
+ATOM   1898   CA LYS A 457      29.324  24.938  23.246  0.00  0.00           C 0
+ATOM   1901   CB LYS A 457      28.659  24.382  24.512  0.00  0.00           C 0
+ATOM   1960    N LEU A 465      22.771  26.431  23.076  0.68  1.09           N 0
+ATOM   1966  CD1 LEU A 465      22.166  22.551  21.615  0.00  0.00           C 0
+ATOM   1897    N LYS A 457      29.626  23.863  22.314  0.00  0.00           N 0
+ATOM    508   CZ PHE A 282      24.912  22.579  18.369  0.00  0.00           C 0
+ATOM   1868    O LEU A 453      28.402  21.098  22.660  0.60  1.07           O 0
+ATOM   1895  CG2 ILE A 456      28.611  23.842  18.880  0.00  0.00           C 0
+ATOM   1870   CG LEU A 453      24.856  19.463  21.823  0.00  0.00           C 0
+ATOM    507  CE2 PHE A 282      24.546  23.878  18.018  0.00  0.00           C 0
+ATOM   1903   CD LYS A 457      27.557  26.616  24.833  0.00  0.00           C 0
+ATOM   1967  CD2 LEU A 465      22.126  21.714  23.981  0.00  0.00           C 0
+ATOM   1955   CA SER A 464      24.017  28.476  22.821  0.00  0.00           C 0
+ATOM   1956    C SER A 464      22.869  27.565  22.396  0.00  0.00           C 0
+ATOM   2047   NZ LYS A 474      22.546  22.942  31.115  0.63  5.47           N 0
+ATOM   2002   CA GLN A 470      19.556  22.692  27.604  0.00  0.00           C 0
+ATOM   2031   CB TYR A 473      21.417  18.378  27.923  0.00  0.00           C 0
+ATOM   2006   CG GLN A 470      20.595  24.607  28.906  0.00  0.00           C 0
+ATOM   1964   CB LEU A 465      22.132  24.144  23.550  0.00  0.00           C 0
+ATOM   2032   CG TYR A 473      21.147  17.768  26.565  0.00  0.00           C 0
+ATOM   1872  CD2 LEU A 453      23.604  18.945  22.517  0.00  0.00           C 0
+ATOM   1846  CG1 VAL A 450      25.727  15.245  26.572  0.00  0.00           C 0
+ATOM   1902   CG LYS A 457      28.300  25.461  25.523  0.00  0.00           C 0
+ATOM   1880  OE1 GLN A 454      28.110  20.493  27.283  0.46  2.14           O 0
+ATOM   2030    O TYR A 473      22.112  17.445  30.761  0.38  8.57           O 0
+ATOM   2046   CE LYS A 474      22.814  22.239  32.404  0.00  0.00           C 0
+ATOM   1879   CD GLN A 454      29.012  19.748  27.684  0.00  0.00           C 0
+ATOM   1844    O VAL A 450      27.362  16.639  24.501  0.00  0.00           O 0
+ATOM   1905   NZ LYS A 457      26.366  27.301  26.897  0.00  0.00           N 0
+ATOM   1878   CG GLN A 454      29.435  18.525  26.881  0.00  0.00           C 0
+ATOM   1881  NE2 GLN A 454      29.676  19.971  28.819  0.00  0.00           N 0
+ATOM   2048    N ASP A 475      22.284  17.376  33.507  0.00  0.00           N 0
+ATOM   1869   CB LEU A 453      26.077  18.743  22.392  0.00  0.00           C 0
+ATOM   2007   CD GLN A 470      21.316  25.924  28.701  0.00  0.00           C 0
+ATOM   2009  NE2 GLN A 470      21.080  26.575  27.559  0.00  0.00           N 0
+ATOM   2004    O GLN A 470      19.799  21.515  29.681  0.00  0.00           O 0
+ATOM   2008  OE1 GLN A 470      22.085  26.349  29.564  0.39  2.14           O 0
+ATOM   2034  CD2 TYR A 473      20.881  18.574  25.455  0.00  0.00           C 0
+TER
+END

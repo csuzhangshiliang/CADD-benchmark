@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pqr format file writen by the programm fpocket.                 
+HEADER It represent the voronoi vertices of a single pocket found by the         
+HEADER algorithm.                                                                
+HEADER                                                                           
+HEADER Information about the pocket   262:
+HEADER 0  - Pocket Score                      : -0.0657
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of V. Vertices             :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8993
+HEADER 4  - Mean alpha-sphere SA              : 0.4946
+HEADER 5  - Mean B-factor                     : 0.7441
+HEADER 6  - Hydrophobicity Score              : -9.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Volume Score                      : 4.8333
+HEADER 9  - Real volume (approximation)       : 250.5447
+HEADER 10 - Charge Score                      :     1
+HEADER 11 - Local hydrophobic density Score   : 4.0000
+HEADER 12 - Number of apolar alpha sphere     :     5
+HEADER 13 - Proportion of apolar alpha sphere : 0.3125
+ATOM      1    O STP   262      27.238 160.911  92.334    0.00     3.69
+ATOM      2    O STP   262      26.866 160.780  92.538    0.00     3.62
+ATOM      3    O STP   262      26.860 160.126  92.022    0.00     4.15
+ATOM      4    O STP   262      24.401 160.215  92.914    0.00     3.84
+ATOM      5    C STP   262      23.999 160.231  92.885    0.00     3.91
+ATOM      6    C STP   262      27.811 158.024  93.866    0.00     3.44
+ATOM      7    C STP   262      27.584 157.887  93.925    0.00     3.46
+ATOM      8    O STP   262      27.054 158.474  91.326    0.00     4.17
+ATOM      9    C STP   262      27.471 158.525  92.904    0.00     3.81
+ATOM     10    C STP   262      27.574 158.060  93.729    0.00     3.53
+ATOM     11    O STP   262      24.274 160.130  92.792    0.00     3.92
+ATOM     12    O STP   262      22.905 159.885  91.369    0.00     4.58
+ATOM     13    O STP   262      26.582 159.734  91.940    0.00     4.41
+ATOM     14    O STP   262      26.130 159.896  92.444    0.00     4.14
+ATOM     15    O STP   262      24.734 160.097  92.808    0.00     3.88
+ATOM     16    O STP   262      25.923 159.817  93.010    0.00     3.84
+TER
+END

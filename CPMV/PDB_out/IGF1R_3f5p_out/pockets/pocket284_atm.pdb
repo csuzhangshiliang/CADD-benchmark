@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   284:
+HEADER 0  - Pocket Score                      : -0.0807
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    31
+HEADER 3  - Mean alpha-sphere radius          : 3.9191
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4564
+HEADER 5  - Mean B-factor of pocket residues  : 0.5613
+HEADER 6  - Hydrophobicity Score              : 14.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 297.3752
+HEADER 10  -Pocket volume (convex hull)       : 21.8251
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1290
+ATOM  31336    O ILE R 999      45.399  80.343 119.403  0.33  5.36           O 0
+ATOM  31348    N MET R1001      47.296  83.448 116.722  0.64  2.19           N 0
+ATOM  19171  OE2 GLU H1271      40.981  87.892 117.061  0.48  6.43           O 0
+ATOM  31342   CA THR R1000      47.027  82.572 118.977  0.00  0.00           C 0
+ATOM  31351    O MET R1001      46.822  85.960 115.943  0.00  0.00           O 0
+ATOM  17866   OG SER H1110      39.282  83.882 112.722  0.60  4.29           O 0
+ATOM  31355   CE MET R1001      46.045  82.127 111.891  0.00  0.00           C 0
+ATOM  17875   NZ LYS H1111      45.388  87.726 112.637  0.54  9.84           N 0
+ATOM  19168   CG GLU H1271      38.883  88.629 116.202  0.00  0.00           C 0
+ATOM  17864    O SER H1110      38.758  86.228 110.471  0.66  1.07           O 0
+ATOM  19169   CD GLU H1271      40.371  88.805 116.455  0.00  0.00           C 0
+ATOM  17896   CB GLN H1114      38.168  89.696 111.183  0.00  0.00           C 0
+ATOM  19170  OE1 GLU H1271      40.930  89.839 116.023  0.68  3.21           O 0
+ATOM  17873   CD LYS H1111      43.821  87.526 110.723  0.00  0.00           C 0
+ATOM  31353   CG MET R1001      47.212  81.889 114.403  0.00  0.00           C 0
+ATOM  31352   CB MET R1001      47.543  83.362 114.287  0.00  0.00           C 0
+ATOM  17865   CB SER H1110      39.898  83.365 111.561  0.00  0.00           C 0
+ATOM  17852   OG SER H1108      43.349  83.735 109.354  0.67  1.07           O 0
+ATOM  17874   CE LYS H1111      45.260  87.425 111.190  0.00  0.00           C 0
+ATOM  31345   CB THR R1000      47.071  83.594 120.143  0.00  0.00           C 0
+ATOM  17897   CG GLN H1114      38.273  90.725 112.297  0.00  0.00           C 0
+ATOM  17868   CA LYS H1111      41.102  87.007 109.232  0.00  0.00           C 0
+TER
+END

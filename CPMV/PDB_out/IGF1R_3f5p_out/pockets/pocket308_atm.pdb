@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   308:
+HEADER 0  - Pocket Score                      : -0.1112
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9923
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5382
+HEADER 5  - Mean B-factor of pocket residues  : 0.7999
+HEADER 6  - Hydrophobicity Score              : 33.5556
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 224.2442
+HEADER 10  -Pocket volume (convex hull)       : 7.2306
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM  31856    O LEU R1066      54.648  71.004 119.278  0.61  7.50           O 0
+ATOM  31496    O VAL R1021      55.560  72.153 124.202  0.00  0.00           O 0
+ATOM  31286    O GLU R 993      48.552  68.017 120.798  0.50  7.50           O 0
+ATOM  31263    O GLU R 991      52.817  64.851 120.590  0.00  0.00           O 0
+ATOM  31497   CB VAL R1021      53.421  73.984 122.715  0.00  0.00           C 0
+ATOM  31271    C TRP R 992      50.712  67.073 118.209  0.00  0.00           C 0
+ATOM  31272    O TRP R 992      50.838  68.219 117.785  0.00  0.00           O 0
+ATOM  31297  CG1 VAL R 994      49.543  71.560 119.107  0.00  0.00           C 0
+ATOM  31293   CA VAL R 994      47.565  70.565 120.321  0.00  0.00           C 0
+ATOM  31332   NZ LYS R 998      48.404  72.614 126.151  0.00  0.00           N 0
+ATOM  31299    N ALA R 995      45.582  71.691 121.134  0.65  2.19           N 0
+ATOM  31270   CA TRP R 992      51.899  66.139 118.312  0.00  0.00           C 0
+ATOM  31296   CB VAL R 994      48.692  71.623 120.364  0.00  0.00           C 0
+ATOM  31492    O GLY R1020      51.714  73.377 126.112  0.00  0.00           O 0
+ATOM  31494   CA VAL R1021      53.697  73.652 124.211  0.00  0.00           C 0
+TER
+END

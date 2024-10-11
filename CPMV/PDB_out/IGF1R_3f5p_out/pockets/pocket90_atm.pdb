@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    90:
+HEADER 0  - Pocket Score                      : 0.0417
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 3.9298
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6138
+HEADER 5  - Mean B-factor of pocket residues  : 0.6962
+HEADER 6  - Hydrophobicity Score              : 11.9000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.9000
+HEADER 9  - Pocket volume (Monte Carlo)       : 355.1064
+HEADER 10  -Pocket volume (convex hull)       : 25.0233
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   7873   SG CYS D1059     -23.399 119.421 111.876  0.00  0.00           S 0
+ATOM   9575   CA PHE D1279     -20.402 122.410 114.402  0.00  0.00           C 0
+ATOM   7874    N HIS D1060     -25.615 118.560 113.866  0.59  4.37           N 0
+ATOM   7869   CA CYS D1059     -24.011 116.995 112.954  0.00  0.00           C 0
+ATOM   7878   CB HIS D1060     -26.954 120.115 115.236  0.00  0.00           C 0
+ATOM   7880  ND1 HIS D1060     -29.465 119.917 115.468  0.59  6.56           N 0
+ATOM   7875   CA HIS D1060     -26.963 119.024 114.164  0.00  0.00           C 0
+ATOM   7917  NH1 ARG D1064     -27.151 113.892 115.482  0.50  8.75           N 0
+ATOM   7867  ND2 ASN D1058     -24.255 114.185 115.544  0.56  5.47           N 0
+ATOM   9571    O SER D1278     -21.746 122.845 116.811  0.46  3.21           O 0
+ATOM   7879   CG HIS D1060     -28.312 120.667 115.558  0.00  0.00           C 0
+ATOM   9566  CG1 VAL D1277     -28.042 122.424 119.611  0.00  0.00           C 0
+ATOM   9562   CA VAL D1277     -25.744 122.801 118.654  0.00  0.00           C 0
+ATOM   9565   CB VAL D1277     -27.261 122.833 118.374  0.00  0.00           C 0
+ATOM   9564    O VAL D1277     -25.011 121.787 116.598  0.00  0.00           O 0
+ATOM   9574    N PHE D1279     -21.720 122.993 114.570  0.00  0.00           N 0
+ATOM   9563    C VAL D1277     -24.991 122.787 117.320  0.00  0.00           C 0
+ATOM   9555    O GLU D1276     -24.986 122.517 121.309  0.00  0.00           O 0
+ATOM   9613   CB SER D1282     -18.766 121.363 118.141  0.00  0.00           C 0
+ATOM   9631  OE1 GLU D1284     -18.021 117.675 115.296  1.00  3.21           O 0
+ATOM   9614   OG SER D1282     -18.031 120.834 117.051  0.78  1.07           O 0
+ATOM   9578   CB PHE D1279     -20.262 121.784 113.010  0.00  0.00           C 0
+ATOM   7863    O ASN D1058     -22.145 115.353 114.167  0.57  5.36           O 0
+TER
+END

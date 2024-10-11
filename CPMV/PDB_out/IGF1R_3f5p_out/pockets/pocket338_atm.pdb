@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   338:
+HEADER 0  - Pocket Score                      : -0.1894
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 4.2384
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5568
+HEADER 5  - Mean B-factor of pocket residues  : 0.6459
+HEADER 6  - Hydrophobicity Score              : 8.1818
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1818
+HEADER 9  - Pocket volume (Monte Carlo)       : 383.8811
+HEADER 10  -Pocket volume (convex hull)       : 23.5874
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0769
+ATOM   2974   CB GLU B1050      45.505  78.207 151.341  0.00  0.00           C 0
+ATOM   2975   CG GLU B1050      44.073  78.214 151.777  0.00  0.00           C 0
+ATOM   2971   CA GLU B1050      45.858  77.071 150.384  0.00  0.00           C 0
+ATOM   2942  OE2 GLU B1046      47.212  76.705 157.777  0.00  0.00           O 0
+ATOM   2977  OE1 GLU B1050      44.333  79.929 153.425  0.53  3.21           O 0
+ATOM   3736    O GLY B1155      41.232  76.398 155.593  0.44  9.64           O 0
+ATOM   2937    O GLU B1046      48.741  77.926 152.860  0.62  2.14           O 0
+ATOM   2970    N GLU B1050      47.289  76.795 150.449  0.00  0.00           N 0
+ATOM   3761  NH1 ARG B1158      41.484  72.448 155.607  0.00  0.00           N 0
+ATOM   3762  NH2 ARG B1158      41.663  72.716 157.888  0.39  8.75           N 0
+ATOM   2965    O ASN B1049      47.212  74.886 149.252  0.56  1.07           O 0
+ATOM   2996  CG2 VAL B1053      44.420  73.095 148.607  0.00  0.00           C 0
+ATOM   3725    O PHE B1154      39.957  76.111 151.940  0.33  3.21           O 0
+ATOM   3758   CD ARG B1158      40.737  69.758 155.915  0.00  0.00           C 0
+ATOM   2148   NZ LYS A1254      47.851  67.654 158.205  0.67  7.66           N 0
+HETATM 3845  O2P PTR B1166      42.916  68.891 158.971  0.37  7.50           O 0
+ATOM   3759   NE ARG B1158      41.054  70.672 157.008  0.00  0.00           N 0
+ATOM   3748    O THR B1157      40.151  71.892 153.250  0.19  5.36           O 0
+ATOM   2966   CB ASN B1049      49.691  74.793 151.319  0.00  0.00           C 0
+ATOM   2964    C ASN B1049      47.846  75.725 149.888  0.00  0.00           C 0
+ATOM   3760   CZ ARG B1158      41.400  71.944 156.837  0.00  0.00           C 0
+ATOM   2156   CE MET A1255      50.255  72.928 156.633  0.00  0.00           C 0
+TER
+END

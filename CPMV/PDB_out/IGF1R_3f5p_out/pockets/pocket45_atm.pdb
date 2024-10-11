@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    45:
+HEADER 0  - Pocket Score                      : 0.1146
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.6968
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5860
+HEADER 5  - Mean B-factor of pocket residues  : 0.6905
+HEADER 6  - Hydrophobicity Score              : 16.1429
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 233.2361
+HEADER 10  -Pocket volume (convex hull)       : 6.2858
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4444
+ATOM  36114    C MET T1001     -71.722 142.021 137.608  0.00  0.00           C 0
+ATOM  36109   CB THR T1000     -69.723 143.444 133.112  0.00  0.00           C 0
+ATOM  36124   CB SER T1002     -74.367 139.785 136.645  0.00  0.00           C 0
+ATOM  36115    O MET T1001     -72.282 143.124 137.649  0.35  6.43           O 0
+ATOM  36108    O THR T1000     -69.329 140.953 135.041  0.59  1.07           O 0
+ATOM  36110  OG1 THR T1000     -69.559 142.532 132.015  0.00  0.00           O 0
+ATOM  36238  CG2 VAL T1017     -71.027 138.171 131.102  0.00  0.00           C 0
+ATOM  36107    C THR T1000     -69.275 142.170 135.258  0.00  0.00           C 0
+ATOM  36229   CA GLY T1016     -69.960 137.934 135.829  0.00  0.00           C 0
+ATOM  36230    C GLY T1016     -69.514 137.482 134.459  0.00  0.00           C 0
+ATOM  36224   CG GLU T1015     -72.428 135.127 137.217  0.00  0.00           C 0
+ATOM  36125   OG SER T1002     -74.548 138.522 137.261  0.60  1.07           O 0
+ATOM  36227  OE2 GLU T1015     -73.762 133.735 135.809  0.24  5.36           O 0
+ATOM  36325   CG ARG T1029     -71.437 133.087 131.718  0.00  0.00           C 0
+ATOM  36327   NE ARG T1029     -73.256 132.106 133.091  0.00  0.00           N 0
+ATOM  36326   CD ARG T1029     -72.570 132.063 131.799  0.00  0.00           C 0
+ATOM  36232    N VAL T1017     -69.288 138.477 133.615  0.00  0.00           N 0
+ATOM  36120    N SER T1002     -72.388 140.871 137.657  0.00  0.00           N 0
+ATOM  36231    O GLY T1016     -69.373 136.282 134.174  0.00  0.00           O 0
+TER
+END

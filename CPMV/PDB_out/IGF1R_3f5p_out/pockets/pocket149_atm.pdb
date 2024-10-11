@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   149:
+HEADER 0  - Pocket Score                      : -0.0002
+HEADER 1  - Drug Score                        : 0.0019
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7286
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5149
+HEADER 5  - Mean B-factor of pocket residues  : 0.5618
+HEADER 6  - Hydrophobicity Score              : -23.7143
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 196.2935
+HEADER 10  -Pocket volume (convex hull)       : 5.9680
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6250
+ATOM  16032   CA GLU G1182      17.069 127.998  87.311  0.00  0.00           C 0
+ATOM  16035   CB GLU G1182      17.173 127.051  88.506  0.00  0.00           C 0
+ATOM  16598  CE2 TYR G1251      23.471 126.347  85.909  0.00  0.00           C 0
+ATOM  16031    N GLU G1182      18.038 129.083  87.424  0.77  1.09           N 0
+ATOM  16038  OE1 GLU G1182      19.334 128.071  89.843  0.66  3.21           O 0
+ATOM  16600   OH TYR G1251      22.550 127.440  84.033  0.67  8.57           O 0
+ATOM  16027    O PRO G1181      17.858 129.661  85.258  0.00  0.00           O 0
+ATOM  16060   CD LYS G1185      18.228 126.054  82.051  0.00  0.00           C 0
+ATOM  16061   CE LYS G1185      17.972 124.586  82.436  0.00  0.00           C 0
+ATOM  16070  OD2 ASP G1186      14.835 124.474  85.124  0.00  0.00           O 0
+ATOM  16062   NZ LYS G1185      19.199 123.738  82.299  0.52  9.84           N 0
+ATOM  16615   CD PRO G1253      21.042 124.771  91.594  0.00  0.00           C 0
+ATOM  16602   CA ASN G1252      23.930 124.511  91.280  0.00  0.00           C 0
+ATOM  16596  CD2 TYR G1251      24.272 126.356  87.035  0.00  0.00           C 0
+ATOM  16592    O TYR G1251      22.957 126.839  90.268  0.72  1.07           O 0
+TER
+END

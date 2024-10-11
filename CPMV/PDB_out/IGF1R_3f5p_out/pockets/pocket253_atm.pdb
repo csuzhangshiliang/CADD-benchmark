@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   253:
+HEADER 0  - Pocket Score                      : -0.0626
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.1089
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5736
+HEADER 5  - Mean B-factor of pocket residues  : 0.5696
+HEADER 6  - Hydrophobicity Score              : 24.1250
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 234.7158
+HEADER 10  -Pocket volume (convex hull)       : 2.0153
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5556
+ATOM  22461   CA GLU J1080       7.170 105.088 134.679  0.00  0.00           C 0
+ATOM  22063  CG2 THR J1028       8.937 103.278 128.708  0.00  0.00           C 0
+ATOM  22464   CB GLU J1080       6.512 106.432 134.360  0.00  0.00           C 0
+ATOM  22067    O ARG J1029      10.823 103.299 132.064  0.51  5.36           O 0
+ATOM  22367  CD1 LEU J1066       5.507 102.674 131.772  0.00  0.00           C 0
+ATOM  22465   CG GLU J1080       7.427 107.648 134.378  0.00  0.00           C 0
+ATOM  22014  CG2 VAL J1022       5.463 103.588 127.800  0.00  0.00           C 0
+ATOM  22368  CD2 LEU J1066       3.314 103.601 130.960  0.00  0.00           C 0
+ATOM  22040  OE2 GLU J1025       7.941 106.185 125.289  0.00  0.00           O 0
+ATOM  22467  OE1 GLU J1080       7.283 109.870 133.570  0.00  0.00           O 0
+ATOM  22351  NH1 ARG J1064       2.405 108.352 129.664  0.00  0.00           N 0
+ATOM  22469    N LEU J1081       9.609 105.232 134.784  0.00  0.00           N 0
+ATOM  22466   CD GLU J1080       6.680 108.947 134.141  0.00  0.00           C 0
+ATOM  22472    O LEU J1081      11.335 107.584 134.739  0.00  0.00           O 0
+TER
+END

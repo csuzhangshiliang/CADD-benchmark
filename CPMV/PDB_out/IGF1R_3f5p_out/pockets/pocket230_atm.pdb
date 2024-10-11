@@ -1,0 +1,61 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   230:
+HEADER 0  - Pocket Score                      : -0.0482
+HEADER 1  - Drug Score                        : 0.0091
+HEADER 2  - Number of alpha spheres           :    44
+HEADER 3  - Mean alpha-sphere radius          : 3.9450
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5611
+HEADER 5  - Mean B-factor of pocket residues  : 0.6621
+HEADER 6  - Hydrophobicity Score              : 10.6667
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 3.7333
+HEADER 9  - Pocket volume (Monte Carlo)       : 513.5492
+HEADER 10  -Pocket volume (convex hull)       : 118.9405
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.3636
+ATOM  28813   OG SER L 980      45.209   5.536 108.150  0.00  0.00           O 0
+ATOM  28405   CB ASP M1239      49.694   1.140 105.102  0.00  0.00           C 0
+ATOM  28812   CB SER L 980      45.453   4.407 108.975  0.00  0.00           C 0
+ATOM  28407  OD1 ASP M1239      47.890  -0.419 105.078  0.00  0.00           O 0
+ATOM  28817    O PHE L 981      48.136   7.365 107.243  0.72  8.57           O 0
+ATOM  28404    O ASP M1239      51.740   3.534 104.481  0.78  1.07           O 0
+ATOM  28443  OE1 GLU M1243      50.020   5.521 102.110  0.74  6.43           O 0
+ATOM  28441   CG GLU M1243      50.382   7.311 103.646  0.00  0.00           C 0
+ATOM  28442   CD GLU M1243      50.072   6.760 102.265  0.00  0.00           C 0
+ATOM  28444  OE2 GLU M1243      49.874   7.571 101.336  0.70  2.14           O 0
+ATOM  28829   CB SER L 982      46.718  10.476 107.394  0.00  0.00           C 0
+ATOM  28831    N ALA L 983      48.898  12.305 106.492  0.73  1.09           N 0
+ATOM  29280   CE MET L1041      50.553  10.848 101.910  0.00  0.00           C 0
+ATOM  29307   CD ARG L1044      45.322  14.257 104.899  0.00  0.00           C 0
+ATOM  28409    N MET M1240      52.213   2.570 106.469  0.52  2.19           N 0
+ATOM  28403    C ASP M1239      51.743   2.549 105.224  0.00  0.00           C 0
+ATOM  28814    N PHE L 981      47.961   5.943 109.673  0.58  4.37           N 0
+ATOM  29527    O GLY L1072      41.707  10.333 110.607  0.42  6.43           O 0
+ATOM  28811    O SER L 980      46.334   7.209 110.598  0.14  3.21           O 0
+ATOM  28826   CA SER L 982      48.218  10.148 107.386  0.00  0.00           C 0
+ATOM  29255  OE1 GLU L1037      40.167   6.244 102.315  0.00  0.00           O 0
+ATOM  29251    O GLU L1037      40.854  10.270 101.082  0.61  7.50           O 0
+ATOM  29310  NH1 ARG L1044      42.906  13.414 103.776  0.75  2.19           N 0
+ATOM  29252   CB GLU L1037      39.456   8.762 103.581  0.00  0.00           C 0
+ATOM  29249   CA GLU L1037      39.629  10.209 103.155  0.00  0.00           C 0
+ATOM  29308   NE ARG L1044      44.163  13.815 105.657  0.00  0.00           N 0
+ATOM  29531    O GLN L1073      40.127  10.671 107.977  0.70  3.21           O 0
+ATOM  29311  NH2 ARG L1044      42.011  13.036 105.872  0.66  1.09           N 0
+ATOM  29529   CA GLN L1073      39.451   9.011 109.561  0.00  0.00           C 0
+ATOM  29265    O ALA L1039      43.096  12.547  99.807  0.48  8.57           O 0
+ATOM  29273    N MET L1041      46.394  13.389  99.072  0.61  2.19           N 0
+ATOM  28471  NH2 ARG M1246      48.828   9.751  97.349  0.00  0.00           N 0
+ATOM  29268   CA SER L1040      44.412  13.687  97.710  0.00  0.00           C 0
+ATOM  28470  NH1 ARG M1246      48.990   8.405  99.197  0.58  5.47           N 0
+ATOM  29309   CZ ARG L1044      43.023  13.425 105.101  0.00  0.00           C 0
+ATOM  29277   CB MET L1041      48.519  12.821 100.132  0.00  0.00           C 0
+ATOM  29274   CA MET L1041      47.343  13.781 100.092  0.00  0.00           C 0
+ATOM  29278   CG MET L1041      49.643  13.283 101.034  0.00  0.00           C 0
+ATOM  28818   CB PHE L 981      50.316   6.504 109.284  0.00  0.00           C 0
+TER
+END

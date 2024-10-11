@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    44:
+HEADER 0  - Pocket Score                      : 0.1152
+HEADER 1  - Drug Score                        : 0.0191
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.6848
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3813
+HEADER 5  - Mean B-factor of pocket residues  : 0.8554
+HEADER 6  - Hydrophobicity Score              : 57.0833
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.4167
+HEADER 9  - Pocket volume (Monte Carlo)       : 166.6610
+HEADER 10  -Pocket volume (convex hull)       : 7.6640
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 0.8571
+ATOM  12619   CB ALA F1051      34.242 155.005 147.757  0.00  0.00           C 0
+ATOM  12596  CD1 LEU F1048      28.819 153.280 149.715  0.00  0.00           C 0
+ATOM  12815  CG2 VAL F1077      32.619 149.553 147.283  0.00  0.00           C 0
+ATOM  12588  CE2 PHE F1047      33.168 151.677 150.125  0.00  0.00           C 0
+ATOM  12124  CG2 VAL F 988      28.088 155.874 142.656  0.00  0.00           C 0
+ATOM  12131   CD PRO F 989      29.083 159.094 142.269  0.00  0.00           C 0
+ATOM  12122   CB VAL F 988      27.815 156.285 144.091  0.00  0.00           C 0
+ATOM  12750  CG1 VAL F1068      31.048 153.158 143.089  0.00  0.00           C 0
+ATOM  12154   CG TRP F 992      31.900 156.916 139.910  0.00  0.00           C 0
+ATOM  12593    O LEU F1048      31.604 157.503 148.817  0.53  2.14           O 0
+ATOM  12109    O TYR F 987      27.779 159.261 146.417  0.15  4.29           O 0
+ATOM  12751  CG2 VAL F1068      28.926 151.942 143.708  0.00  0.00           C 0
+ATOM  12800  CG2 THR F1075      27.516 149.556 146.986  0.00  0.00           C 0
+ATOM  12618    O ALA F1051      35.318 157.382 146.006  0.56  3.21           O 0
+ATOM  12621   CA SER F1052      33.799 159.523 146.926  0.00  0.00           C 0
+ATOM  12731  CD1 LEU F1065      35.742 154.371 144.441  0.00  0.00           C 0
+ATOM  12749   CB VAL F1068      30.411 151.803 143.331  0.00  0.00           C 0
+ATOM  12595   CG LEU F1048      28.531 154.559 148.949  0.00  0.00           C 0
+TER
+END

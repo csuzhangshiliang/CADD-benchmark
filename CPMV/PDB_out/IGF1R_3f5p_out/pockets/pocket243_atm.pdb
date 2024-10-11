@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   243:
+HEADER 0  - Pocket Score                      : -0.0547
+HEADER 1  - Drug Score                        : 0.0088
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.9948
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5275
+HEADER 5  - Mean B-factor of pocket residues  : 0.3482
+HEADER 6  - Hydrophobicity Score              : 22.5833
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5833
+HEADER 9  - Pocket volume (Monte Carlo)       : 329.4941
+HEADER 10  -Pocket volume (convex hull)       : 11.8080
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 18.0000
+HEADER 13 - Number of apolar alpha sphere     :    19
+HEADER 14 - Proportion of apolar alpha sphere : 0.7308
+ATOM  23240   CA GLY J1187      -7.806 117.351 160.918  0.00  0.00           C 0
+ATOM  23096    O LYS J1168     -10.385 113.237 161.810  0.75  5.36           O 0
+ATOM  23109    O GLY J1170      -7.210 110.501 164.422  0.00  0.00           O 0
+ATOM  23234    O ASP J1186     -10.023 117.877 162.447  0.67  8.57           O 0
+ATOM  23105    O GLY J1169     -10.231 110.880 164.579  0.00  0.00           O 0
+ATOM  23097   CB LYS J1168      -7.958 112.855 159.860  0.00  0.00           C 0
+ATOM  23098   CG LYS J1168      -7.247 111.655 160.448  0.00  0.00           C 0
+ATOM  23258  CE1 PHE J1189      -6.022 115.994 157.560  0.00  0.00           C 0
+ATOM  23260   CZ PHE J1189      -4.668 116.045 157.455  0.00  0.00           C 0
+ATOM  23185   CE MET J1179      -2.215 117.769 160.155  0.00  0.00           C 0
+ATOM  23119    N GLY J1172      -3.625 110.011 163.038  0.70  2.19           N 0
+ATOM  23120   CA GLY J1172      -3.013 110.170 161.737  0.00  0.00           C 0
+ATOM  22814  NH2 ARG J1134      -4.742 111.928 156.475  0.47  6.56           N 0
+ATOM  23137  CD1 LEU J1174      -1.667 113.734 156.284  0.00  0.00           C 0
+ATOM  23135   CB LEU J1174       0.210 113.574 157.899  0.00  0.00           C 0
+ATOM  23136   CG LEU J1174      -0.522 112.858 156.769  0.00  0.00           C 0
+ATOM  23122    O GLY J1172      -1.119 110.935 162.966  0.22  6.43           O 0
+ATOM  23211    O SER J1183      -5.569 119.237 161.413  0.62  4.29           O 0
+ATOM  23217    O LEU J1184      -4.609 120.130 164.798  0.45  5.36           O 0
+ATOM  23239    N GLY J1187      -8.028 118.569 161.680  0.00  0.00           N 0
+ATOM  23184   SD MET J1179      -0.618 116.955 160.012  0.00  0.00           S 0
+ATOM  23131    N LEU J1174       0.645 111.882 159.641  0.00  0.00           N 0
+ATOM  23121    C GLY J1172      -1.535 110.371 161.946  0.00  0.00           C 0
+TER
+END

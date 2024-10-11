@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   192:
+HEADER 0  - Pocket Score                      : -0.0252
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.9850
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5727
+HEADER 5  - Mean B-factor of pocket residues  : 0.2744
+HEADER 6  - Hydrophobicity Score              : 37.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 186.0453
+HEADER 10  -Pocket volume (convex hull)       : 6.1751
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.4615
+ATOM   4585   CA SER B1258      22.293  66.404 147.117  0.00  0.00           C 0
+ATOM   4588   CB SER B1258      22.680  65.321 146.129  0.00  0.00           C 0
+ATOM   4590    N PHE B1259      23.416  68.345 146.204  0.73  3.28           N 0
+ATOM   4038  OG1 THR B1191      27.555  65.330 150.313  0.37  8.57           O 0
+ATOM   3517  OD1 ASN B1127      28.747  68.500 148.486  0.60  3.21           O 0
+ATOM   3487   CA ALA B1124      28.051  70.314 143.423  0.00  0.00           C 0
+ATOM   4601    N LEU B1260      23.105  68.274 143.461  0.00  0.00           N 0
+ATOM   4594   CB PHE B1259      24.855  70.210 145.494  0.00  0.00           C 0
+ATOM   3515   CB ASN B1127      30.114  67.491 146.756  0.00  0.00           C 0
+ATOM   4606   CG LEU B1260      24.633  66.898 141.052  0.00  0.00           C 0
+ATOM   3489    O ALA B1124      29.790  68.778 142.823  0.55  3.21           O 0
+ATOM   3490   CB ALA B1124      26.958  70.316 142.366  0.00  0.00           C 0
+ATOM   4589   OG SER B1258      22.228  65.640 144.827  0.62  3.21           O 0
+ATOM   4597  CD2 PHE B1259      26.316  70.387 147.520  0.00  0.00           C 0
+ATOM   4607  CD1 LEU B1260      25.155  65.593 140.492  0.00  0.00           C 0
+ATOM   3523   CB ALA B1128      31.688  66.526 141.496  0.00  0.00           C 0
+ATOM   3520   CA ALA B1128      32.122  65.940 142.822  0.00  0.00           C 0
+ATOM   3519    N ALA B1128      31.808  66.866 143.911  0.00  0.00           N 0
+ATOM   3514    O ASN B1127      31.939  65.329 145.543  0.00  0.00           O 0
+ATOM   3513    C ASN B1127      31.780  66.490 145.184  0.00  0.00           C 0
+TER
+END

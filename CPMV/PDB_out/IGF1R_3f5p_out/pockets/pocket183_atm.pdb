@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   183:
+HEADER 0  - Pocket Score                      : -0.0194
+HEADER 1  - Drug Score                        : 0.0090
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 3.9072
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5240
+HEADER 5  - Mean B-factor of pocket residues  : 0.3706
+HEADER 6  - Hydrophobicity Score              : 32.6000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.9000
+HEADER 9  - Pocket volume (Monte Carlo)       : 265.8950
+HEADER 10  -Pocket volume (convex hull)       : 11.1509
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 20.0000
+HEADER 13 - Number of apolar alpha sphere     :    21
+HEADER 14 - Proportion of apolar alpha sphere : 0.7500
+ATOM  13513   CG LYS F1168      42.930 164.689 165.577  0.00  0.00           C 0
+ATOM  13524    O GLY F1170      42.142 164.346 169.584  0.48  7.50           O 0
+ATOM  13512   CB LYS F1168      43.796 165.804 165.016  0.00  0.00           C 0
+ATOM  13511    O LYS F1168      43.351 167.877 167.136  0.54  4.29           O 0
+ATOM  13655   CA GLY F1187      47.829 167.559 165.982  0.00  0.00           C 0
+ATOM  13626    O SER F1183      50.743 165.691 166.511  0.52  2.14           O 0
+ATOM  13654    N GLY F1187      48.937 168.154 166.706  0.00  0.00           N 0
+ATOM  13632    O LEU F1184      52.143 165.443 169.992  0.00  0.00           O 0
+ATOM  13600   CE MET F1179      50.426 162.320 165.641  0.00  0.00           C 0
+ATOM  13535   CA GLY F1172      43.407 160.337 167.158  0.00  0.00           C 0
+ATOM  13599   SD MET F1179      50.487 160.557 165.382  0.00  0.00           S 0
+ATOM  13537    O GLY F1172      44.695 158.647 168.258  0.34  5.36           O 0
+ATOM  13675   CZ PHE F1189      47.992 163.837 162.557  0.00  0.00           C 0
+ATOM  13536    C GLY F1172      44.006 158.950 167.282  0.00  0.00           C 0
+ATOM  13534    N GLY F1172      42.941 160.851 168.434  0.55  7.66           N 0
+ATOM  13229  NH2 ARG F1134      44.489 162.452 161.729  0.52  2.19           N 0
+ATOM  13551   CG LEU F1174      46.550 159.067 162.313  0.00  0.00           C 0
+ATOM  13552  CD1 LEU F1174      47.141 160.328 161.685  0.00  0.00           C 0
+ATOM  13673  CE1 PHE F1189      47.281 164.999 162.567  0.00  0.00           C 0
+ATOM  13550   CB LEU F1174      47.535 158.452 163.309  0.00  0.00           C 0
+ATOM  13546    N LEU F1174      45.927 157.404 164.848  0.00  0.00           N 0
+ATOM  13549    O LEU F1174      48.460 156.952 165.920  0.65  6.43           O 0
+TER
+END

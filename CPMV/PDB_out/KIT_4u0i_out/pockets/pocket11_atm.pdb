@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0651
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0590
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5394
+HEADER 5  - Mean B-factor of pocket residues  : 0.7732
+HEADER 6  - Hydrophobicity Score              : 30.6250
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 190.7127
+HEADER 10  -Pocket volume (convex hull)       : 8.0225
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3684
+ATOM    282    N ALA A 599      48.238   2.869  40.463  0.54  2.19           N 0
+ATOM   1374    O LEU A 813      44.519   4.065  42.143  0.72  3.21           O 0
+ATOM    287    N PHE A 600      46.578   0.611  40.023  0.00  0.00           N 0
+ATOM    294  CD2 PHE A 600      47.078  -1.802  42.669  0.00  0.00           C 0
+ATOM   1418   CE LYS A 818      52.194   3.128  46.194  0.00  0.00           C 0
+ATOM   1417   CD LYS A 818      52.699   3.835  44.907  0.00  0.00           C 0
+ATOM    286   CB ALA A 599      49.529   0.870  40.910  0.00  0.00           C 0
+ATOM    296  CE2 PHE A 600      48.197  -2.508  43.122  0.00  0.00           C 0
+ATOM   1387    O ARG A 815      47.261   6.512  43.445  0.50  2.14           O 0
+ATOM   1370    O GLY A 812      43.861   5.916  45.404  0.61  6.43           O 0
+ATOM   1410  CD1 ILE A 817      49.405   5.251  48.513  0.00  0.00           C 0
+ATOM   1409  CG2 ILE A 817      48.308   7.412  47.027  0.00  0.00           C 0
+ATOM   1403    N ILE A 817      49.986   7.409  44.715  0.00  0.00           N 0
+ATOM   1408  CG1 ILE A 817      50.210   5.883  47.395  0.00  0.00           C 0
+ATOM   1401  OD1 ASP A 816      51.547   6.136  41.475  0.59  1.07           O 0
+ATOM   1372   CA LEU A 813      43.037   3.604  43.998  0.00  0.00           C 0
+ATOM   1378  CD2 LEU A 813      43.393   0.799  44.891  0.00  0.00           C 0
+TER
+END

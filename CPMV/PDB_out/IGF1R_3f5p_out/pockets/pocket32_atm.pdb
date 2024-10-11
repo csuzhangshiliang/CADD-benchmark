@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    32:
+HEADER 0  - Pocket Score                      : 0.1886
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.4965
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4006
+HEADER 5  - Mean B-factor of pocket residues  : 0.1455
+HEADER 6  - Hydrophobicity Score              : 21.1818
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.0909
+HEADER 9  - Pocket volume (Monte Carlo)       : 113.3843
+HEADER 10  -Pocket volume (convex hull)       : 3.1724
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0870
+ATOM   1173  OD1 ASP A1135      70.952  56.232 158.213  0.53  2.14           O 0
+ATOM   1501   CD PRO A1175      71.644  56.879 162.099  0.00  0.00           C 0
+ATOM   1159    O ARG A1134      66.441  57.198 158.143  0.59  5.36           O 0
+ATOM   1491   CB LEU A1174      68.193  55.623 162.610  0.00  0.00           C 0
+ATOM   1539   CG MET A1179      65.409  59.919 163.437  0.00  0.00           C 0
+ATOM   1493  CD1 LEU A1174      66.311  55.380 161.017  0.00  0.00           C 0
+ATOM   1535   CA MET A1179      66.025  62.084 162.321  0.00  0.00           C 0
+ATOM   1522    C TRP A1178      67.892  62.798 160.934  0.00  0.00           C 0
+ATOM   1498    O PRO A1175      69.752  59.659 163.376  0.55  2.14           O 0
+ATOM   1648   OG SER A1193      60.873  60.043 157.628  0.84  1.07           O 0
+ATOM   1615  CE2 PHE A1189      63.102  57.168 160.727  0.00  0.00           C 0
+ATOM   1647   CB SER A1193      60.691  61.321 158.207  0.00  0.00           C 0
+ATOM   1569   OG SER A1183      60.929  60.047 161.560  0.61  1.07           O 0
+ATOM   1683   OG SER A1197      66.438  61.834 157.061  0.65  2.14           O 0
+ATOM   1613  CD2 PHE A1189      62.149  57.159 159.747  0.00  0.00           C 0
+ATOM   1646    O SER A1193      63.179  62.786 156.681  0.41  1.07           O 0
+ATOM   1524   CB TRP A1178      70.068  62.016 159.973  0.00  0.00           C 0
+ATOM   1542    N SER A1180      63.867  63.102 161.788  0.69  2.19           N 0
+ATOM   1523    O TRP A1178      67.220  62.835 159.895  0.00  0.00           O 0
+TER
+END

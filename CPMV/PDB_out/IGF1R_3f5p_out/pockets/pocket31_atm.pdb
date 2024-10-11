@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    31:
+HEADER 0  - Pocket Score                      : 0.2720
+HEADER 1  - Drug Score                        : 0.0301
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.9868
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5321
+HEADER 5  - Mean B-factor of pocket residues  : 0.2573
+HEADER 6  - Hydrophobicity Score              : 40.3333
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 247.4146
+HEADER 10  -Pocket volume (convex hull)       : 8.9224
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 16.7778
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 0.7826
+ATOM  22871   CG MET J1142       9.071 110.182 142.095  0.00  0.00           C 0
+ATOM  22948    O GLY J1152       3.967 108.444 143.572  0.42  5.36           O 0
+ATOM  22340  CG1 VAL J1063       6.169 108.212 138.365  0.00  0.00           C 0
+ATOM  22873   CE MET J1142      10.694 107.991 141.678  0.00  0.00           C 0
+ATOM  22341  CG2 VAL J1063       5.655 110.260 139.659  0.00  0.00           C 0
+ATOM  22456   CB MET J1079       5.698 102.991 138.185  0.00  0.00           C 0
+ATOM  22463    O GLU J1080       8.455 105.385 136.705  0.00  0.00           O 0
+ATOM  22872   SD MET J1142      10.200 109.104 142.980  0.00  0.00           S 0
+ATOM  22086   CB ALA J1031       9.915 101.923 138.645  0.00  0.00           C 0
+ATOM  22095    N LYS J1033       7.568  96.979 140.742  0.00  0.00           N 0
+ATOM  22085    O ALA J1031       7.955  99.826 137.431  0.00  0.00           O 0
+ATOM  22084    C ALA J1031       9.106  99.720 137.832  0.00  0.00           C 0
+ATOM  21949  CG1 VAL J1013      11.123 100.136 142.303  0.00  0.00           C 0
+ATOM  22099   CB LYS J1033       6.568  97.537 142.881  0.00  0.00           C 0
+ATOM  22457   CG MET J1079       4.615 102.643 139.180  0.00  0.00           C 0
+ATOM  21950  CG2 VAL J1013      10.008  99.847 144.530  0.00  0.00           C 0
+ATOM  22101   CD LYS J1033       6.212  98.506 145.110  0.00  0.00           C 0
+ATOM  22440    O VAL J1077       5.402  97.855 138.790  0.00  0.00           O 0
+ATOM  22459   CE MET J1079       3.525 105.195 138.994  0.00  0.00           C 0
+TER
+END

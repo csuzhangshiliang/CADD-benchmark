@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   263:
+HEADER 0  - Pocket Score                      : -0.0661
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8887
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5622
+HEADER 5  - Mean B-factor of pocket residues  : 0.4034
+HEADER 6  - Hydrophobicity Score              : -20.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 261.8619
+HEADER 10  -Pocket volume (convex hull)       : 8.7178
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM  11232   NZ LYS E1185      27.551 170.210 170.202  0.00  0.00           N 0
+ATOM  11230   CD LYS E1185      25.209 170.938 169.603  0.00  0.00           C 0
+ATOM  11240  OD2 ASP E1186      26.783 174.157 166.800  0.61  8.57           O 0
+ATOM  11205   CB GLU E1182      24.313 171.647 163.515  0.00  0.00           C 0
+ATOM  11768  CE2 TYR E1251      25.027 165.383 166.142  0.00  0.00           C 0
+ATOM  11202   CA GLU E1182      23.253 171.743 164.625  0.00  0.00           C 0
+ATOM  11762    O TYR E1251      24.486 165.816 162.014  0.00  0.00           O 0
+ATOM  11208  OE1 GLU E1182      22.921 169.819 162.011  0.71  1.07           O 0
+ATOM  11201    N GLU E1182      22.241 170.696 164.493  0.00  0.00           N 0
+ATOM  11770   OH TYR E1251      23.896 166.298 168.026  0.63  9.64           O 0
+ATOM  11785   CD PRO E1253      26.426 167.673 160.541  0.00  0.00           C 0
+ATOM  11766  CD2 TYR E1251      25.013 164.557 165.022  0.00  0.00           C 0
+ATOM  11772   CA ASN E1252      26.689 164.822 160.623  0.00  0.00           C 0
+ATOM  11776   CG ASN E1252      29.122 164.623 159.860  0.00  0.00           C 0
+ATOM  11777  OD1 ASN E1252      29.092 165.829 159.598  0.24  6.43           O 0
+ATOM  11775   CB ASN E1252      27.870 163.888 160.330  0.00  0.00           C 0
+TER
+END

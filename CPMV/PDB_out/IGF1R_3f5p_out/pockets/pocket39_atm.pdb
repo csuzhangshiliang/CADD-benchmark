@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    39:
+HEADER 0  - Pocket Score                      : 0.1267
+HEADER 1  - Drug Score                        : 0.0216
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.8081
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4337
+HEADER 5  - Mean B-factor of pocket residues  : 0.5801
+HEADER 6  - Hydrophobicity Score              : 43.2222
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 297.1341
+HEADER 10  -Pocket volume (convex hull)       : 20.1088
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 19.4286
+HEADER 13 - Number of apolar alpha sphere     :    21
+HEADER 14 - Proportion of apolar alpha sphere : 0.8400
+ATOM  32071   CB LEU R1094      75.149  92.080 106.710  0.00  0.00           C 0
+ATOM  32106   CD PRO R1107      80.427  91.492 107.389  0.00  0.00           C 0
+ATOM  32070    O LEU R1094      76.294  94.380 105.449  0.68  7.50           O 0
+ATOM  32094   CA PRO R1106      81.295  94.135 108.451  0.00  0.00           C 0
+ATOM  32100    N PRO R1107      80.861  91.735 108.775  0.51  1.09           N 0
+ATOM  32093    N PRO R1106      80.908  95.276 109.295  0.00  0.00           N 0
+ATOM  32074  CD2 LEU R1094      74.029  91.854 108.921  0.00  0.00           C 0
+ATOM  32073  CD1 LEU R1094      75.497  90.015 108.058  0.00  0.00           C 0
+ATOM  32041   OH TYR R1090      73.254  89.189 111.849  0.76  3.21           O 0
+ATOM  32132   CG LYS R1111      78.980  87.807 113.598  0.00  0.00           C 0
+ATOM  32134   CE LYS R1111      78.811  89.231 115.699  0.00  0.00           C 0
+ATOM  32101   CA PRO R1107      80.867  90.511 109.585  0.00  0.00           C 0
+ATOM  32104   CB PRO R1107      80.101  89.513 108.716  0.00  0.00           C 0
+ATOM  32095    C PRO R1106      81.424  92.848 109.273  0.00  0.00           C 0
+ATOM  32168   CE MET R1115      75.306  85.126 110.552  0.00  0.00           C 0
+ATOM  32049  CD2 LEU R1091      75.454  85.871 105.923  0.00  0.00           C 0
+ATOM  32167   SD MET R1115      76.314  83.870 109.790  0.00  0.00           S 0
+ATOM  32141   CG MET R1112      81.709  85.161 108.595  0.00  0.00           C 0
+ATOM  32131   CB LYS R1111      80.171  87.161 112.925  0.00  0.00           C 0
+ATOM  32893  CG2 ILE R1205      79.073  83.658 106.595  0.00  0.00           C 0
+ATOM  32890    O ILE R1205      79.460  85.811 104.516  0.00  0.00           O 0
+ATOM  32129    C LYS R1111      80.344  84.712 112.556  0.00  0.00           C 0
+TER
+END

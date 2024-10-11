@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   120:
+HEADER 0  - Pocket Score                      : 0.0195
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    31
+HEADER 3  - Mean alpha-sphere radius          : 4.0879
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5387
+HEADER 5  - Mean B-factor of pocket residues  : 0.5042
+HEADER 6  - Hydrophobicity Score              : 44.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.1000
+HEADER 9  - Pocket volume (Monte Carlo)       : 324.5683
+HEADER 10  -Pocket volume (convex hull)       : 21.6637
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2258
+ATOM  37710   CA TYR T1213     -67.246 110.106 162.302  0.00  0.00           C 0
+ATOM  37724    O GLN T1214     -70.579 109.498 164.599  0.00  0.00           O 0
+ATOM  37740  CD1 LEU T1216     -65.001 108.292 166.492  0.00  0.00           C 0
+ATOM  37739   CG LEU T1216     -66.219 108.912 167.184  0.00  0.00           C 0
+ATOM  37809  CE2 PHE T1224     -63.202 105.065 164.047  0.00  0.00           C 0
+ATOM  37715  CD1 TYR T1213     -64.289 108.693 161.955  0.00  0.00           C 0
+ATOM  37858  CD2 LEU T1231     -65.849 108.187 158.994  0.00  0.00           C 0
+ATOM  37846    O LEU T1230     -64.165 103.733 161.013  0.55  1.07           O 0
+ATOM  37852   CA LEU T1231     -65.203 104.992 158.743  0.00  0.00           C 0
+ATOM  37866  OD2 ASP T1232     -68.870 102.543 161.755  0.00  0.00           O 0
+ATOM  37810   CZ PHE T1224     -63.348 103.864 164.709  0.00  0.00           C 0
+ATOM  37709    N TYR T1213     -67.309 110.430 160.880  0.59  3.28           N 0
+ATOM  37639  CZ2 TRP T1203     -69.478 108.142 156.758  0.00  0.00           C 0
+ATOM  37721    N GLN T1214     -69.500 110.948 162.540  0.00  0.00           N 0
+ATOM  37691  OE1 GLU T1210     -73.779 109.402 157.444  0.38  8.57           O 0
+ATOM  37859    N ASP T1232     -67.082 103.452 158.770  0.49  2.19           N 0
+ATOM  37863   CB ASP T1232     -68.865 101.911 159.455  0.00  0.00           C 0
+ATOM  37862    O ASP T1232     -68.642 103.456 156.520  0.47  3.21           O 0
+ATOM  37641  CH2 TRP T1203     -69.680 109.487 156.898  0.00  0.00           C 0
+ATOM  37725   CB GLN T1214     -71.888 111.469 162.516  0.00  0.00           C 0
+ATOM  37696    O GLN T1211     -69.919 111.926 159.471  0.00  0.00           O 0
+TER
+END

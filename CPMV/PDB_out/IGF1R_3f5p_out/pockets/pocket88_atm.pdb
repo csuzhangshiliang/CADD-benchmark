@@ -1,0 +1,60 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    88:
+HEADER 0  - Pocket Score                      : 0.0440
+HEADER 1  - Drug Score                        : 0.0094
+HEADER 2  - Number of alpha spheres           :    47
+HEADER 3  - Mean alpha-sphere radius          : 4.0529
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5553
+HEADER 5  - Mean B-factor of pocket residues  : 0.5881
+HEADER 6  - Hydrophobicity Score              : 32.1333
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 631.8781
+HEADER 10  -Pocket volume (convex hull)       : 61.0583
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 5.8182
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.2340
+ATOM  30667  CE1 PHE L1224      37.331  55.588  86.440  0.00  0.00           C 0
+ATOM  30600  CD2 LEU L1216      33.262  50.968  83.738  0.00  0.00           C 0
+ATOM  30665  CD1 PHE L1224      37.870  54.575  85.689  0.00  0.00           C 0
+ATOM  30599  CD1 LEU L1216      34.811  50.944  85.700  0.00  0.00           C 0
+ATOM  30569   CA TYR L1213      32.739  49.396  89.810  0.00  0.00           C 0
+ATOM  30583    O GLN L1214      29.332  50.155  87.547  0.00  0.00           O 0
+ATOM  30585   CG GLN L1214      27.961  49.024  90.659  0.00  0.00           C 0
+ATOM  30725  OD2 ASP L1232      30.975  56.943  90.315  0.52  9.64           O 0
+ATOM  30580    N GLN L1214      30.482  48.549  89.496  0.44  1.09           N 0
+ATOM  30598   CG LEU L1216      33.506  50.414  85.132  0.00  0.00           C 0
+ATOM  30574  CD1 TYR L1213      35.647  50.799  90.219  0.00  0.00           C 0
+ATOM  30668  CE2 PHE L1224      37.084  54.105  88.270  0.00  0.00           C 0
+ATOM  30705    O LEU L1230      36.023  55.667  91.059  0.58  4.29           O 0
+ATOM  30717  CD2 LEU L1231      34.218  51.358  93.119  0.00  0.00           C 0
+ATOM  30711   CA LEU L1231      34.853  54.568  93.334  0.00  0.00           C 0
+ATOM  30669   CZ PHE L1224      36.933  55.357  87.729  0.00  0.00           C 0
+ATOM  30718    N ASP L1232      32.937  56.066  93.287  0.50  3.28           N 0
+ATOM  30550  OE1 GLU L1210      25.497  50.230  95.219  0.00  0.00           O 0
+ATOM  30745    O ASP L1235      24.179  56.369 100.068  0.00  0.00           O 0
+ATOM  30551  OE2 GLU L1210      23.647  49.040  95.441  0.64  6.43           O 0
+ATOM  30526    O THR L1207      25.234  48.644  99.576  0.00  0.00           O 0
+ATOM  30524   CA THR L1207      26.754  50.382 100.232  0.00  0.00           C 0
+ATOM  30742    N ASP L1235      25.849  56.862  97.848  0.63  3.28           N 0
+ATOM  30746   CB ASP L1235      23.557  57.529  97.278  0.00  0.00           C 0
+ATOM  30739   CB PRO L1234      28.299  55.037  99.357  0.00  0.00           C 0
+ATOM  30529  CG2 THR L1207      28.285  51.520  98.595  0.00  0.00           C 0
+ATOM  30498  CZ2 TRP L1203      30.435  51.383  95.340  0.00  0.00           C 0
+ATOM  30588  NE2 GLN L1214      26.603  49.675  92.578  0.00  0.00           N 0
+ATOM  30527   CB THR L1207      27.410  50.324  98.835  0.00  0.00           C 0
+ATOM  30549   CD GLU L1210      24.867  49.235  95.653  0.00  0.00           C 0
+ATOM  30521    O ALA L1206      26.519  52.228 102.263  0.67  8.57           O 0
+ATOM  30535   CG LEU L1208      23.441  48.169 103.194  0.00  0.00           C 0
+ATOM  30525    C THR L1207      25.979  49.085 100.447  0.00  0.00           C 0
+ATOM  30736   CA PRO L1234      28.068  55.927  98.132  0.00  0.00           C 0
+ATOM  30729    O LYS L1233      28.698  57.884  96.227  0.63  8.57           O 0
+ATOM  30721    O ASP L1232      31.330  56.041  95.494  0.41  2.14           O 0
+ATOM  30722   CB ASP L1232      31.068  57.502  92.626  0.00  0.00           C 0
+ATOM  30568    N TYR L1213      32.577  49.099  91.231  0.68  1.09           N 0
+TER
+END

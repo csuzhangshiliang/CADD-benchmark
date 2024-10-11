@@ -1,0 +1,61 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : 0.3843
+HEADER 1  - Drug Score                        : 0.2017
+HEADER 2  - Number of alpha spheres           :    49
+HEADER 3  - Mean alpha-sphere radius          : 4.0126
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4982
+HEADER 5  - Mean B-factor of pocket residues  : 0.5565
+HEADER 6  - Hydrophobicity Score              : 25.9444
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 693.5620
+HEADER 10  -Pocket volume (convex hull)       : 130.3731
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 25.0323
+HEADER 13 - Number of apolar alpha sphere     :    31
+HEADER 14 - Proportion of apolar alpha sphere : 0.6327
+ATOM  12272    C GLY F1006      38.974 139.765 153.490  0.00  0.00           C 0
+ATOM  12322  CG2 VAL F1013      38.395 143.384 150.860  0.00  0.00           C 0
+ATOM  12277    O GLN F1007      39.773 142.827 155.067  0.26  9.64           O 0
+ATOM  12271   CA GLY F1006      39.983 138.764 152.968  0.00  0.00           C 0
+ATOM  12265    O LEU F1005      42.135 137.955 151.433  0.61  5.36           O 0
+ATOM  12270    N GLY F1006      39.953 138.532 151.531  0.00  0.00           N 0
+ATOM  12863  CG2 THR F1083      47.219 139.750 141.034  0.00  0.00           C 0
+ATOM  12860    O THR F1083      48.742 139.457 144.872  0.61  1.07           O 0
+ATOM  12858   CA THR F1083      47.871 140.871 143.169  0.00  0.00           C 0
+ATOM  12342  OE1 GLU F1015      42.682 136.590 142.770  0.62  5.36           O 0
+ATOM  12446  NH2 ARG F1029      44.939 137.150 139.769  0.67  8.75           N 0
+ATOM  12847  CD1 LEU F1081      44.350 141.130 141.198  0.00  0.00           C 0
+ATOM  12269  CD2 LEU F1005      42.686 138.142 146.742  0.00  0.00           C 0
+ATOM  12252  NH2 ARG F1003      43.979 134.679 146.722  0.58  5.47           N 0
+ATOM  12852    O MET F1082      47.331 142.882 145.074  0.00  0.00           O 0
+ATOM  12266   CB LEU F1005      41.218 139.028 148.547  0.00  0.00           C 0
+ATOM  12876   CA GLY F1085      49.105 142.709 148.540  0.00  0.00           C 0
+ATOM  12268  CD1 LEU F1005      41.200 140.080 146.235  0.00  0.00           C 0
+ATOM  12320   CB VAL F1013      38.416 142.267 149.828  0.00  0.00           C 0
+ATOM  12321  CG1 VAL F1013      38.914 142.781 148.479  0.00  0.00           C 0
+ATOM  12264    C LEU F1005      41.038 138.109 150.879  0.00  0.00           C 0
+ATOM  12712  CG1 VAL F1063      44.353 150.185 144.251  0.00  0.00           C 0
+ATOM  12828   CB MET F1079      39.513 148.635 144.255  0.00  0.00           C 0
+ATOM  13287   SD MET F1142      46.403 147.244 148.723  0.00  0.00           S 0
+ATOM  12831   CE MET F1079      40.769 151.257 145.062  0.00  0.00           C 0
+ATOM  13363    O GLY F1152      43.775 152.844 149.097  0.54  4.29           O 0
+ATOM  13286   CG MET F1142      47.319 148.411 147.708  0.00  0.00           C 0
+ATOM  12713  CG2 VAL F1063      46.375 151.122 145.377  0.00  0.00           C 0
+ATOM  12875    N GLY F1085      49.445 142.225 147.212  0.00  0.00           N 0
+ATOM  12829   CG MET F1079      38.690 149.435 145.255  0.00  0.00           C 0
+ATOM  12848  CD2 LEU F1081      43.131 142.008 143.195  0.00  0.00           C 0
+ATOM  13288   CE MET F1142      46.576 145.733 147.791  0.00  0.00           C 0
+ATOM  12849    N MET F1082      45.352 144.517 143.095  0.00  0.00           N 0
+ATOM  12879    N ASP F1086      49.730 144.215 150.303  0.00  0.00           N 0
+ATOM  12885  OD1 ASP F1086      49.270 143.527 153.304  0.00  0.00           O 0
+ATOM  12883   CB ASP F1086      49.660 145.652 152.296  0.00  0.00           C 0
+ATOM  12835    O GLU F1080      42.844 146.989 142.751  0.00  0.00           O 0
+ATOM  12854   CG MET F1082      46.608 147.007 144.016  0.00  0.00           C 0
+ATOM  12458   CB ALA F1031      40.074 144.179 144.874  0.00  0.00           C 0
+TER
+END

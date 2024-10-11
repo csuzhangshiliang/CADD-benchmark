@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   184:
+HEADER 0  - Pocket Score                      : -0.0198
+HEADER 1  - Drug Score                        : 0.0034
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0901
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6574
+HEADER 5  - Mean B-factor of pocket residues  : 0.4285
+HEADER 6  - Hydrophobicity Score              : 3.4286
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 259.3354
+HEADER 10  -Pocket volume (convex hull)       : 6.7658
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.8667
+ATOM   4557   NZ LYS B1254      22.900  56.525 156.616  0.00  0.00           N 0
+ATOM   4548   CD PRO B1253      22.195  62.897 159.279  0.00  0.00           C 0
+ATOM   4554   CG LYS B1254      22.549  59.043 155.577  0.00  0.00           C 0
+ATOM   4540  OD1 ASN B1252      20.346  60.403 158.173  0.24  3.21           O 0
+ATOM   4547   CG PRO B1253      23.480  63.529 158.894  0.00  0.00           C 0
+ATOM   4546   CB PRO B1253      23.505  63.615 157.439  0.00  0.00           C 0
+ATOM   4049  CE2 TYR B1192      25.762  61.564 153.952  0.00  0.00           C 0
+ATOM   4047  CD2 TYR B1192      25.667  62.783 154.616  0.00  0.00           C 0
+ATOM   4032  CG2 THR B1190      30.033  63.457 156.484  0.00  0.00           C 0
+ATOM   3969   CG GLU B1182      26.310  65.812 160.959  0.00  0.00           C 0
+ATOM   4013  CG1 VAL B1188      31.866  62.936 160.575  0.00  0.00           C 0
+ATOM   4012   CB VAL B1188      31.271  63.969 161.494  0.00  0.00           C 0
+ATOM   3968   CB GLU B1182      26.022  65.200 162.333  0.00  0.00           C 0
+ATOM   4014  CG2 VAL B1188      31.175  63.445 162.906  0.00  0.00           C 0
+ATOM   4031  OG1 THR B1190      28.181  64.832 155.815  0.54  2.14           O 0
+ATOM   3972  OE2 GLU B1182      25.093  66.275 158.966  0.00  0.00           O 0
+TER
+END

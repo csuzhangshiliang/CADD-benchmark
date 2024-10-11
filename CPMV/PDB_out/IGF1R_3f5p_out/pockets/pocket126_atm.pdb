@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   126:
+HEADER 0  - Pocket Score                      : 0.0149
+HEADER 1  - Drug Score                        : 0.0024
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.7649
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5194
+HEADER 5  - Mean B-factor of pocket residues  : 0.8792
+HEADER 6  - Hydrophobicity Score              : 45.5556
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 99.0288
+HEADER 10  -Pocket volume (convex hull)       : 1.0845
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.6364
+ATOM  15032   CB ALA G1051      -3.906 141.603 104.068  0.00  0.00           C 0
+ATOM  15031    O ALA G1051      -2.712 139.278 105.814  0.54  2.14           O 0
+ATOM  15167  CG1 VAL G1068      -7.020 143.510 108.420  0.00  0.00           C 0
+ATOM  14536  CG1 VAL G 988      -9.804 140.919 106.397  0.00  0.00           C 0
+ATOM  15038   OG SER G1052      -6.575 136.582 104.697  0.46  5.36           O 0
+ATOM  14544   CD PRO G 989      -9.138 137.049 109.125  0.00  0.00           C 0
+ATOM  14535   CB VAL G 988     -10.383 140.391 107.701  0.00  0.00           C 0
+ATOM  14567   CG TRP G 992      -6.187 139.495 112.031  0.00  0.00           C 0
+ATOM  15149  CD2 LEU G1065      -2.882 142.640 109.558  0.00  0.00           C 0
+ATOM  14569  CD2 TRP G 992      -4.768 139.415 112.209  0.00  0.00           C 0
+ATOM  15030    C ALA G1051      -3.176 139.273 104.675  0.00  0.00           C 0
+ATOM  15006    O LEU G1048      -6.424 139.272 102.811  0.41  3.21           O 0
+ATOM  15034   CA SER G1052      -4.190 137.077 105.010  0.00  0.00           C 0
+ATOM  14566   CB TRP G 992      -6.991 140.725 111.853  0.00  0.00           C 0
+ATOM  15033    N SER G1052      -3.889 138.255 104.193  0.00  0.00           N 0
+ATOM  15059   CG LYS G1055      -3.238 136.630 108.742  0.00  0.00           C 0
+ATOM  15058   CB LYS G1055      -2.486 137.469 109.746  0.00  0.00           C 0
+TER
+END

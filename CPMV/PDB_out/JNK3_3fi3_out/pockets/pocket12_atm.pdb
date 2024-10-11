@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0148
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.2894
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7729
+HEADER 5  - Mean B-factor of pocket residues  : 0.2365
+HEADER 6  - Hydrophobicity Score              : -4.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 211.9392
+HEADER 10  -Pocket volume (convex hull)       : 2.4267
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   2193    O SER A 330     -30.156  -3.272  -2.140  0.00  0.00           O 0
+ATOM   2221    N ASP A 334     -27.567  -4.599  -2.445  0.66  1.09           N 0
+ATOM   2214   CB ARG A 333     -28.098  -3.713  -5.355  0.00  0.00           C 0
+ATOM   2227  OD1 ASP A 334     -26.212  -2.509   1.096  0.00  0.00           O 0
+ATOM   2219  NH1 ARG A 333     -30.777  -0.739  -7.059  0.73  4.37           N 0
+ATOM   2036   CG PRO A 310     -26.178   1.632  -7.770  0.00  0.00           C 0
+ATOM   2222   CA ASP A 334     -26.765  -4.440  -1.256  0.00  0.00           C 0
+ATOM   2213    O ARG A 333     -25.768  -5.094  -3.673  0.00  0.00           O 0
+ATOM   2225   CB ASP A 334     -27.610  -4.021  -0.070  0.00  0.00           C 0
+ATOM   2024   CB PHE A 309     -23.670  -2.615  -6.807  0.00  0.00           C 0
+ATOM   2250   OG SER A 337     -23.018  -3.964  -1.761  0.00  0.00           O 0
+ATOM   2037   CD PRO A 310     -25.070   0.638  -7.652  0.00  0.00           C 0
+ATOM   2212    C ARG A 333     -26.978  -4.943  -3.577  0.00  0.00           C 0
+ATOM   2216   CD ARG A 333     -28.435  -2.277  -7.297  0.00  0.00           C 0
+ATOM   2191   CA SER A 330     -32.068  -2.196  -3.125  0.00  0.00           C 0
+ATOM   2195   OG SER A 330     -31.893  -0.835  -1.120  0.68  7.50           O 0
+ATOM   2194   CB SER A 330     -32.637  -1.030  -2.310  0.00  0.00           C 0
+TER
+END

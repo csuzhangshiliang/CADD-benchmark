@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    95:
+HEADER 0  - Pocket Score                      : 0.0345
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9363
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6088
+HEADER 5  - Mean B-factor of pocket residues  : 0.6314
+HEADER 6  - Hydrophobicity Score              : -6.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 241.2274
+HEADER 10  -Pocket volume (convex hull)       : 5.9371
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2941
+ATOM  25142   CG LYS K1130      86.544  42.748 109.395  0.00  0.00           C 0
+HETATM25393  CE2 PTR K1161      81.918  44.084 110.747  0.00  0.00           C 0
+ATOM  25127    O ALA K1128      88.945  41.768 113.162  0.00  0.00           O 0
+HETATM25391  CD2 PTR K1161      82.902  44.472 109.826  0.00  0.00           C 0
+ATOM  25131    C ASN K1129      89.537  44.410 110.738  0.00  0.00           C 0
+ATOM  25130   CA ASN K1129      90.044  44.095 112.127  0.00  0.00           C 0
+ATOM  25132    O ASN K1129      89.209  45.546 110.416  0.55  5.36           O 0
+ATOM  25141   CB LYS K1130      87.350  43.835 108.752  0.00  0.00           C 0
+HETATM25388   CB PTR K1161      83.684  45.788 107.803  0.00  0.00           C 0
+ATOM  24652  OE2 GLU K1056      89.192  49.791 112.799  0.00  0.00           O 0
+ATOM  25375  OD2 ASP K1159      86.179  49.654 106.744  0.74  7.50           O 0
+ATOM  25374  OD1 ASP K1159      86.971  47.596 106.607  0.69  2.14           O 0
+ATOM  25156   CZ PHE K1131      90.642  49.472 108.586  0.00  0.00           C 0
+ATOM  24651  OE1 GLU K1056      90.035  51.645 111.972  0.00  0.00           O 0
+ATOM  25155  CE2 PHE K1131      90.930  48.508 109.503  0.00  0.00           C 0
+TER
+END

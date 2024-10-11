@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : -0.0108
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9691
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6624
+HEADER 5  - Mean B-factor of pocket residues  : 0.3767
+HEADER 6  - Hydrophobicity Score              : -12.8000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 209.8938
+HEADER 10  -Pocket volume (convex hull)       : 6.7925
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.8750
+ATOM   1135   CB PRO A 359      45.904   5.330  57.746  0.00  0.00           C 0
+ATOM   1161  OD1 ASP A 362      44.643   0.592  58.155  0.00  0.00           O 0
+ATOM   1128   CD LYS A 358      47.681  -0.425  56.503  0.00  0.00           C 0
+ATOM   1162  OD2 ASP A 362      44.945  -0.494  60.048  0.43  5.36           O 0
+ATOM   1876   CG MET A 452      43.624   5.129  63.993  0.00  0.00           C 0
+ATOM   1159   CB ASP A 362      43.309   1.195  60.026  0.00  0.00           C 0
+ATOM   1877   SD MET A 452      42.550   3.930  63.169  0.00  0.00           S 0
+ATOM   1900   CB ARG A 455      48.263   8.593  61.938  0.00  0.00           C 0
+ATOM   1901   CG ARG A 455      48.809   8.127  63.305  0.00  0.00           C 0
+ATOM   1872   CA MET A 452      44.552   7.514  63.799  0.00  0.00           C 0
+ATOM   1132   CA PRO A 359      45.335   4.279  56.818  0.00  0.00           C 0
+ATOM   1126   CB LYS A 358      46.942   1.647  55.247  0.00  0.00           C 0
+ATOM   1160   CG ASP A 362      44.375   0.374  59.359  0.00  0.00           C 0
+ATOM   1875   CB MET A 452      43.524   6.488  63.334  0.00  0.00           C 0
+ATOM   1874    O MET A 452      44.934   9.013  61.983  0.79  2.14           O 0
+TER
+END

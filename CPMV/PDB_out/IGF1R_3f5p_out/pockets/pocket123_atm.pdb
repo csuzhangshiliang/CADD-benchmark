@@ -1,0 +1,47 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   123:
+HEADER 0  - Pocket Score                      : 0.0167
+HEADER 1  - Drug Score                        : 0.0203
+HEADER 2  - Number of alpha spheres           :    31
+HEADER 3  - Mean alpha-sphere radius          : 3.9024
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5613
+HEADER 5  - Mean B-factor of pocket residues  : 0.3386
+HEADER 6  - Hydrophobicity Score              : 41.5833
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 341.3798
+HEADER 10  -Pocket volume (convex hull)       : 26.1818
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 24.0000
+HEADER 13 - Number of apolar alpha sphere     :    25
+HEADER 14 - Proportion of apolar alpha sphere : 0.8065
+ATOM  20739    O GLY I1170     -34.787  96.521 163.823  0.44  7.50           O 0
+ATOM  20870   CA GLY I1187     -27.886  97.439 160.778  0.00  0.00           C 0
+ATOM  20727   CB LYS I1168     -32.156  97.448 160.082  0.00  0.00           C 0
+ATOM  20726    O LYS I1168     -32.045  99.909 161.972  0.38  5.36           O 0
+ATOM  20764    O LEU I1174     -31.268  87.548 160.482  0.48  5.36           O 0
+ATOM  20752    O GLY I1172     -34.278  90.501 163.013  0.21  6.43           O 0
+ATOM  20781  CG1 VAL I1176     -28.101  87.171 163.269  0.00  0.00           C 0
+ATOM  20814   SD MET I1179     -28.440  90.031 159.878  0.00  0.00           S 0
+ATOM  20749    N GLY I1172     -35.099  93.150 163.117  0.57  2.19           N 0
+ATOM  20728   CG LYS I1168     -33.426  96.614 160.149  0.00  0.00           C 0
+ATOM  20750   CA GLY I1172     -34.838  92.507 161.848  0.00  0.00           C 0
+ATOM  20751    C GLY I1172     -34.795  91.006 162.006  0.00  0.00           C 0
+ATOM  20841    O SER I1183     -26.050  94.911 161.276  0.43  2.14           O 0
+ATOM  20847    O LEU I1184     -25.105  94.024 164.602  0.39  9.64           O 0
+ATOM  20869    N GLY I1187     -26.685  97.664 161.558  0.00  0.00           N 0
+ATOM  20444  NH2 ARG I1134     -33.197  94.165 156.284  0.54  2.19           N 0
+ATOM  20890   CZ PHE I1189     -29.370  94.191 157.345  0.00  0.00           C 0
+ATOM  20815   CE MET I1179     -27.691  91.628 160.209  0.00  0.00           C 0
+ATOM  21155  CD2 LEU I1222     -25.629  89.217 166.110  0.00  0.00           C 0
+ATOM  20851  CD2 LEU I1184     -25.228  89.919 162.506  0.00  0.00           C 0
+ATOM  20761    N LEU I1174     -33.485  88.868 159.506  0.00  0.00           N 0
+ATOM  20765   CB LEU I1174     -31.614  89.247 157.931  0.00  0.00           C 0
+ATOM  20845   CA LEU I1184     -24.602  92.886 162.543  0.00  0.00           C 0
+ATOM  20767  CD1 LEU I1174     -31.274  91.242 156.446  0.00  0.00           C 0
+ATOM  20766   CG LEU I1174     -32.295  90.290 157.057  0.00  0.00           C 0
+TER
+END

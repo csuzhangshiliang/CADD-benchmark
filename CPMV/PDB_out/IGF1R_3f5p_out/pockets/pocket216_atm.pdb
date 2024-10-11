@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   216:
+HEADER 0  - Pocket Score                      : -0.0406
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 4.0981
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5125
+HEADER 5  - Mean B-factor of pocket residues  : 0.4914
+HEADER 6  - Hydrophobicity Score              : 7.8000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.7000
+HEADER 9  - Pocket volume (Monte Carlo)       : 277.8723
+HEADER 10  -Pocket volume (convex hull)       : 4.5330
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1304
+ATOM  33440   CA GLY R1273      76.850  78.088 125.133  0.00  0.00           C 0
+ATOM  32160  NE2 GLN R1114      77.930  80.188 118.230  0.39  2.19           N 0
+ATOM  32186  OE2 GLU R1118      74.934  79.422 117.408  0.18  7.50           O 0
+ATOM  33430  OE1 GLU R1271      77.546  83.702 120.400  0.74  7.50           O 0
+ATOM  33443    N PHE R1274      77.750  76.817 123.268  0.67  2.19           N 0
+ATOM  33444   CA PHE R1274      77.852  75.679 122.355  0.00  0.00           C 0
+ATOM  33426    O GLU R1271      79.810  78.979 122.613  0.00  0.00           O 0
+ATOM  33427   CB GLU R1271      79.458  81.966 121.302  0.00  0.00           C 0
+ATOM  33449  CD1 PHE R1274      78.043  75.131 119.172  0.00  0.00           C 0
+ATOM  32401  OD2 ASP R1146      69.966  82.820 121.351  0.00  0.00           O 0
+ATOM  31809  NE2 HIS R1060      70.677  76.819 120.647  0.66  5.47           N 0
+ATOM  33479  CG1 VAL R1277      72.439  75.153 124.232  0.00  0.00           C 0
+ATOM  31808  CE1 HIS R1060      69.504  76.598 121.208  0.00  0.00           C 0
+ATOM  33439    N GLY R1273      77.921  79.062 125.003  0.60  3.28           N 0
+ATOM  32418  OG1 THR R1148      71.767  81.042 118.520  0.52  7.50           O 0
+ATOM  33480  CG2 VAL R1277      73.909  75.095 122.216  0.00  0.00           C 0
+ATOM  31819  NE2 HIS R1061      73.903  75.380 117.806  0.62  2.19           N 0
+ATOM  33441    C GLY R1273      76.958  76.799 124.337  0.00  0.00           C 0
+TER
+END

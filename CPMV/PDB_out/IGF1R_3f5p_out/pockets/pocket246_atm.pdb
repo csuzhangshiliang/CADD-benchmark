@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   246:
+HEADER 0  - Pocket Score                      : -0.0557
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8108
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4447
+HEADER 5  - Mean B-factor of pocket residues  : 0.7396
+HEADER 6  - Hydrophobicity Score              : 22.2000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.1000
+HEADER 9  - Pocket volume (Monte Carlo)       : 142.4997
+HEADER 10  -Pocket volume (convex hull)       : 2.1683
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3000
+ATOM  11636  OD1 ASN E1236      -1.788 153.602 155.450  0.74  7.50           O 0
+ATOM  34046  OE1 GLU S1043      -3.314 147.720 153.632  0.47  1.07           O 0
+ATOM  34047  OE2 GLU S1043      -5.159 147.810 154.818  0.42  5.36           O 0
+ATOM  33793    O PHE S1010      -4.935 150.773 150.358  0.64  5.36           O 0
+ATOM  33787    O SER S1009      -8.836 150.456 152.897  0.71  6.43           O 0
+ATOM  10585   CB VAL E1103      -7.584 153.817 157.302  0.00  0.00           C 0
+ATOM  33792    C PHE S1010      -6.132 151.062 150.320  0.00  0.00           C 0
+ATOM  11637  ND2 ASN E1236      -0.485 151.820 155.008  0.30  5.47           N 0
+ATOM  10583    C VAL E1103      -6.736 156.137 156.795  0.00  0.00           C 0
+ATOM  10588    C LEU E1104      -4.077 157.032 154.879  0.00  0.00           C 0
+ATOM  10589    O LEU E1104      -3.194 156.321 155.346  0.72  3.21           O 0
+ATOM  10584    O VAL E1103      -7.605 156.398 155.935  0.47  2.14           O 0
+ATOM  11635   CG ASN E1236      -0.713 153.132 155.070  0.00  0.00           C 0
+ATOM  33994  ND2 ASN S1036       0.307 151.581 150.177  0.46  1.09           N 0
+ATOM  33783    O GLY S1008      -9.066 153.591 151.397  0.68  5.36           O 0
+ATOM  10595   CB ALA E1105      -3.784 155.791 151.648  0.00  0.00           C 0
+ATOM  33801    N GLY S1011      -6.564 152.226 149.877  0.61  1.09           N 0
+TER
+END

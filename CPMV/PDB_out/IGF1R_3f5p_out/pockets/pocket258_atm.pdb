@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   258:
+HEADER 0  - Pocket Score                      : -0.0645
+HEADER 1  - Drug Score                        : 0.0049
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8331
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4443
+HEADER 5  - Mean B-factor of pocket residues  : 0.7258
+HEADER 6  - Hydrophobicity Score              : 61.8571
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 180.2200
+HEADER 10  -Pocket volume (convex hull)       : 1.6153
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.9412
+ATOM  22650  CG1 ILE J1113      10.860 130.506 138.824  0.00  0.00           C 0
+ATOM  23912   CG GLU J1269      10.219 133.283 134.485  0.00  0.00           C 0
+ATOM  23663   SD MET J1240       9.819 133.746 141.720  0.00  0.00           S 0
+ATOM  22620  CD1 LEU J1109      13.695 134.211 139.711  0.00  0.00           C 0
+ATOM  23664   CE MET J1240       8.171 133.023 141.645  0.00  0.00           C 0
+ATOM  23662   CG MET J1240       9.408 135.471 141.982  0.00  0.00           C 0
+ATOM  23914  OE1 GLU J1269       8.279 134.641 134.409  0.70  4.29           O 0
+ATOM  33567  CD1 PHE S 981       6.013 136.748 140.769  0.00  0.00           C 0
+ATOM  23913   CD GLU J1269       9.493 134.555 134.115  0.00  0.00           C 0
+ATOM  23915  OE2 GLU J1269      10.135 135.464 133.539  0.68  7.50           O 0
+ATOM  23878    O SER J1265       4.169 134.448 136.891  0.42  4.29           O 0
+ATOM  23887  CG2 ILE J1266       5.907 131.685 138.779  0.00  0.00           C 0
+ATOM  22652  CD1 ILE J1113       9.844 130.831 139.860  0.00  0.00           C 0
+ATOM  33569  CE1 PHE S 981       5.076 135.764 140.555  0.00  0.00           C 0
+TER
+END

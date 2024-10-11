@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   298:
+HEADER 0  - Pocket Score                      : -0.0929
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8144
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4732
+HEADER 5  - Mean B-factor of pocket residues  : 0.4911
+HEADER 6  - Hydrophobicity Score              : 2.2000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 209.0043
+HEADER 10  -Pocket volume (convex hull)       : 3.3565
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5294
+ATOM  23286   OH TYR J1192     -11.984 127.325 148.719  0.00  0.00           O 0
+ATOM  23285   CZ TYR J1192     -10.816 126.907 149.320  0.00  0.00           C 0
+ATOM  23284  CE2 TYR J1192     -10.867 126.305 150.557  0.00  0.00           C 0
+ATOM  23046   CB ASP J1164     -14.849 120.832 148.477  0.00  0.00           C 0
+ATOM  23045    O ASP J1164     -13.172 120.511 150.567  0.62  5.36           O 0
+ATOM  23048  OD1 ASP J1164     -15.354 119.880 146.335  0.00  0.00           O 0
+ATOM  23274  CG2 THR J1191      -8.949 121.449 146.575  0.00  0.00           C 0
+ATOM  22775   NZ LYS J1130     -14.536 119.390 143.720  0.80  5.47           N 0
+ATOM  23047   CG ASP J1164     -15.381 120.908 147.053  0.00  0.00           C 0
+ATOM  23049  OD2 ASP J1164     -15.820 122.001 146.643  0.00  0.00           O 0
+ATOM  22774   CE LYS J1130     -13.884 119.460 142.383  0.00  0.00           C 0
+ATOM  23273  OG1 THR J1191      -8.024 123.658 146.979  0.31  8.57           O 0
+ATOM  23268    N THR J1191      -8.098 121.416 149.194  0.00  0.00           N 0
+ATOM  23265   CB THR J1190      -9.570 121.895 151.720  0.00  0.00           C 0
+TER
+END

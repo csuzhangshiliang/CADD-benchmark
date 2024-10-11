@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    87:
+HEADER 0  - Pocket Score                      : 0.0471
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9842
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6754
+HEADER 5  - Mean B-factor of pocket residues  : 0.5812
+HEADER 6  - Hydrophobicity Score              : 3.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 313.2507
+HEADER 10  -Pocket volume (convex hull)       : 16.3762
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0556
+ATOM  34405   CB SER S1089     -22.514 162.798 149.169  0.00  0.00           C 0
+ATOM  34442   CB SER S1093     -25.567 167.778 146.617  0.00  0.00           C 0
+ATOM  34364    O ARG S1084     -22.067 162.297 143.160  0.44  3.21           O 0
+ATOM  34404    O SER S1089     -25.127 164.632 148.453  0.57  2.14           O 0
+ATOM  34362   CA ARG S1084     -21.446 162.448 140.824  0.00  0.00           C 0
+ATOM  34370  NH1 ARG S1084     -24.518 166.204 138.309  0.11  9.84           N 0
+ATOM  34366   CG ARG S1084     -22.954 162.956 138.841  0.00  0.00           C 0
+ATOM  34365   CB ARG S1084     -22.889 162.635 140.332  0.00  0.00           C 0
+ATOM  34357    O THR S1083     -19.049 163.214 139.829  0.50  9.64           O 0
+ATOM  34408   CA TYR S1090     -25.776 163.387 146.071  0.00  0.00           C 0
+ATOM  34413  CD1 TYR S1090     -26.359 163.685 142.754  0.00  0.00           C 0
+ATOM  34407    N TYR S1090     -24.989 162.803 147.151  0.73  1.09           N 0
+ATOM  34443   OG SER S1093     -26.162 167.254 145.441  0.00  0.00           O 0
+ATOM  34415  CE1 TYR S1090     -27.210 164.164 141.771  0.00  0.00           C 0
+ATOM  34403    C SER S1089     -24.763 163.469 148.280  0.00  0.00           C 0
+ATOM  34369   CZ ARG S1084     -24.303 165.552 137.171  0.00  0.00           C 0
+ATOM  34769  OE1 GLU S1145     -21.125 164.578 134.579  0.57  2.14           O 0
+ATOM  34371  NH2 ARG S1084     -24.174 166.230 136.041  0.35  8.75           N 0
+TER
+END

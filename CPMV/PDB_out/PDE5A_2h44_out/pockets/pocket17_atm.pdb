@@ -1,0 +1,60 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : -0.1161
+HEADER 1  - Drug Score                        : 0.0195
+HEADER 2  - Number of alpha spheres           :    45
+HEADER 3  - Mean alpha-sphere radius          : 4.0809
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5729
+HEADER 5  - Mean B-factor of pocket residues  : 0.4930
+HEADER 6  - Hydrophobicity Score              : 25.8462
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.4615
+HEADER 9  - Pocket volume (Monte Carlo)       : 595.8160
+HEADER 10  -Pocket volume (convex hull)       : 91.4922
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 25.5172
+HEADER 13 - Number of apolar alpha sphere     :    29
+HEADER 14 - Proportion of apolar alpha sphere : 0.6444
+ATOM   2279   CG PRO A 814      73.299  37.290  35.472  0.00  0.00           C 0
+ATOM   2617  CD2 LEU A 856      79.061  38.035  37.014  0.00  0.00           C 0
+ATOM   2614   CB LEU A 856      76.957  36.748  37.464  0.00  0.00           C 0
+ATOM   2616  CD1 LEU A 856      78.420  36.126  35.539  0.00  0.00           C 0
+ATOM   2280   CD PRO A 814      72.901  37.170  34.050  0.00  0.00           C 0
+ATOM   2273  CD1 ILE A 813      72.243  37.465  28.622  0.00  0.00           C 0
+ATOM   2270   CB ILE A 813      71.894  36.619  31.023  0.00  0.00           C 0
+ATOM   2243    O LYS A 810      71.257  39.864  31.084  0.00  0.00           O 0
+ATOM   1961  OE1 GLN A 776      80.026  36.083  31.551  0.40  9.64           O 0
+ATOM   2245   CG LYS A 810      70.908  41.874  27.042  0.00  0.00           C 0
+ATOM   2244   CB LYS A 810      71.087  41.782  28.534  0.00  0.00           C 0
+ATOM   2246   CD LYS A 810      71.911  42.863  26.465  0.00  0.00           C 0
+ATOM   2052  CE2 PHE A 787      70.371  38.781  24.921  0.00  0.00           C 0
+ATOM   2015   CB ALA A 783      72.461  35.213  25.230  0.00  0.00           C 0
+ATOM   1992   CG GLU A 780      78.439  36.202  25.929  0.00  0.00           C 0
+ATOM   1993   CD GLU A 780      79.586  37.177  25.708  0.00  0.00           C 0
+ATOM   1995  OE2 GLU A 780      80.585  37.098  26.455  0.79  3.21           O 0
+ATOM   2272  CG2 ILE A 813      72.738  35.378  30.739  0.00  0.00           C 0
+ATOM   2595  CH2 TRP A 853      76.481  33.435  31.657  0.00  0.00           C 0
+ATOM   1985    O ALA A 779      74.956  32.737  25.656  0.67  1.07           O 0
+ATOM   1986   CB ALA A 779      76.626  31.325  28.026  0.00  0.00           C 0
+ATOM   1987    N GLU A 780      77.135  33.281  25.487  0.00  0.00           N 0
+ATOM   2594  CZ3 TRP A 853      76.128  34.146  32.819  0.00  0.00           C 0
+ATOM   2613    O LEU A 856      74.969  38.742  39.010  0.69  6.43           O 0
+ATOM   2250   CA ASN A 811      70.625  41.828  32.925  0.00  0.00           C 0
+ATOM   2252    O ASN A 811      70.817  40.213  34.686  0.50  6.43           O 0
+ATOM   1959   CG GLN A 776      80.391  34.312  29.983  0.00  0.00           C 0
+ATOM   1990    O GLU A 780      75.392  34.979  22.960  0.00  0.00           O 0
+ATOM   1991   CB GLU A 780      78.106  35.408  24.681  0.00  0.00           C 0
+ATOM   1994  OE1 GLU A 780      79.486  38.023  24.787  0.00  0.00           O 0
+ATOM   1988   CA GLU A 780      76.848  34.544  24.815  0.00  0.00           C 0
+ATOM   1984    C ALA A 779      76.145  32.464  25.841  0.00  0.00           C 0
+ATOM   2021  OG1 THR A 784      74.857  36.854  20.954  0.00  0.00           O 0
+ATOM   2247   CE LYS A 810      71.606  43.184  25.008  0.00  0.00           C 0
+ATOM   2248   NZ LYS A 810      72.492  44.257  24.467  0.52  7.66           N 0
+ATOM   2050  CD2 PHE A 787      70.138  38.822  23.554  0.00  0.00           C 0
+ATOM   2220  NH1 ARG A 807      70.726  41.451  20.639  0.00  0.00           N 0
+ATOM   2016    N THR A 784      72.630  35.379  22.121  0.00  0.00           N 0
+TER
+END

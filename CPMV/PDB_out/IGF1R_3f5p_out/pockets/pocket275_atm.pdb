@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   275:
+HEADER 0  - Pocket Score                      : -0.0752
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8104
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5710
+HEADER 5  - Mean B-factor of pocket residues  : 0.4122
+HEADER 6  - Hydrophobicity Score              : 35.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 213.3495
+HEADER 10  -Pocket volume (convex hull)       : 6.8145
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2105
+ATOM   4483  NH1 ARG B1246       7.580  72.370 156.119  0.71  4.37           N 0
+ATOM   4457  OE2 GLU B1243       7.497  73.009 153.482  0.27  8.57           O 0
+ATOM   4482   CZ ARG B1246       8.424  71.783 156.957  0.00  0.00           C 0
+ATOM   4484  NH2 ARG B1246       8.080  70.643 157.545  0.00  0.00           N 0
+ATOM   4490   CG MET B1247      13.250  69.661 151.390  0.00  0.00           C 0
+ATOM   4478   CB ARG B1246      12.073  72.561 155.580  0.00  0.00           C 0
+ATOM   4520  OE1 GLN B1250      13.805  67.170 155.861  0.76  6.43           O 0
+ATOM   4452    O GLU B1243      11.992  72.790 151.859  0.60  1.07           O 0
+ATOM   4492   CE MET B1247      11.453  70.604 149.543  0.00  0.00           C 0
+ATOM   4454   CG GLU B1243       8.325  73.409 151.286  0.00  0.00           C 0
+ATOM   4477    O ARG B1246      14.320  70.349 155.946  0.65  5.36           O 0
+ATOM   4521  NE2 GLN B1250      13.397  66.028 157.745  0.38  9.84           N 0
+ATOM   4481   NE ARG B1246       9.613  72.336 157.185  0.67  3.28           N 0
+ATOM   4476    C ARG B1246      14.121  71.205 155.081  0.00  0.00           C 0
+ATOM   4485    N MET B1247      14.337  71.003 153.788  0.00  0.00           N 0
+ATOM   4351  CD1 LEU B1230      13.465  72.442 160.806  0.00  0.00           C 0
+ATOM   4502    O TRP B1249      17.180  69.387 159.326  0.74  4.29           O 0
+TER
+END

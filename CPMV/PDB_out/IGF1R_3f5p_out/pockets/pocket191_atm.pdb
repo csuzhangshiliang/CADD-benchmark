@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   191:
+HEADER 0  - Pocket Score                      : -0.0252
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0307
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5871
+HEADER 5  - Mean B-factor of pocket residues  : 0.7120
+HEADER 6  - Hydrophobicity Score              : 24.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 174.8644
+HEADER 10  -Pocket volume (convex hull)       : 4.4235
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM  14973  NH1 ARG G1044     -13.589 146.746  97.670  0.00  0.00           N 0
+ATOM  14940   CB MET G1041     -16.259 142.393  94.613  0.00  0.00           C 0
+ATOM   9304  NH1 ARG D1246     -20.181 143.286  94.502  0.68  9.84           N 0
+ATOM  14937   CA MET G1041     -14.949 143.175  94.666  0.00  0.00           C 0
+ATOM  14972   CZ ARG G1044     -13.586 147.417  98.816  0.00  0.00           C 0
+ATOM  14974  NH2 ARG G1044     -13.887 148.709  98.824  0.48  3.28           N 0
+ATOM  14492   CB SER G 982     -17.719 145.327 102.020  0.00  0.00           C 0
+ATOM  14936    N MET G1041     -14.902 144.210  93.630  0.56  3.28           N 0
+ATOM  14928    O ALA G1039     -14.092 147.730  94.544  0.41  4.29           O 0
+ATOM  14489   CA SER G 982     -18.501 144.012 102.088  0.00  0.00           C 0
+ATOM  14494    N ALA G 983     -16.693 142.589 101.280  0.73  3.28           N 0
+ATOM   9278  OE2 GLU D1243     -21.431 142.936  97.330  0.46  5.36           O 0
+ATOM  14941   CG MET G1041     -16.627 141.708  95.935  0.00  0.00           C 0
+ATOM  14943   CE MET G1041     -18.786 140.547  97.272  0.00  0.00           C 0
+ATOM  14480    O PHE G 981     -21.190 144.698 101.849  0.75  5.36           O 0
+ATOM  14498   CB ALA G 983     -14.804 141.541 100.160  0.00  0.00           C 0
+TER
+END

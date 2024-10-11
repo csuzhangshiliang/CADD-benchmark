@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   202:
+HEADER 0  - Pocket Score                      : -0.0312
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9661
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5389
+HEADER 5  - Mean B-factor of pocket residues  : 0.6060
+HEADER 6  - Hydrophobicity Score              : 17.8889
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 216.2992
+HEADER 10  -Pocket volume (convex hull)       : 2.1380
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.6500
+ATOM  30811   CG GLU L1243      37.160  63.128 103.777  0.00  0.00           C 0
+ATOM  31680  NH1 ARG R1044      42.682  70.245 103.259  0.43  5.47           N 0
+ATOM  31650   CE MET R1041      40.750  62.938 102.048  0.00  0.00           C 0
+ATOM  30814  OE2 GLU L1243      37.068  63.424 101.410  0.67  2.14           O 0
+ATOM  31199   CB SER R 982      40.549  66.585 107.437  0.00  0.00           C 0
+ATOM  31196   CA SER R 982      40.288  65.077 107.441  0.00  0.00           C 0
+ATOM  31187    O PHE R 981      37.498  65.226 107.413  0.65  3.21           O 0
+ATOM  30840  NH1 ARG L1246      38.398  64.166  99.369  0.00  0.00           N 0
+ATOM  31643    N MET R1041      43.285  66.812  99.112  0.57  1.09           N 0
+ATOM  31635    O ALA R1039      42.773  70.293 100.162  0.47  4.29           O 0
+ATOM  31621    O GLU R1037      40.564  72.535 101.089  0.43  7.50           O 0
+ATOM  31201    N ALA R 983      42.429  64.418 106.552  0.83  2.19           N 0
+ATOM  31644   CA MET R1041      43.710  65.840 100.098  0.00  0.00           C 0
+ATOM  31677   CD ARG R1044      44.331  68.384 104.574  0.00  0.00           C 0
+ATOM  31205   CB ALA R 983      44.550  64.223 105.384  0.00  0.00           C 0
+ATOM  31648   CG MET R1041      43.242  63.490 100.959  0.00  0.00           C 0
+ATOM  31647   CB MET R1041      42.804  64.620 100.061  0.00  0.00           C 0
+TER
+END

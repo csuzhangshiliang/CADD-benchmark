@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   229:
+HEADER 0  - Pocket Score                      : -0.0478
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 3.8880
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5908
+HEADER 5  - Mean B-factor of pocket residues  : 0.3795
+HEADER 6  - Hydrophobicity Score              : 6.2222
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 364.9020
+HEADER 10  -Pocket volume (convex hull)       : 28.5818
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.8889
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.3214
+ATOM  20213   NE ARG I1095     -24.899  67.582 152.260  0.67  5.47           N 0
+ATOM  20223   CD PRO I1096     -23.284  62.533 149.538  0.00  0.00           C 0
+ATOM  20211   CG ARG I1095     -25.195  66.362 150.194  0.00  0.00           C 0
+ATOM  21044  CD1 LEU I1208     -22.680  67.685 148.018  0.00  0.00           C 0
+ATOM  21034    O THR I1207     -22.023  71.078 151.806  0.64  2.14           O 0
+ATOM  21059  OE2 GLU I1210     -20.756  69.551 154.781  0.64  5.36           O 0
+ATOM  21043   CG LEU I1208     -22.278  69.128 148.229  0.00  0.00           C 0
+ATOM  21029    O ALA I1206     -18.108  72.259 149.313  0.42  9.64           O 0
+ATOM  21033    C THR I1207     -21.490  71.727 150.894  0.00  0.00           C 0
+ATOM  21250    N ASP I1235     -13.621  71.304 153.415  0.56  2.19           N 0
+ATOM  21253    O ASP I1235     -14.237  69.841 151.021  0.00  0.00           O 0
+ATOM  21035   CB THR I1207     -20.171  73.018 152.520  0.00  0.00           C 0
+ATOM  21254   CB ASP I1235     -13.380  68.897 153.825  0.00  0.00           C 0
+ATOM  21037  CG2 THR I1207     -19.023  73.971 152.711  0.00  0.00           C 0
+ATOM  21247   CB PRO I1234     -15.414  73.846 152.024  0.00  0.00           C 0
+ATOM  21042   CB LEU I1208     -23.185  69.728 149.305  0.00  0.00           C 0
+ATOM  21032   CA THR I1207     -20.149  72.408 151.115  0.00  0.00           C 0
+ATOM  20210   CB ARG I1095     -25.512  64.933 149.848  0.00  0.00           C 0
+ATOM  20222   CG PRO I1096     -23.016  61.262 150.315  0.00  0.00           C 0
+ATOM  20212   CD ARG I1095     -25.869  66.843 151.461  0.00  0.00           C 0
+ATOM  21058  OE1 GLU I1210     -20.299  71.349 156.015  0.68  5.36           O 0
+ATOM  21244   CA PRO I1234     -14.415  73.578 153.154  0.00  0.00           C 0
+ATOM  21006  CZ2 TRP I1203     -18.767  75.973 155.985  0.00  0.00           C 0
+TER
+END

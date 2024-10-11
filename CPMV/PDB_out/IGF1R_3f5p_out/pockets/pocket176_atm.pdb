@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   176:
+HEADER 0  - Pocket Score                      : -0.0160
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8047
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5319
+HEADER 5  - Mean B-factor of pocket residues  : 0.6028
+HEADER 6  - Hydrophobicity Score              : 19.6000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.9000
+HEADER 9  - Pocket volume (Monte Carlo)       : 170.0434
+HEADER 10  -Pocket volume (convex hull)       : 2.4361
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3636
+ATOM  31091    O GLU L1276      41.680  43.215 126.012  0.42  9.64           O 0
+ATOM  31107    O SER L1278      44.276  44.671 121.706  0.50  5.36           O 0
+ATOM  31149   CB SER L1282      47.630  44.292 122.795  0.00  0.00           C 0
+ATOM  31100    O VAL L1277      41.797  42.498 121.550  0.65  5.36           O 0
+ATOM  29419    O ASN L1058      45.968  37.065 119.598  0.40  2.14           O 0
+ATOM  31167  OE1 GLU L1284      49.622  39.592 120.793  0.21  9.64           O 0
+ATOM  31111   CA PHE L1279      45.673  44.576 119.319  0.00  0.00           C 0
+ATOM  29425   CA CYS L1059      44.188  38.344 117.932  0.00  0.00           C 0
+ATOM  29430    N HIS L1060      42.114  39.200 118.825  0.70  3.28           N 0
+ATOM  29429   SG CYS L1059      43.751  40.871 116.863  0.00  0.00           S 0
+ATOM  29854  CD1 TYR L1125      48.155  40.618 116.382  0.00  0.00           C 0
+ATOM  29856  CE1 TYR L1125      48.698  39.499 116.999  0.00  0.00           C 0
+ATOM  31110    N PHE L1279      44.232  44.658 119.460  0.00  0.00           N 0
+ATOM  31114   CB PHE L1279      46.053  44.072 117.928  0.00  0.00           C 0
+ATOM  31116  CD1 PHE L1279      48.502  43.568 118.135  0.00  0.00           C 0
+ATOM  31150   OG SER L1282      48.471  44.272 121.658  0.00  0.00           O 0
+TER
+END

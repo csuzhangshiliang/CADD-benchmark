@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   226:
+HEADER 0  - Pocket Score                      : -0.0470
+HEADER 1  - Drug Score                        : 0.0048
+HEADER 2  - Number of alpha spheres           :    30
+HEADER 3  - Mean alpha-sphere radius          : 4.2510
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5701
+HEADER 5  - Mean B-factor of pocket residues  : 0.3781
+HEADER 6  - Hydrophobicity Score              : 50.5556
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 325.1162
+HEADER 10  -Pocket volume (convex hull)       : 13.1995
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM  13876    O GLN F1214      63.492 149.312 169.386  0.78  4.29           O 0
+ATOM  14018  OD2 ASP F1232      70.006 153.355 166.641  0.00  0.00           O 0
+ATOM  13891   CG LEU F1216      62.517 153.635 171.796  0.00  0.00           C 0
+ATOM  13893  CD2 LEU F1216      63.382 153.293 173.002  0.00  0.00           C 0
+ATOM  13892  CD1 LEU F1216      62.629 155.134 171.471  0.00  0.00           C 0
+ATOM  13962   CZ PHE F1224      65.740 158.303 169.070  0.00  0.00           C 0
+ATOM  13960  CE1 PHE F1224      65.841 158.585 170.413  0.00  0.00           C 0
+ATOM  13862   CA TYR F1213      61.647 152.393 167.169  0.00  0.00           C 0
+ATOM  13998    O LEU F1230      66.259 157.536 165.872  0.60  2.14           O 0
+ATOM  14011    N ASP F1232      67.781 154.768 163.666  0.00  0.00           N 0
+ATOM  13791  CZ2 TRP F1203      64.322 150.929 161.790  0.00  0.00           C 0
+ATOM  13873    N GLN F1214      61.579 149.981 167.534  0.53  2.19           N 0
+ATOM  13861    N TYR F1213      61.328 152.182 165.765  0.00  0.00           N 0
+ATOM  13961  CE2 PHE F1224      64.510 158.239 168.489  0.00  0.00           C 0
+ATOM  13867  CD1 TYR F1213      62.005 155.641 166.651  0.00  0.00           C 0
+ATOM  14015   CB ASP F1232      69.749 153.476 164.275  0.00  0.00           C 0
+ATOM  14014    O ASP F1232      68.313 153.344 161.377  0.38  1.07           O 0
+ATOM  13878   CG GLN F1214      62.882 147.178 167.119  0.00  0.00           C 0
+ATOM  14010  CD2 LEU F1231      62.935 154.174 163.718  0.00  0.00           C 0
+ATOM  13843  OE1 GLU F1210      64.912 146.412 162.617  0.69  5.36           O 0
+ATOM  13793  CH2 TRP F1203      63.160 150.234 161.923  0.00  0.00           C 0
+ATOM  14004   CA LEU F1231      65.723 156.057 163.596  0.00  0.00           C 0
+TER
+END

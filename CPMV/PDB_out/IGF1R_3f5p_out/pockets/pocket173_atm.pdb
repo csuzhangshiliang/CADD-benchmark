@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   173:
+HEADER 0  - Pocket Score                      : -0.0144
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7627
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5205
+HEADER 5  - Mean B-factor of pocket residues  : 0.5538
+HEADER 6  - Hydrophobicity Score              : 19.6000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.9000
+HEADER 9  - Pocket volume (Monte Carlo)       : 169.7150
+HEADER 10  -Pocket volume (convex hull)       : 1.7150
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM  26397   CB SER K1282      95.625  39.818 122.850  0.00  0.00           C 0
+ATOM  26355    O SER K1278      99.142  39.328 121.860  0.68  7.50           O 0
+ATOM  26348    O VAL K1277     101.651  41.589 121.683  0.68  5.36           O 0
+ATOM  26339    O GLU K1276     101.878  40.834 126.213  0.00  0.00           O 0
+ATOM  26415  OE1 GLU K1284      94.279  43.749 120.861  0.76  6.43           O 0
+ATOM  26359   CA PHE K1279      97.761  39.507 119.425  0.00  0.00           C 0
+ATOM  24678    N HIS K1060     101.386  45.068 119.015  0.65  2.19           N 0
+ATOM  24673   CA CYS K1059      99.330  45.869 118.063  0.00  0.00           C 0
+ATOM  24667    O ASN K1058      97.320  46.964 119.586  0.28  3.21           O 0
+ATOM  24677   SG CYS K1059      99.767  43.330 116.992  0.00  0.00           S 0
+ATOM  26358    N PHE K1279      99.193  39.408 119.603  0.00  0.00           N 0
+ATOM  24676   CB CYS K1059      98.984  44.951 116.895  0.00  0.00           C 0
+ATOM  26362   CB PHE K1279      97.422  40.083 118.056  0.00  0.00           C 0
+ATOM  25102  CD1 TYR K1125      95.501  43.524 116.468  0.00  0.00           C 0
+TER
+END

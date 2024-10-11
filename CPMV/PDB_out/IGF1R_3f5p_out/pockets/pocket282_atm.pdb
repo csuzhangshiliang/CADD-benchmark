@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   282:
+HEADER 0  - Pocket Score                      : -0.0800
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0879
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6693
+HEADER 5  - Mean B-factor of pocket residues  : 0.6613
+HEADER 6  - Hydrophobicity Score              : 23.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 292.6264
+HEADER 10  -Pocket volume (convex hull)       : 8.8563
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2381
+ATOM  37798  NH1 ARG T1223     -60.598 109.161 173.323  0.00  0.00           N 0
+ATOM  37800    N PHE T1224     -59.349 107.906 167.839  0.00  0.00           N 0
+ATOM  37806  CD1 PHE T1224     -62.193 104.780 166.583  0.00  0.00           C 0
+ATOM  37804   CB PHE T1224     -61.330 107.135 166.602  0.00  0.00           C 0
+ATOM  37801   CA PHE T1224     -59.880 106.840 166.999  0.00  0.00           C 0
+ATOM  37830   CB GLU T1227     -55.687 103.663 168.005  0.00  0.00           C 0
+ATOM  37833  OE1 GLU T1227     -56.284 103.700 170.956  0.00  0.00           O 0
+ATOM  37803    O PHE T1224     -58.522 105.522 165.527  0.00  0.00           O 0
+ATOM  37793   CB ARG T1223     -58.230 108.836 170.564  0.00  0.00           C 0
+ATOM  37768    O GLN T1220     -61.396 109.703 168.518  0.00  0.00           O 0
+ATOM  37769   CB GLN T1220     -63.907 110.780 170.241  0.00  0.00           C 0
+ATOM  37773  NE2 GLN T1220     -66.060 109.228 171.990  0.84  8.75           N 0
+ATOM  37741  CD2 LEU T1216     -66.209 108.586 168.675  0.00  0.00           C 0
+ATOM  37839    N GLY T1229     -58.601 103.251 163.641  0.78  1.09           N 0
+ATOM  37829    O GLU T1227     -55.506 101.700 165.802  0.47  7.50           O 0
+ATOM  37808  CE1 PHE T1224     -62.844 103.722 165.974  0.00  0.00           C 0
+ATOM  37791    C ARG T1223     -58.082 107.929 168.233  0.00  0.00           C 0
+ATOM  37792    O ARG T1223     -57.245 107.090 167.882  0.00  0.00           O 0
+TER
+END

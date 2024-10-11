@@ -1,0 +1,50 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   107:
+HEADER 0  - Pocket Score                      : 0.0266
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    35
+HEADER 3  - Mean alpha-sphere radius          : 3.9642
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5425
+HEADER 5  - Mean B-factor of pocket residues  : 0.7333
+HEADER 6  - Hydrophobicity Score              : 12.1667
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 432.1532
+HEADER 10  -Pocket volume (convex hull)       : 51.4078
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM  26874  OE2 GLU M1037     107.425  10.373 102.628  0.00  0.00           O 0
+ATOM  26870   CB GLU M1037     104.542  10.545 103.057  0.00  0.00           C 0
+ATOM  26435    O PHE M 981     105.972  18.721 106.981  0.65  8.57           O 0
+ATOM  26062  OE2 GLU K1243     106.333  20.604 101.518  0.00  0.00           O 0
+ATOM  26869    O GLU M1037     103.019  11.706 100.534  0.56  8.57           O 0
+ATOM  26928  NH1 ARG M1044     100.136  14.626 102.752  0.66  4.37           N 0
+ATOM  26929  NH2 ARG M1044     100.514  12.799 104.082  0.61  1.09           N 0
+ATOM  26088  NH1 ARG K1246     106.255  19.995  99.050  0.00  0.00           N 0
+ATOM  26895   CB MET M1041     100.754  19.314  99.748  0.00  0.00           C 0
+ATOM  26898   CE MET M1041     102.701  21.229 101.885  0.00  0.00           C 0
+ATOM  26089  NH2 ARG K1246     104.253  19.990  97.916  0.10  5.47           N 0
+ATOM  26891    N MET M1041     100.100  17.172  98.731  0.61  2.19           N 0
+ATOM  26892   CA MET M1041      99.742  18.178  99.718  0.00  0.00           C 0
+ATOM  26883    O ALA M1039     100.892  13.773  99.501  0.47  2.14           O 0
+ATOM  26447   CB SER M 982     102.977  17.417 107.077  0.00  0.00           C 0
+ATOM  26444   CA SER M 982     103.239  18.932 107.012  0.00  0.00           C 0
+ATOM  26927   CZ ARG M1044     100.054  14.031 103.932  0.00  0.00           C 0
+ATOM  27149    O GLN M1073     103.005  10.820 107.458  0.65  5.36           O 0
+ATOM  26926   NE ARG M1044      99.506  14.671 104.959  0.00  0.00           N 0
+ATOM  26448   OG SER M 982     102.712  16.967 108.400  0.69  4.29           O 0
+ATOM  27145    O GLY M1072     103.647  12.818 110.259  0.42  4.29           O 0
+ATOM  26430   CB SER M 980     108.700  16.105 108.926  0.00  0.00           C 0
+ATOM  26059   CG GLU K1243     106.396  21.156 103.848  0.00  0.00           C 0
+ATOM  26060   CD GLU K1243     107.058  20.843 102.510  0.00  0.00           C 0
+ATOM  26896   CG MET M1041     100.345  20.415 100.686  0.00  0.00           C 0
+ATOM  26449    N ALA M 983     101.067  19.630 106.184  0.78  2.19           N 0
+ATOM  26925   CD ARG M1044      98.979  16.030 104.889  0.00  0.00           C 0
+ATOM  26429    O SER M 980     106.291  17.450 110.685  0.43  6.43           O 0
+TER
+END

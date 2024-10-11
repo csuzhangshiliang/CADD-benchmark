@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   217:
+HEADER 0  - Pocket Score                      : -0.0409
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.2056
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7112
+HEADER 5  - Mean B-factor of pocket residues  : 0.3268
+HEADER 6  - Hydrophobicity Score              : 10.4000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 281.9862
+HEADER 10  -Pocket volume (convex hull)       : 7.5259
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0588
+ATOM  22488    O THR J1083      17.602 108.249 138.540  0.55  3.21           O 0
+ATOM  22501  NH1 ARG J1084      20.432 113.532 136.714  0.00  0.00           N 0
+ATOM  22497   CG ARG J1084      17.801 112.410 137.783  0.00  0.00           C 0
+ATOM  22493   CA ARG J1084      16.855 110.738 139.366  0.00  0.00           C 0
+ATOM  22536   CB SER J1089      17.294 111.805 147.622  0.00  0.00           C 0
+ATOM  22574   OG SER J1093      21.678 115.224 144.239  0.00  0.00           O 0
+ATOM  22535    O SER J1089      19.229 114.450 147.090  0.00  0.00           O 0
+ATOM  22573   CB SER J1093      22.671 114.792 145.158  0.00  0.00           C 0
+ATOM  22538    N TYR J1090      17.435 114.277 145.764  0.00  0.00           N 0
+ATOM  22534    C SER J1089      18.089 114.056 146.895  0.00  0.00           C 0
+ATOM  22495    O ARG J1084      16.859 111.274 141.700  0.75  2.14           O 0
+ATOM  22544  CD1 TYR J1090      18.585 115.626 141.504  0.00  0.00           C 0
+ATOM  22496   CB ARG J1084      16.870 112.197 138.934  0.00  0.00           C 0
+ATOM  22539   CA TYR J1090      18.047 115.026 144.676  0.00  0.00           C 0
+ATOM  22546  CE1 TYR J1090      19.065 116.486 140.539  0.00  0.00           C 0
+TER
+END

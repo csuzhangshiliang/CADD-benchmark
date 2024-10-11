@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    56:
+HEADER 0  - Pocket Score                      : 0.0921
+HEADER 1  - Drug Score                        : 0.0411
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.7377
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4438
+HEADER 5  - Mean B-factor of pocket residues  : 0.6205
+HEADER 6  - Hydrophobicity Score              : 48.6000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.3000
+HEADER 9  - Pocket volume (Monte Carlo)       : 125.9963
+HEADER 10  -Pocket volume (convex hull)       : 2.6840
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 22.0000
+HEADER 13 - Number of apolar alpha sphere     :    23
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM  36038   CG TRP T 992     -51.458 135.707 135.617  0.00  0.00           C 0
+ATOM  36615  CD1 LEU T1065     -55.685 133.350 139.815  0.00  0.00           C 0
+ATOM  36015   CD PRO T 989     -49.098 137.191 139.695  0.00  0.00           C 0
+ATOM  36634  CG1 VAL T1068     -54.647 138.019 138.738  0.00  0.00           C 0
+ATOM  36501    C ALA T1051     -52.356 132.709 143.090  0.00  0.00           C 0
+ATOM  36505   CA SER T1052     -49.982 133.120 142.631  0.00  0.00           C 0
+ATOM  36502    O ALA T1051     -52.424 131.769 142.310  0.00  0.00           O 0
+ATOM  36504    N SER T1052     -51.230 133.366 143.352  0.77  1.09           N 0
+ATOM  36480  CD1 LEU T1048     -52.919 140.068 143.994  0.00  0.00           C 0
+ATOM  36503   CB ALA T1051     -54.077 134.485 143.311  0.00  0.00           C 0
+ATOM  36699  CG2 VAL T1077     -58.086 137.937 142.705  0.00  0.00           C 0
+ATOM  36040  CD2 TRP T 992     -51.829 134.328 135.548  0.00  0.00           C 0
+ATOM  36616  CD2 LEU T1065     -55.731 134.083 137.433  0.00  0.00           C 0
+ATOM  36014   CG PRO T 989     -48.427 135.983 139.136  0.00  0.00           C 0
+ATOM  36529   CB LYS T1055     -49.716 131.580 138.479  0.00  0.00           C 0
+ATOM  36007  CG1 VAL T 988     -51.776 140.647 141.071  0.00  0.00           C 0
+ATOM  36477    O LEU T1048     -51.237 136.103 144.903  0.60  1.07           O 0
+ATOM  36043  CE3 TRP T 992     -53.048 133.652 135.537  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pqr format file writen by the programm fpocket.                 
+HEADER It represent the voronoi vertices of a single pocket found by the         
+HEADER algorithm.                                                                
+HEADER                                                                           
+HEADER Information about the pocket   324:
+HEADER 0  - Pocket Score                      : -0.1366
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of V. Vertices             :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0256
+HEADER 4  - Mean alpha-sphere SA              : 0.5551
+HEADER 5  - Mean B-factor                     : 0.6801
+HEADER 6  - Hydrophobicity Score              : 0.7143
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Volume Score                      : 4.2857
+HEADER 9  - Real volume (approximation)       : 229.5796
+HEADER 10 - Charge Score                      :    -1
+HEADER 11 - Local hydrophobic density Score   : 5.0000
+HEADER 12 - Number of apolar alpha sphere     :     6
+HEADER 13 - Proportion of apolar alpha sphere : 0.3158
+ATOM      1    C STP   324     -21.835  62.471  93.382    0.00     3.75
+ATOM      2    C STP   324     -22.817  63.998  92.471    0.00     3.65
+ATOM      3    O STP   324     -22.994  64.125  92.357    0.00     3.64
+ATOM      4    O STP   324     -22.878  64.488  92.049    0.00     3.97
+ATOM      5    O STP   324     -22.807  64.935  91.598    0.00     4.38
+ATOM      6    O STP   324     -23.025  65.214  91.633    0.00     4.36
+ATOM      7    O STP   324     -21.760  62.273  93.377    0.00     3.74
+ATOM      8    C STP   324     -21.733  62.408  93.388    0.00     3.81
+ATOM      9    C STP   324     -21.461  62.444  93.216    0.00     3.99
+ATOM     10    O STP   324     -22.597  64.785  91.629    0.00     4.36
+ATOM     11    O STP   324     -21.138  62.618  92.890    0.00     4.23
+ATOM     12    O STP   324     -20.941  62.697  92.297    0.00     4.32
+ATOM     13    O STP   324     -21.214  62.946  92.624    0.00     4.23
+ATOM     14    O STP   324     -21.098  62.496  93.029    0.00     4.22
+ATOM     15    O STP   324     -20.225  61.656  92.634    0.00     4.40
+ATOM     16    C STP   324     -20.888  62.600  93.731    0.00     3.79
+ATOM     17    O STP   324     -19.744  61.535  93.306    0.00     4.02
+ATOM     18    C STP   324     -20.043  61.929  93.717    0.00     3.73
+ATOM     19    O STP   324     -18.376  61.349  93.141    0.00     3.89
+TER
+END

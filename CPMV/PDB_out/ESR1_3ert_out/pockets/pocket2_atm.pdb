@@ -1,0 +1,59 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.2024
+HEADER 1  - Drug Score                        : 0.3558
+HEADER 2  - Number of alpha spheres           :    66
+HEADER 3  - Mean alpha-sphere radius          : 4.0382
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5166
+HEADER 5  - Mean B-factor of pocket residues  : 0.1908
+HEADER 6  - Hydrophobicity Score              : 39.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 513.1255
+HEADER 10  -Pocket volume (convex hull)       : 70.1252
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 37.7333
+HEADER 13 - Number of apolar alpha sphere     :    45
+HEADER 14 - Proportion of apolar alpha sphere : 0.6818
+ATOM   1645   CGAHIS A 513      28.145  16.110  30.178  0.00  0.00           C 0
+ATOM   1647  ND1AHIS A 513      27.204  17.117  30.158  0.71  2.19           N 0
+ATOM   1643   CBAHIS A 513      27.921  14.776  29.535  0.00  0.00           C 0
+ATOM    991  CG2 THR A 431      24.320  11.087  31.631  0.00  0.00           C 0
+ATOM    986   CA THR A 431      24.786  11.106  34.112  0.00  0.00           C 0
+ATOM    983    O ALA A 430      24.754  12.107  36.674  0.64  3.21           O 0
+ATOM   1651  CE1AHIS A 513      27.693  18.186  30.763  0.00  0.00           C 0
+ATOM   1653  NE2AHIS A 513      28.915  17.907  31.177  0.00  0.00           N 0
+ATOM    982    C ALA A 430      25.696  11.387  36.344  0.00  0.00           C 0
+ATOM    984   CB ALA A 430      28.016  11.950  37.077  0.00  0.00           C 0
+ATOM   1014   CB ARG A 434      22.240  14.355  35.401  0.00  0.00           C 0
+ATOM   1649  CD2AHIS A 513      29.223  16.615  30.824  0.00  0.00           C 0
+ATOM    961   CG MET A 427      33.032  10.680  33.609  0.00  0.00           C 0
+ATOM    963   CE MET A 427      35.409  11.753  32.643  0.00  0.00           C 0
+ATOM   1681  CD2 HIS A 516      34.138  13.586  29.257  0.00  0.00           C 0
+ATOM   1689   CG MET A 517      30.604   9.904  29.651  0.00  0.00           C 0
+ATOM   1641    OAHIS A 513      29.602  12.427  28.022  0.64  1.07           O 0
+ATOM    962   SD MET A 427      33.960  10.787  32.076  0.00  0.00           S 0
+ATOM   1583    O GLN A 506      20.537  18.887  29.440  0.00  0.00           O 0
+ATOM   1581   CA GLN A 506      19.300  20.906  29.785  0.00  0.00           C 0
+ATOM   1020  NH2 ARG A 434      20.175  19.998  34.338  0.59  2.19           N 0
+ATOM   1611  CD1 LEU A 509      23.524  23.140  28.710  0.00  0.00           C 0
+ATOM   1585   CG GLN A 506      18.414  22.026  31.946  0.00  0.00           C 0
+ATOM   1619  CG2 ILE A 510      23.007  13.973  29.517  0.00  0.00           C 0
+ATOM   1618  CG1 ILE A 510      22.127  16.082  30.466  0.00  0.00           C 0
+ATOM   1015   CG ARG A 434      21.671  15.529  34.624  0.00  0.00           C 0
+ATOM   1017   NE ARG A 434      21.157  17.944  34.679  0.00  0.00           N 0
+ATOM    960   CB MET A 427      31.743   9.912  33.408  0.00  0.00           C 0
+ATOM   1690   SD MET A 517      29.437   9.221  30.788  0.00  0.00           S 0
+ATOM    959    O MET A 427      28.537   9.948  34.300  0.00  0.00           O 0
+ATOM    957   CA MET A 427      30.918   9.736  34.676  0.00  0.00           C 0
+ATOM   1613    N ILE A 510      23.257  17.456  27.995  0.00  0.00           N 0
+ATOM   1016   CD ARG A 434      21.559  16.787  35.478  0.00  0.00           C 0
+ATOM    985    N THR A 431      25.801  10.854  35.128  0.00  0.00           N 0
+ATOM    990  OG1 THR A 431      26.570  10.894  32.465  0.66  1.07           O 0
+ATOM   1609   CB LEU A 509      23.636  20.720  28.076  0.00  0.00           C 0
+ATOM   1607    C LEU A 509      24.159  18.317  27.540  0.00  0.00           C 0
+TER
+END

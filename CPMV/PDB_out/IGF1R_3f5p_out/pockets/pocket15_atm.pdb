@@ -1,0 +1,60 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.3882
+HEADER 1  - Drug Score                        : 0.1632
+HEADER 2  - Number of alpha spheres           :    47
+HEADER 3  - Mean alpha-sphere radius          : 3.9903
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5220
+HEADER 5  - Mean B-factor of pocket residues  : 0.2897
+HEADER 6  - Hydrophobicity Score              : 25.9444
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 666.9743
+HEADER 10  -Pocket volume (convex hull)       : 120.9918
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 22.2857
+HEADER 13 - Number of apolar alpha sphere     :    28
+HEADER 14 - Proportion of apolar alpha sphere : 0.5957
+ATOM  36136  NH2 ARG T1003     -77.937 133.073 139.401  0.17  8.75           N 0
+ATOM  36330  NH2 ARG T1029     -74.382 131.204 134.889  0.33  5.47           N 0
+ATOM  36226  OE1 GLU T1015     -73.909 133.425 137.987  0.57  4.29           O 0
+ATOM  36744    O THR T1083     -74.013 126.647 139.831  0.50  2.14           O 0
+ATOM  36153  CD2 LEU T1005     -73.065 133.151 141.831  0.00  0.00           C 0
+ATOM  36742   CA THR T1083     -72.296 126.996 138.231  0.00  0.00           C 0
+ATOM  36759    N GLY T1085     -71.775 125.152 142.251  0.00  0.00           N 0
+ATOM  36736    O MET T1082     -70.243 126.638 140.116  0.00  0.00           O 0
+ATOM  36760   CA GLY T1085     -71.279 125.369 143.592  0.00  0.00           C 0
+ATOM  36747  CG2 THR T1083     -72.814 127.899 135.936  0.00  0.00           C 0
+ATOM  36152  CD1 LEU T1005     -70.602 133.177 141.625  0.00  0.00           C 0
+ATOM  37136   CE MET T1142     -67.272 126.536 143.288  0.00  0.00           C 0
+ATOM  36745   CB THR T1083     -73.177 126.859 136.984  0.00  0.00           C 0
+ATOM  36769  OD1 ASP T1086     -70.776 124.500 147.986  0.58  9.64           O 0
+ATOM  36161    O GLN T1007     -67.759 133.553 150.919  0.00  0.00           O 0
+ATOM  36149    O LEU T1005     -73.151 133.219 146.668  0.46  3.21           O 0
+ATOM  36150   CB LEU T1005     -71.701 133.699 143.842  0.00  0.00           C 0
+ATOM  36156    C GLY T1006     -70.271 135.274 148.859  0.00  0.00           C 0
+ATOM  36155   CA GLY T1006     -71.563 134.727 148.293  0.00  0.00           C 0
+ATOM  36206  CG2 VAL T1013     -66.263 134.737 146.065  0.00  0.00           C 0
+ATOM  36342   CB ALA T1031     -66.476 133.059 140.139  0.00  0.00           C 0
+ATOM  36719    O GLU T1080     -64.730 129.152 137.894  0.00  0.00           O 0
+ATOM  36712   CB MET T1079     -61.949 131.817 139.638  0.00  0.00           C 0
+ATOM  36733    N MET T1082     -67.960 127.919 138.219  0.00  0.00           N 0
+ATOM  36204   CB VAL T1013     -67.529 135.132 145.332  0.00  0.00           C 0
+ATOM  36148    C LEU T1005     -72.537 134.152 146.163  0.00  0.00           C 0
+ATOM  36154    N GLY T1006     -71.719 134.923 146.866  0.00  0.00           N 0
+ATOM  36763    N ASP T1086     -70.095 124.185 145.301  0.57  1.09           N 0
+ATOM  36767   CB ASP T1086     -68.694 123.648 147.215  0.00  0.00           C 0
+ATOM  36732  CD2 LEU T1081     -69.770 130.471 138.231  0.00  0.00           C 0
+ATOM  36596  CG1 VAL T1063     -62.269 127.052 139.369  0.00  0.00           C 0
+ATOM  36715   CE MET T1079     -59.996 129.603 141.002  0.00  0.00           C 0
+ATOM  37135   SD MET T1142     -66.094 125.546 144.200  0.00  0.00           S 0
+ATOM  37134   CG MET T1142     -65.238 124.713 142.862  0.00  0.00           C 0
+ATOM  36738   CG MET T1082     -66.208 125.803 139.132  0.00  0.00           C 0
+ATOM  37211    O GLY T1152     -60.310 126.352 144.740  0.72  5.36           O 0
+ATOM  36157    O GLY T1006     -69.455 135.861 148.150  0.00  0.00           O 0
+ATOM  36205  CG1 VAL T1013     -67.545 134.507 143.963  0.00  0.00           C 0
+TER
+END

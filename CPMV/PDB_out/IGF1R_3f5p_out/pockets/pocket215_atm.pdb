@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   215:
+HEADER 0  - Pocket Score                      : -0.0390
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9091
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6526
+HEADER 5  - Mean B-factor of pocket residues  : 0.3444
+HEADER 6  - Hydrophobicity Score              : 3.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 255.0019
+HEADER 10  -Pocket volume (convex hull)       : 10.4424
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM  15277    O THR G1083      10.675 156.943 107.081  0.68  4.29           O 0
+ATOM  15286   CG ARG G1084      14.435 155.372 108.472  0.00  0.00           C 0
+ATOM  15282   CA ARG G1084      12.851 155.414 106.501  0.00  0.00           C 0
+ATOM  15290  NH1 ARG G1084      16.533 158.193 109.698  0.00  0.00           N 0
+ATOM  15725  OE1 GLU G1145      13.425 158.083 112.554  0.63  6.43           O 0
+ATOM  15278   CB THR G1083      10.509 156.293 110.194  0.00  0.00           C 0
+ATOM  15285   CB ARG G1084      14.219 154.990 107.021  0.00  0.00           C 0
+ATOM  15327    N TYR G1090      16.580 154.274 100.469  0.00  0.00           N 0
+ATOM  15323    C SER G1089      16.541 154.994  99.356  0.00  0.00           C 0
+ATOM  15325   CB SER G1089      14.182 154.998  98.575  0.00  0.00           C 0
+ATOM  15284    O ARG G1084      13.542 154.744 104.308  0.59  7.50           O 0
+ATOM  15324    O SER G1089      17.216 156.013  99.184  0.48  6.43           O 0
+ATOM  15362   CB SER G1093      18.901 158.778 100.828  0.00  0.00           C 0
+ATOM  15363   OG SER G1093      19.171 158.043 102.006  0.00  0.00           O 0
+ATOM  15328   CA TYR G1090      17.473 154.628 101.548  0.00  0.00           C 0
+ATOM  15333  CD1 TYR G1090      18.331 154.988 104.699  0.00  0.00           C 0
+ATOM  15335  CE1 TYR G1090      19.333 155.086 105.646  0.00  0.00           C 0
+ATOM  15287   CD ARG G1084      15.905 155.596 108.774  0.00  0.00           C 0
+TER
+END

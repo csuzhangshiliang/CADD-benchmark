@@ -1,0 +1,66 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    72:
+HEADER 0  - Pocket Score                      : 0.0684
+HEADER 1  - Drug Score                        : 0.2893
+HEADER 2  - Number of alpha spheres           :    73
+HEADER 3  - Mean alpha-sphere radius          : 3.9257
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4513
+HEADER 5  - Mean B-factor of pocket residues  : 0.6020
+HEADER 6  - Hydrophobicity Score              : 17.4706
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 4.2353
+HEADER 9  - Pocket volume (Monte Carlo)       : 790.2123
+HEADER 10  -Pocket volume (convex hull)       : 170.4769
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 28.7647
+HEADER 13 - Number of apolar alpha sphere     :    34
+HEADER 14 - Proportion of apolar alpha sphere : 0.4658
+ATOM  36898   CE LYS T1111     -74.824 110.703 135.716  0.00  0.00           C 0
+ATOM  37175  CE2 PHE T1147     -76.003 118.114 135.283  0.00  0.00           C 0
+ATOM  37176   CZ PHE T1147     -76.592 118.398 136.486  0.00  0.00           C 0
+ATOM  37171   CG PHE T1147     -74.021 117.440 136.411  0.00  0.00           C 0
+ATOM  37173  CD2 PHE T1147     -74.726 117.647 135.246  0.00  0.00           C 0
+ATOM  36899   NZ LYS T1111     -74.357 110.817 134.295  0.00  0.00           N 0
+ATOM  36837  CD1 LEU T1094     -76.332 114.215 144.034  0.00  0.00           C 0
+ATOM  36805   OH TYR T1090     -75.480 116.067 140.609  0.00  0.00           O 0
+ATOM  36860    O PRO T1106     -78.357 109.775 142.698  0.00  0.00           O 0
+ATOM  36838  CD2 LEU T1094     -78.372 115.533 143.446  0.00  0.00           C 0
+ATOM  37172  CD1 PHE T1147     -74.628 117.744 137.617  0.00  0.00           C 0
+ATOM  36897   CD LYS T1111     -73.705 110.331 136.703  0.00  0.00           C 0
+ATOM  36921   CG GLN T1114     -67.864 111.411 135.445  0.00  0.00           C 0
+ATOM  36894    O LYS T1111     -69.923 110.095 139.336  0.61  1.07           O 0
+ATOM  37169    O PHE T1147     -69.917 116.641 137.341  0.73  4.29           O 0
+ATOM  37174  CE1 PHE T1147     -75.901 118.213 137.652  0.00  0.00           C 0
+ATOM  37170   CB PHE T1147     -72.607 116.956 136.375  0.00  0.00           C 0
+ATOM  37161    O ASP T1146     -71.340 117.561 133.684  0.00  0.00           O 0
+ATOM  36896   CG LYS T1111     -74.269 109.765 138.008  0.00  0.00           C 0
+ATOM  36932   CE MET T1115     -71.578 113.466 141.375  0.00  0.00           C 0
+ATOM  36895   CB LYS T1111     -73.174 109.556 139.045  0.00  0.00           C 0
+ATOM  38191   CB GLU T1271     -68.341 109.909 130.495  0.00  0.00           C 0
+ATOM  37182  OG1 THR T1148     -67.462 118.111 133.580  0.74  1.07           O 0
+ATOM  36924  NE2 GLN T1114     -66.300 111.535 133.619  0.52  5.47           N 0
+ATOM  37165  OD2 ASP T1146     -69.116 119.227 130.876  0.48  5.36           O 0
+ATOM  38204   CA GLY T1273     -64.510 112.913 127.034  0.00  0.00           C 0
+ATOM  36950  OE2 GLU T1118     -65.738 114.690 134.681  0.57  6.43           O 0
+ATOM  37177    N THR T1148     -69.237 118.129 135.798  0.00  0.00           N 0
+ATOM  36868   CB PRO T1107     -74.363 109.476 143.037  0.00  0.00           C 0
+ATOM  38244  CG2 VAL T1277     -61.519 115.843 129.636  0.00  0.00           C 0
+ATOM  36583  NE2 HIS T1061     -61.566 115.934 134.238  0.85  1.09           N 0
+ATOM  38213  CD1 PHE T1274     -61.512 111.794 132.728  0.00  0.00           C 0
+ATOM  38207    N PHE T1274     -63.099 112.118 128.837  0.70  2.19           N 0
+ATOM  38190    O GLU T1271     -65.151 109.507 129.528  0.53  1.07           O 0
+ATOM  38203    N GLY T1273     -65.324 111.700 127.031  0.55  4.37           N 0
+ATOM  36920   CB GLN T1114     -68.184 110.393 136.491  0.00  0.00           C 0
+ATOM  38192   CG GLU T1271     -69.585 109.455 131.277  0.00  0.00           C 0
+ATOM  36922   CD GLN T1114     -67.196 110.788 134.258  0.00  0.00           C 0
+ATOM  36865   CA PRO T1107     -75.710 108.850 142.618  0.00  0.00           C 0
+ATOM  36930   CG MET T1115     -68.911 113.025 140.857  0.00  0.00           C 0
+ATOM  36573  NE2 HIS T1060     -62.997 119.061 131.520  0.70  1.09           N 0
+ATOM  36572  CE1 HIS T1060     -62.761 120.241 130.973  0.00  0.00           C 0
+ATOM  38243  CG1 VAL T1277     -61.334 117.534 127.796  0.00  0.00           C 0
+ATOM  38208   CA PHE T1274     -61.887 111.965 129.639  0.00  0.00           C 0
+TER
+END

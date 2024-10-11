@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   262:
+HEADER 0  - Pocket Score                      : -0.0657
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8993
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4946
+HEADER 5  - Mean B-factor of pocket residues  : 0.7441
+HEADER 6  - Hydrophobicity Score              : -9.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 250.5447
+HEADER 10  -Pocket volume (convex hull)       : 8.2871
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM  15388   CG PRO G1096      28.304 160.780  95.859  0.00  0.00           C 0
+ATOM  15392    C GLU G1097      25.591 164.125  93.068  0.00  0.00           C 0
+ATOM  15399    N PRO G1102      30.881 161.140  91.830  0.34  3.28           N 0
+ATOM  15393    O GLU G1097      25.079 163.876  91.975  0.00  0.00           O 0
+ATOM  15390    N GLU G1097      25.793 162.936  95.239  0.64  2.19           N 0
+ATOM  15400   CA PRO G1102      30.988 159.687  92.014  0.00  0.00           C 0
+ATOM  15376   CB ARG G1095      24.546 158.421  96.307  0.00  0.00           C 0
+ATOM  15391   CA GLU G1097      24.897 163.729  94.381  0.00  0.00           C 0
+ATOM  15378   CD ARG G1095      23.447 156.842  94.755  0.00  0.00           C 0
+ATOM  15389   CD PRO G1096      27.630 159.850  96.772  0.00  0.00           C 0
+ATOM  15417   CB LEU G1104      29.810 155.495  95.059  0.00  0.00           C 0
+ATOM  15420  CD2 LEU G1104      29.338 155.219  92.595  0.00  0.00           C 0
+ATOM  15379   NE ARG G1095      24.480 156.362  93.844  0.00  0.00           N 0
+ATOM  15382  NH2 ARG G1095      25.438 154.797  92.463  0.00  0.00           N 0
+ATOM  15357  NH2 ARG G1092      21.553 155.533  91.870  0.00  0.00           N 0
+TER
+END

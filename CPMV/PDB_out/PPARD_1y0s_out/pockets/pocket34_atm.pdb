@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    34:
+HEADER 0  - Pocket Score                      : -0.1677
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    31
+HEADER 3  - Mean alpha-sphere radius          : 4.1138
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5026
+HEADER 5  - Mean B-factor of pocket residues  : 0.6057
+HEADER 6  - Hydrophobicity Score              : 20.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 292.8355
+HEADER 10  -Pocket volume (convex hull)       : 11.8678
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0645
+ATOM   1702   CB LEU A 431      20.318  -4.349  80.326  0.00  0.00           C 0
+ATOM   1706    N PHE A 432      21.885  -2.582  82.270  0.54  4.37           N 0
+ATOM   1625   CB LEU A 421      17.075  -0.693  81.137  0.00  0.00           C 0
+ATOM   1684    O GLN A 429      20.117  -7.269  83.994  0.00  0.00           O 0
+ATOM   1710   CB PHE A 432      21.673  -0.835  83.967  0.00  0.00           C 0
+ATOM   1723   CD PRO A 433      23.883  -2.828  84.859  0.00  0.00           C 0
+ATOM   1599  OE2 GLU A 418      20.047   0.539  87.972  0.79  9.64           O 0
+ATOM   1637  NE2 GLN A 422      14.861  -2.115  87.483  0.53  9.84           N 0
+ATOM   1679    O ALA A 428      18.185  -7.542  82.505  0.19  6.43           O 0
+ATOM   1664    O PRO A 426      13.856  -8.154  83.236  0.28  9.64           O 0
+ATOM   1633   CB GLN A 422      14.001  -2.611  85.015  0.00  0.00           C 0
+ATOM   1630   CA GLN A 422      13.957  -2.762  83.493  0.00  0.00           C 0
+ATOM   1629    N GLN A 422      14.591  -1.633  82.834  0.00  0.00           N 0
+ATOM   1623    C LEU A 421      14.946  -1.775  81.565  0.00  0.00           C 0
+ATOM   1594    O GLU A 418      16.039   0.661  84.141  0.00  0.00           O 0
+ATOM   1596   CG GLU A 418      18.472   1.014  86.274  0.00  0.00           C 0
+ATOM   1654    O HIS A 425      14.772  -6.243  80.845  0.48  1.07           O 0
+ATOM   1624    O LEU A 421      14.791  -2.833  80.964  0.57  2.14           O 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0937
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.9231
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4436
+HEADER 5  - Mean B-factor of pocket residues  : 0.5835
+HEADER 6  - Hydrophobicity Score              : 3.1111
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 213.0632
+HEADER 10  -Pocket volume (convex hull)       : 6.4112
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.5200
+ATOM   1360  CD1 TYR A 228     -18.393 -20.597 -16.509  0.00  0.00           C 0
+ATOM   1372  CD1 TYR A 229     -19.931 -21.200 -12.130  0.00  0.00           C 0
+ATOM   1342   CB THR A 226     -15.681 -23.995 -17.093  0.00  0.00           C 0
+ATOM   1341    O THR A 226     -14.371 -23.868 -14.494  0.60  4.29           O 0
+ATOM   1374  CE1 TYR A 229     -20.911 -21.087 -13.094  0.00  0.00           C 0
+ATOM   1183   OG SER A 193     -22.718 -27.312 -13.365  0.00  0.00           O 0
+ATOM   1362  CE1 TYR A 228     -18.206 -21.062 -17.783  0.00  0.00           C 0
+ATOM   1354    N TYR A 228     -15.866 -20.034 -13.877  0.00  0.00           N 0
+ATOM   1169   CE LYS A 191     -18.531 -26.311 -11.302  0.00  0.00           C 0
+ATOM   1383   CG ARG A 230     -13.656 -21.919  -9.211  0.00  0.00           C 0
+ATOM   1152  OD1 ASP A 189     -15.620 -26.075  -9.020  0.40  3.21           O 0
+HETATM  858   OZ OCY A 154     -23.785 -22.067 -15.713  0.00  0.00           O 0
+ATOM   1366    N TYR A 229     -17.175 -19.547 -11.493  0.00  0.00           N 0
+ATOM   1370   CB TYR A 229     -18.852 -20.497  -9.960  0.00  0.00           C 0
+ATOM   1168   CD LYS A 191     -19.973 -26.712 -11.539  0.00  0.00           C 0
+ATOM   1170   NZ LYS A 191     -17.589 -27.152 -12.096  0.52  5.47           N 0
+ATOM   1166   CB LYS A 191     -20.930 -24.660 -10.461  0.00  0.00           C 0
+ATOM   1344   CA ARG A 227     -13.831 -21.324 -13.545  0.00  0.00           C 0
+TER
+END

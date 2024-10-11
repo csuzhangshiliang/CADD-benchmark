@@ -1,0 +1,51 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   142:
+HEADER 0  - Pocket Score                      : 0.0052
+HEADER 1  - Drug Score                        : 0.0074
+HEADER 2  - Number of alpha spheres           :    29
+HEADER 3  - Mean alpha-sphere radius          : 3.7933
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5828
+HEADER 5  - Mean B-factor of pocket residues  : 0.6428
+HEADER 6  - Hydrophobicity Score              : 21.5455
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.2727
+HEADER 9  - Pocket volume (Monte Carlo)       : 348.9338
+HEADER 10  -Pocket volume (convex hull)       : 42.0442
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.2759
+ATOM  38115  OE2 GLU T1261     -49.585 101.715 142.152  0.64  7.50           O 0
+ATOM  19372    N PRO I 989     -50.007  97.803 137.261  0.00  0.00           N 0
+ATOM  19373   CA PRO I 989     -50.193  98.610 136.056  0.00  0.00           C 0
+ATOM  19376   CB PRO I 989     -48.767  99.000 135.659  0.00  0.00           C 0
+ATOM  38112   CG GLU T1261     -50.986 103.425 141.304  0.00  0.00           C 0
+ATOM  38313    O ASN T1285     -47.858 110.576 130.626  0.23  5.36           O 0
+ATOM  38316  OD1 ASN T1285     -48.481 110.854 134.298  0.76  3.21           O 0
+ATOM  38317  ND2 ASN T1285     -50.524 110.209 133.539  0.65  6.56           N 0
+ATOM  38319   CA LYS T1286     -45.388 109.832 131.804  0.00  0.00           C 0
+ATOM  19377   CG PRO I 989     -47.835  98.256 136.649  0.00  0.00           C 0
+ATOM  19872   OG SER I1052     -46.022  96.967 141.584  0.48  6.43           O 0
+ATOM  19356    O TYR I 987     -49.844  97.246 141.820  0.31  2.14           O 0
+ATOM  38137   OG SER T1264     -53.656 103.349 135.294  0.61  5.36           O 0
+ATOM  38103   CB LEU T1260     -51.036 107.697 138.537  0.00  0.00           C 0
+ATOM  38271  CE2 TYR T1280     -53.501 107.027 134.565  0.00  0.00           C 0
+ATOM  38102    O LEU T1260     -53.717 105.795 138.093  0.56  1.07           O 0
+ATOM  38108   CA GLU T1261     -53.125 104.089 140.173  0.00  0.00           C 0
+ATOM  38101    C LEU T1260     -52.998 106.204 139.008  0.00  0.00           C 0
+ATOM  19349    O VAL I 986     -53.051 100.123 140.813  0.42  3.21           O 0
+ATOM  38106  CD2 LEU T1260     -51.218 109.572 136.879  0.00  0.00           C 0
+ATOM  38105  CD1 LEU T1260     -49.026 109.080 137.950  0.00  0.00           C 0
+ATOM  38107    N GLU T1261     -52.651 105.454 140.046  0.00  0.00           N 0
+ATOM  38273   OH TYR T1280     -53.554 104.879 133.506  0.00  0.00           O 0
+ATOM  38136   CB SER T1264     -54.523 102.938 136.340  0.00  0.00           C 0
+ATOM  19368    O VAL I 988     -52.217  97.698 137.720  0.43  1.07           O 0
+ATOM  19378   CD PRO I 989     -48.667  97.217 137.321  0.00  0.00           C 0
+ATOM  38272   CZ TYR T1280     -53.912 106.209 133.534  0.00  0.00           C 0
+ATOM  38265    O TYR T1280     -52.456 110.223 131.403  0.24  4.29           O 0
+ATOM  38270  CE1 TYR T1280     -54.686 106.716 132.512  0.00  0.00           C 0
+TER
+END

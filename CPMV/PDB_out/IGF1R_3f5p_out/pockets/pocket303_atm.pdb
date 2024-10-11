@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   303:
+HEADER 0  - Pocket Score                      : -0.1010
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.1917
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4720
+HEADER 5  - Mean B-factor of pocket residues  : 0.5473
+HEADER 6  - Hydrophobicity Score              : 24.1250
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 207.3824
+HEADER 10  -Pocket volume (convex hull)       : 5.6579
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.7059
+ATOM  31956   CB GLU R1080      60.911  76.711 117.037  0.00  0.00           C 0
+ATOM  31838   CB ARG R1064      62.014  72.478 117.090  0.00  0.00           C 0
+ATOM  31843  NH1 ARG R1064      63.426  72.029 120.938  0.52  4.37           N 0
+ATOM  31860  CD2 LEU R1066      58.472  73.353 119.314  0.00  0.00           C 0
+ATOM  31958   CD GLU R1080      63.415  76.804 117.161  0.00  0.00           C 0
+ATOM  31505  CG1 VAL R1022      59.766  74.771 124.884  0.00  0.00           C 0
+ATOM  31959  OE1 GLU R1080      64.430  77.348 117.637  0.00  0.00           O 0
+ATOM  31506  CG2 VAL R1022      57.994  75.867 123.565  0.00  0.00           C 0
+ATOM  31859  CD1 LEU R1066      57.201  75.422 119.808  0.00  0.00           C 0
+ATOM  31555  CG2 THR R1028      57.728  78.749 122.255  0.00  0.00           C 0
+ATOM  31960  OE2 GLU R1080      63.418  75.622 116.737  0.00  0.00           O 0
+ATOM  31957   CG GLU R1080      62.126  77.610 117.092  0.00  0.00           C 0
+ATOM  31531  OE1 GLU R1025      61.053  77.734 126.260  0.57  6.43           O 0
+ATOM  31559    O ARG R1029      57.813  80.649 119.243  0.00  0.00           O 0
+ATOM  31964    O LEU R1081      62.063  81.517 116.282  0.45  5.36           O 0
+ATOM  31961    N LEU R1081      59.689  79.768 116.260  0.00  0.00           N 0
+TER
+END

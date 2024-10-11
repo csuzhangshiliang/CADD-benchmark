@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   259:
+HEADER 0  - Pocket Score                      : -0.0649
+HEADER 1  - Drug Score                        : 0.0017
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.9497
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5981
+HEADER 5  - Mean B-factor of pocket residues  : 0.2835
+HEADER 6  - Hydrophobicity Score              : 37.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 231.1046
+HEADER 10  -Pocket volume (convex hull)       : 6.8305
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM  22754    N ALA J1128      -8.182 119.190 140.145  0.71  1.09           N 0
+ATOM  22750   CB ASN J1127      -6.999 120.547 142.804  0.00  0.00           C 0
+ATOM  22724    O ALA J1124      -5.716 120.241 139.193  0.63  2.14           O 0
+ATOM  23842  CD1 LEU J1260      -7.187 125.806 137.315  0.00  0.00           C 0
+ATOM  22755   CA ALA J1128      -9.157 119.217 139.057  0.00  0.00           C 0
+ATOM  23273  OG1 THR J1191      -8.024 123.658 146.979  0.31  8.57           O 0
+ATOM  23823   CB SER J1258      -6.249 127.994 142.796  0.00  0.00           C 0
+ATOM  22752  OD1 ASN J1127      -6.050 121.763 144.674  0.65  3.21           O 0
+ATOM  23825    N PHE J1259      -3.662 126.333 142.558  0.81  2.19           N 0
+ATOM  23274  CG2 THR J1191      -8.949 121.449 146.575  0.00  0.00           C 0
+ATOM  23841   CG LEU J1260      -5.695 125.801 137.528  0.00  0.00           C 0
+ATOM  22725   CB ALA J1124      -3.284 122.445 138.839  0.00  0.00           C 0
+ATOM  22722   CA ALA J1124      -3.675 121.354 139.804  0.00  0.00           C 0
+ATOM  22758   CB ALA J1128      -8.448 119.445 137.715  0.00  0.00           C 0
+ATOM  23836    N LEU J1260      -3.705 126.627 139.888  0.00  0.00           N 0
+ATOM  23829   CB PHE J1259      -2.512 124.295 141.776  0.00  0.00           C 0
+ATOM  22749    O ASN J1127      -9.700 119.101 141.791  0.43  1.07           O 0
+ATOM  22748    C ASN J1127      -8.533 119.134 141.423  0.00  0.00           C 0
+TER
+END

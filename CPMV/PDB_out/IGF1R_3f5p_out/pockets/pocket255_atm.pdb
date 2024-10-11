@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   255:
+HEADER 0  - Pocket Score                      : -0.0639
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 4.0555
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5458
+HEADER 5  - Mean B-factor of pocket residues  : 0.6510
+HEADER 6  - Hydrophobicity Score              : 2.9091
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.6364
+HEADER 9  - Pocket volume (Monte Carlo)       : 386.3814
+HEADER 10  -Pocket volume (convex hull)       : 33.5026
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1111
+ATOM   7893  NE2 HIS D1061     -28.018 124.110 112.930  0.61  2.19           N 0
+ATOM   9531   CA PHE D1274     -26.789 127.949 117.572  0.00  0.00           C 0
+ATOM   9536  CD1 PHE D1274     -25.955 127.933 114.455  0.00  0.00           C 0
+ATOM   8273  OE2 GLU D1118     -31.344 126.881 112.431  0.21  6.43           O 0
+ATOM   8247  NE2 GLN D1114     -30.825 129.787 113.627  0.36  2.19           N 0
+ATOM   9530    N PHE D1274     -27.903 128.288 118.471  0.62  2.19           N 0
+ATOM   8505  OG1 THR D1148     -33.786 124.344 113.533  0.58  8.57           O 0
+ATOM   8486   CG ASP D1146     -36.721 123.565 115.380  0.00  0.00           C 0
+ATOM   8488  OD2 ASP D1146     -36.043 123.172 116.354  0.00  0.00           O 0
+ATOM   8484    O ASP D1146     -37.623 125.995 113.621  0.37  7.50           O 0
+ATOM   8485   CB ASP D1146     -38.142 124.063 115.640  0.00  0.00           C 0
+ATOM   9517  OE1 GLU D1271     -34.487 130.954 115.585  0.96  5.36           O 0
+ATOM   9524   CG PRO D1272     -31.445 132.119 121.186  0.00  0.00           C 0
+ATOM   9516   CD GLU D1271     -34.209 132.108 115.969  0.00  0.00           C 0
+ATOM   9525   CD PRO D1272     -31.230 132.835 119.916  0.00  0.00           C 0
+ATOM   9514   CB GLU D1271     -31.787 131.873 116.838  0.00  0.00           C 0
+ATOM   9567  CG2 VAL D1277     -27.677 124.215 117.890  0.00  0.00           C 0
+ATOM   7883  NE2 HIS D1060     -30.065 121.859 116.129  0.57  6.56           N 0
+ATOM   9527   CA GLY D1273     -29.470 128.032 120.302  0.00  0.00           C 0
+ATOM   9566  CG1 VAL D1277     -28.042 122.424 119.611  0.00  0.00           C 0
+ATOM   9528    C GLY D1273     -28.216 127.593 119.566  0.00  0.00           C 0
+ATOM   9526    N GLY D1273     -29.716 129.467 120.257  0.67  2.19           N 0
+TER
+END

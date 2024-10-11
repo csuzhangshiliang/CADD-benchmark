@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   151:
+HEADER 0  - Pocket Score                      : -0.0015
+HEADER 1  - Drug Score                        : 0.0021
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 3.9304
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5740
+HEADER 5  - Mean B-factor of pocket residues  : 0.3005
+HEADER 6  - Hydrophobicity Score              : 41.8750
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 252.8177
+HEADER 10  -Pocket volume (convex hull)       : 7.2589
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.3929
+ATOM  15582   CB ASN G1127      13.143 129.513 104.087  0.00  0.00           C 0
+ATOM  16655   CB SER G1258      20.460 127.301 104.673  0.00  0.00           C 0
+ATOM  16673   CG LEU G1260      18.441 128.858 109.723  0.00  0.00           C 0
+ATOM  16674  CD1 LEU G1260      17.993 127.501 110.190  0.00  0.00           C 0
+ATOM  16106  CG2 THR G1191      13.373 127.360 100.810  0.00  0.00           C 0
+ATOM  15581    O ASN G1127      11.246 127.317 105.214  0.00  0.00           O 0
+ATOM  16105  OG1 THR G1191      15.639 126.907 100.142  0.20  7.50           O 0
+ATOM  16657    N PHE G1259      19.741 130.358 104.587  0.00  0.00           N 0
+ATOM  16664  CD2 PHE G1259      16.866 132.248 103.277  0.00  0.00           C 0
+ATOM  16661   CB PHE G1259      18.294 132.196 105.331  0.00  0.00           C 0
+ATOM  16652   CA SER G1258      20.899 128.407 103.711  0.00  0.00           C 0
+ATOM  16139  CG2 VAL G1195      19.248 131.011 100.221  0.00  0.00           C 0
+ATOM  15586    N ALA G1128      11.363 128.853 106.847  0.00  0.00           N 0
+ATOM  15587   CA ALA G1128      11.040 127.902 107.896  0.00  0.00           C 0
+ATOM  15554   CA ALA G1124      15.130 132.213 107.256  0.00  0.00           C 0
+ATOM  15556    O ALA G1124      13.421 130.652 107.890  0.70  3.21           O 0
+ATOM  15590   CB ALA G1128      11.524 128.406 109.236  0.00  0.00           C 0
+ATOM  15580    C ASN G1127      11.412 128.479 105.578  0.00  0.00           C 0
+ATOM  15557   CB ALA G1124      16.251 132.209 108.274  0.00  0.00           C 0
+ATOM  15584  OD1 ASN G1127      14.373 129.978 102.068  0.70  2.14           O 0
+ATOM  16668    N LEU G1260      19.978 130.354 107.362  0.00  0.00           N 0
+TER
+END

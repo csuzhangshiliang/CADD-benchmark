@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   196:
+HEADER 0  - Pocket Score                      : -0.0272
+HEADER 1  - Drug Score                        : 0.0018
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8480
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6174
+HEADER 5  - Mean B-factor of pocket residues  : 0.4077
+HEADER 6  - Hydrophobicity Score              : 29.8889
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 308.0499
+HEADER 10  -Pocket volume (convex hull)       : 12.7776
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2857
+ATOM  18731  ND2 ASN H1218      37.440  99.524  80.713  0.00  0.00           N 0
+ATOM  18730  OD1 ASN H1218      37.103  97.823  82.161  0.00  0.00           O 0
+ATOM  18390  CG1 VAL H1176      32.882  99.803  83.646  0.00  0.00           C 0
+ATOM  18729   CG ASN H1218      36.737  98.495  81.189  0.00  0.00           C 0
+ATOM  18385    N VAL H1176      33.212  99.776  86.207  0.73  2.19           N 0
+ATOM  18399   NE ARG H1177      37.695  95.590  84.480  0.00  0.00           N 0
+ATOM  18392    N ARG H1177      33.629  97.117  86.908  0.00  0.00           N 0
+ATOM  18382   CB PRO H1175      35.345 100.857  88.809  0.00  0.00           C 0
+ATOM  18365    O LEU H1173      34.115 105.477  87.055  0.49  5.36           O 0
+ATOM  18373    O LEU H1174      32.335 102.718  86.538  0.52  2.14           O 0
+ATOM  18361    O GLY H1172      30.729 106.564  83.972  0.31  8.57           O 0
+ATOM  18398   CD ARG H1177      37.388  95.244  85.864  0.00  0.00           C 0
+ATOM  18396   CB ARG H1177      35.422  95.504  87.425  0.00  0.00           C 0
+ATOM  18379   CA PRO H1175      34.382 101.266  87.701  0.00  0.00           C 0
+ATOM  18363   CA LEU H1173      32.690 107.011  85.858  0.00  0.00           C 0
+ATOM  18369  CD2 LEU H1173      34.430 108.773  83.726  0.00  0.00           C 0
+ATOM  18364    C LEU H1173      32.962 105.863  86.846  0.00  0.00           C 0
+ATOM  18415  CZ3 TRP H1178      37.079  97.672  89.936  0.00  0.00           C 0
+ATOM  18677  NE2 GLN H1211      41.032  95.429  85.078  0.00  0.00           N 0
+ATOM  18674   CG GLN H1211      41.003  94.056  87.078  0.00  0.00           C 0
+ATOM  18416  CH2 TRP H1178      38.074  97.125  90.765  0.00  0.00           C 0
+TER
+END

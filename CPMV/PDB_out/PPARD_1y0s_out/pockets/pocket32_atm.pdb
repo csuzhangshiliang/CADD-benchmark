@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    32:
+HEADER 0  - Pocket Score                      : -0.1542
+HEADER 1  - Drug Score                        : 0.0030
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 4.1984
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5024
+HEADER 5  - Mean B-factor of pocket residues  : 0.3228
+HEADER 6  - Hydrophobicity Score              : 34.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 255.3781
+HEADER 10  -Pocket volume (convex hull)       : 6.1470
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.6087
+ATOM    833    O TYR A 320      33.395  13.804  73.462  0.47  5.36           O 0
+ATOM    836  CD1 TYR A 320      36.702  16.877  74.094  0.00  0.00           C 0
+ATOM    824    O LYS A 319      34.049  17.048  70.638  0.47  3.21           O 0
+ATOM    831   CA TYR A 320      33.748  16.127  73.163  0.00  0.00           C 0
+ATOM   1861   CB ALA A 450      41.460  11.172  68.724  0.00  0.00           C 0
+ATOM    838  CE1 TYR A 320      37.800  17.698  74.068  0.00  0.00           C 0
+ATOM   2047  CD1 TYR A 473      39.620  14.561  66.518  0.00  0.00           C 0
+ATOM   2036    O ILE A 472      38.461  18.420  68.838  0.48  6.43           O 0
+ATOM   2044    O TYR A 473      42.470  18.039  67.122  0.67  9.64           O 0
+ATOM   2042   CA TYR A 473      40.147  17.618  66.809  0.00  0.00           C 0
+ATOM   2039  CG2 ILE A 472      35.675  16.966  67.865  0.00  0.00           C 0
+ATOM   2049  CE1 TYR A 473      38.788  13.466  66.482  0.00  0.00           C 0
+ATOM   1829  CG1 VAL A 446      36.669  10.116  70.553  0.00  0.00           C 0
+ATOM    859  ND1 HIS A 323      33.920  13.454  66.926  0.38  3.28           N 0
+ATOM   2064    C ASP A 475      41.361  19.517  72.231  0.00  0.00           C 0
+ATOM   2043    C TYR A 473      41.332  18.517  67.094  0.00  0.00           C 0
+ATOM    857   CB HIS A 323      33.469  11.207  67.969  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   241:
+HEADER 0  - Pocket Score                      : -0.0536
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8286
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5511
+HEADER 5  - Mean B-factor of pocket residues  : 0.6118
+HEADER 6  - Hydrophobicity Score              : 32.1429
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 205.3176
+HEADER 10  -Pocket volume (convex hull)       : 6.2994
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0588
+ATOM   9302   NE ARG D1246     -21.024 141.640  93.139  0.76  1.09           N 0
+ATOM  14942   SD MET G1041     -17.837 140.353  95.770  0.00  0.00           S 0
+ATOM   9298    O ARG D1246     -19.065 136.549  94.378  0.74  1.07           O 0
+ATOM   9305  NH2 ARG D1246     -19.313 142.997  92.401  0.00  0.00           N 0
+ATOM   9172  CD1 LEU D1230     -21.215 137.845  89.500  0.00  0.00           C 0
+ATOM   9299   CB ARG D1246     -21.122 139.032  94.829  0.00  0.00           C 0
+ATOM  14944    N ARG G1042     -13.496 141.857  93.242  0.00  0.00           N 0
+ATOM  14949   CG ARG G1042     -12.676 139.806  90.661  0.00  0.00           C 0
+ATOM  14940   CB MET G1041     -16.259 142.393  94.613  0.00  0.00           C 0
+ATOM  14936    N MET G1041     -14.902 144.210  93.630  0.56  3.28           N 0
+ATOM  14934   CB SER G1040     -13.484 145.355  91.029  0.00  0.00           C 0
+ATOM  14948   CB ARG G1042     -12.129 141.010  91.383  0.00  0.00           C 0
+ATOM   9342  NE2 GLN D1250     -15.031 136.983  92.598  0.86  3.28           N 0
+ATOM   9323    O TRP D1249     -18.198 133.882  91.057  0.74  3.21           O 0
+ATOM   9341  OE1 GLN D1250     -15.264 137.976  94.587  0.72  1.07           O 0
+TER
+END

@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   304:
+HEADER 0  - Pocket Score                      : -0.1024
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0931
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6164
+HEADER 5  - Mean B-factor of pocket residues  : 0.5866
+HEADER 6  - Hydrophobicity Score              : 16.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 327.3003
+HEADER 10  -Pocket volume (convex hull)       : 7.6378
+HEADER 11 - Charge Score                      :    -3
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5238
+ATOM  24010   OH TYR J1280      -2.703 130.424 133.133  0.00  0.00           O 0
+ATOM  23840   CB LEU J1260      -5.228 127.168 138.043  0.00  0.00           C 0
+ATOM  23839    O LEU J1260      -2.490 129.107 137.750  0.75  1.07           O 0
+ATOM  23873   CB SER J1264      -1.792 132.131 135.813  0.00  0.00           C 0
+ATOM  23845   CA GLU J1261      -3.175 130.865 139.754  0.00  0.00           C 0
+ATOM  23849   CG GLU J1261      -5.295 131.846 140.687  0.00  0.00           C 0
+ATOM  23874   OG SER J1264      -1.780 133.542 135.629  0.52  1.07           O 0
+ATOM  24008  CE2 TYR J1280      -2.997 128.251 134.106  0.00  0.00           C 0
+ATOM  23838    C LEU J1260      -3.279 128.712 138.616  0.00  0.00           C 0
+ATOM  33626   CB PRO S 989      -7.773 136.098 135.802  0.00  0.00           C 0
+ATOM  33635  OD1 ASP S 990      -3.719 135.146 132.897  0.77  3.21           O 0
+ATOM  23842  CD1 LEU J1260      -7.187 125.806 137.315  0.00  0.00           C 0
+ATOM  33645  OE2 GLU S 991     -10.392 135.071 132.875  0.00  0.00           O 0
+ATOM  33622    N PRO S 989      -6.448 137.147 137.449  0.00  0.00           N 0
+ATOM  23852  OE2 GLU J1261      -6.875 133.300 141.715  0.44  7.50           O 0
+ATOM  33627   CG PRO S 989      -8.647 136.663 136.903  0.00  0.00           C 0
+ATOM  23844    N GLU J1261      -3.683 129.497 139.614  0.00  0.00           N 0
+ATOM  33623   CA PRO S 989      -6.322 136.439 136.174  0.00  0.00           C 0
+ATOM  33599    O VAL S 986      -3.078 134.665 140.923  0.71  1.07           O 0
+ATOM  33618    O VAL S 988      -4.214 137.515 137.484  0.26  1.07           O 0
+TER
+END

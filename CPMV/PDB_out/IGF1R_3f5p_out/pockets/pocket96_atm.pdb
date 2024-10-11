@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    96:
+HEADER 0  - Pocket Score                      : 0.0336
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6438
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5408
+HEADER 5  - Mean B-factor of pocket residues  : 0.5686
+HEADER 6  - Hydrophobicity Score              : 6.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 100.2182
+HEADER 10  -Pocket volume (convex hull)       : 0.7922
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM  24224  OG1 THR K1000     114.272  66.156 120.581  0.00  0.00           O 0
+ATOM  24238   CB SER K1002     118.465  64.154 116.245  0.00  0.00           C 0
+ATOM  24352  CG2 VAL K1017     114.841  61.845 121.963  0.00  0.00           C 0
+ATOM  24346    N VAL K1017     113.150  62.760 119.439  0.00  0.00           N 0
+ATOM  24343   CA GLY K1016     113.810  62.403 117.165  0.00  0.00           C 0
+ATOM  24341  OE2 GLU K1015     117.967  58.056 116.907  0.47  7.50           O 0
+ATOM  24345    O GLY K1016     113.283  60.640 118.696  0.00  0.00           O 0
+ATOM  24439   CG ARG K1029     115.195  57.104 121.217  0.00  0.00           C 0
+ATOM  24441   NE ARG K1029     117.055  56.291 119.809  0.00  0.00           N 0
+ATOM  24344    C GLY K1016     113.387  61.850 118.504  0.00  0.00           C 0
+ATOM  24239   OG SER K1002     118.542  62.878 115.632  0.69  3.21           O 0
+ATOM  24338   CG GLU K1015     116.375  59.263 115.606  0.00  0.00           C 0
+ATOM  24222    O THR K1000     113.511  65.241 118.185  0.00  0.00           O 0
+TER
+END

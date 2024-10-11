@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : -0.0072
+HEADER 1  - Drug Score                        : 0.0025
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 4.0254
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5073
+HEADER 5  - Mean B-factor of pocket residues  : 0.6626
+HEADER 6  - Hydrophobicity Score              : 42.1250
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 287.7523
+HEADER 10  -Pocket volume (convex hull)       : 7.1414
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.5417
+ATOM   2130  ND1 HIS B 217      12.844  -9.915  33.872  0.00  0.00           N 0
+ATOM   2102    N PHE B 214      12.542  -5.237  38.605  0.79  1.09           N 0
+ATOM   2075   CB ALA B 209      12.128  -8.870  42.334  0.00  0.00           C 0
+ATOM   2101   CB ALA B 213      15.218  -5.914  39.877  0.00  0.00           C 0
+ATOM   2128   CB HIS B 217      13.399  -7.455  33.980  0.00  0.00           C 0
+ATOM   2100    O ALA B 213      13.963  -5.198  36.858  0.73  3.21           O 0
+ATOM   2103   CA PHE B 214      11.370  -5.594  37.815  0.00  0.00           C 0
+ATOM   2099    C ALA B 213      13.743  -5.067  38.063  0.00  0.00           C 0
+ATOM   2750    N SER B 305       6.677 -13.570  35.223  0.00  0.00           N 0
+ATOM   2755   OG SER B 305       5.273 -11.339  35.970  0.76  2.14           O 0
+ATOM   2754   CB SER B 305       5.027 -12.535  36.686  0.00  0.00           C 0
+ATOM   2747   CB PRO B 304       9.654 -13.897  34.975  0.00  0.00           C 0
+ATOM   2109  CD2 PHE B 214       8.417  -7.214  38.035  0.00  0.00           C 0
+ATOM   2749   CD PRO B 304       9.874 -12.171  33.404  0.00  0.00           C 0
+ATOM   2748   CG PRO B 304      10.705 -13.177  34.184  0.00  0.00           C 0
+ATOM   2111  CE2 PHE B 214       7.243  -7.589  37.414  0.00  0.00           C 0
+ATOM   2105    O PHE B 214      10.913  -5.265  35.486  0.00  0.00           O 0
+ATOM   2139  CG1 ILE B 218       8.729  -5.941  32.700  0.00  0.00           C 0
+ATOM   2741  CG2 ILE B 303       6.296 -10.002  32.821  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.2252
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    31
+HEADER 3  - Mean alpha-sphere radius          : 4.1282
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6021
+HEADER 5  - Mean B-factor of pocket residues  : 0.3593
+HEADER 6  - Hydrophobicity Score              : 10.7143
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 443.8579
+HEADER 10  -Pocket volume (convex hull)       : 37.1337
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.1935
+ATOM   2156   CB THR A1103      -1.896  -6.599  31.600  0.00  0.00           C 0
+ATOM   2016  OD1 ASN A1085      -4.901 -11.796  28.231  0.53  2.14           O 0
+ATOM   2158  CG2 THR A1103      -0.574  -7.354  31.748  0.00  0.00           C 0
+ATOM   2017  ND2 ASN A1085      -5.822 -12.697  30.065  0.00  0.00           N 0
+ATOM   2155    O THR A1103      -4.063  -5.455  29.442  0.00  0.00           O 0
+ATOM   2032  NH2 ARG A1087      -5.874  -9.640  25.532  0.49  1.09           N 0
+ATOM   2203  ND2 ASN A1108      -9.410 -11.262  23.809  0.87  2.19           N 0
+ATOM   2014   CB ASN A1085      -6.413 -13.643  27.903  0.00  0.00           C 0
+ATOM   2201   CG ASN A1108      -9.034  -9.999  23.842  0.00  0.00           C 0
+ATOM   2157  OG1 THR A1103      -2.265  -5.953  32.816  0.00  0.00           O 0
+ATOM   2177    O TRP A1106      -5.229  -7.119  26.860  0.00  0.00           O 0
+ATOM   2194  OD1 ASN A1107     -10.346  -5.926  27.583  0.00  0.00           O 0
+ATOM   2193   CG ASN A1107      -9.598  -5.097  28.115  0.00  0.00           C 0
+ATOM   2189   CA ASN A1107      -7.577  -5.648  26.616  0.00  0.00           C 0
+ATOM   2196    N ASN A1108      -8.929  -7.139  25.237  0.00  0.00           N 0
+ATOM   2015   CG ASN A1085      -5.621 -12.661  28.750  0.00  0.00           C 0
+ATOM   2200   CB ASN A1108     -10.129  -8.999  24.144  0.00  0.00           C 0
+ATOM   2127   OH TYR A1099       2.314 -10.329  30.976  0.00  0.00           O 0
+ATOM   2026   CB ARG A1087      -0.435 -11.319  27.481  0.00  0.00           C 0
+ATOM   2013    O ASN A1085      -3.639 -14.144  27.823  0.64  7.50           O 0
+ATOM   2027   CG ARG A1087      -1.924 -10.924  27.484  0.00  0.00           C 0
+ATOM   2029   NE ARG A1087      -3.693  -9.638  26.267  0.00  0.00           N 0
+TER
+END

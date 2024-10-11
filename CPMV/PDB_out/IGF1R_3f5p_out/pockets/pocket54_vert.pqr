@@ -1,0 +1,62 @@
+HEADER
+HEADER This is a pqr format file writen by the programm fpocket.                 
+HEADER It represent the voronoi vertices of a single pocket found by the         
+HEADER algorithm.                                                                
+HEADER                                                                           
+HEADER Information about the pocket    54:
+HEADER 0  - Pocket Score                      : 0.0950
+HEADER 1  - Drug Score                        : 0.0039
+HEADER 2  - Number of V. Vertices             :    40
+HEADER 3  - Mean alpha-sphere radius          : 3.8853
+HEADER 4  - Mean alpha-sphere SA              : 0.5228
+HEADER 5  - Mean B-factor                     : 0.3507
+HEADER 6  - Hydrophobicity Score              : 8.8125
+HEADER 7  - Polarity Score                    :    10
+HEADER 8  - Volume Score                      : 4.7500
+HEADER 9  - Real volume (approximation)       : 728.6423
+HEADER 10 - Charge Score                      :     2
+HEADER 11 - Local hydrophobic density Score   : 4.6667
+HEADER 12 - Number of apolar alpha sphere     :     6
+HEADER 13 - Proportion of apolar alpha sphere : 0.1500
+ATOM      1    O STP    54      50.755 151.181 167.074    0.00     4.50
+ATOM      2    C STP    54      51.714 151.967 166.830    0.00     4.00
+ATOM      3    C STP    54      53.529 150.223 165.731    0.00     3.69
+ATOM      4    O STP    54      51.111 153.458 168.239    0.00     3.41
+ATOM      5    O STP    54      49.982 153.352 168.155    0.00     3.79
+ATOM      6    O STP    54      50.903 152.730 167.685    0.00     3.79
+ATOM      7    O STP    54      51.810 152.420 166.976    0.00     3.80
+ATOM      8    O STP    54      48.600 153.491 168.529    0.00     4.34
+ATOM      9    O STP    54      53.336 148.045 164.325    0.00     4.29
+ATOM     10    C STP    54      53.885 149.259 164.815    0.00     3.67
+ATOM     11    O STP    54      60.092 143.062 163.663    0.00     4.06
+ATOM     12    O STP    54      58.577 143.002 164.644    0.00     4.50
+ATOM     13    O STP    54      57.725 143.395 163.866    0.00     4.21
+ATOM     14    O STP    54      54.101 145.998 164.623    0.00     4.27
+ATOM     15    C STP    54      55.077 147.954 162.962    0.00     3.57
+ATOM     16    O STP    54      53.494 150.248 165.841    0.00     3.67
+ATOM     17    O STP    54      53.053 150.216 165.924    0.00     3.94
+ATOM     18    O STP    54      48.093 153.104 168.484    0.00     4.64
+ATOM     19    O STP    54      56.336 145.859 162.160    0.00     3.56
+ATOM     20    C STP    54      55.408 147.969 162.587    0.00     3.52
+ATOM     21    O STP    54      58.180 143.549 163.147    0.00     3.77
+ATOM     22    O STP    54      59.208 143.452 162.913    0.00     3.60
+ATOM     23    O STP    54      56.146 144.765 162.690    0.00     3.95
+ATOM     24    O STP    54      56.337 145.846 162.163    0.00     3.57
+ATOM     25    O STP    54      56.926 144.317 163.004    0.00     3.82
+ATOM     26    O STP    54      56.340 145.871 162.145    0.00     3.56
+ATOM     27    O STP    54      63.548 141.272 164.198    0.00     4.64
+ATOM     28    O STP    54      60.537 143.603 163.666    0.00     3.62
+ATOM     29    O STP    54      60.300 142.978 163.598    0.00     4.05
+ATOM     30    O STP    54      61.830 141.380 163.854    0.00     4.53
+ATOM     31    O STP    54      64.286 142.098 163.923    0.00     3.96
+ATOM     32    O STP    54      64.201 141.376 164.052    0.00     4.58
+ATOM     33    O STP    54      56.138 144.764 162.636    0.00     3.92
+ATOM     34    O STP    54      60.616 142.892 162.264    0.00     3.41
+ATOM     35    O STP    54      61.509 141.877 162.878    0.00     3.83
+ATOM     36    O STP    54      56.007 148.130 161.420    0.00     3.51
+ATOM     37    C STP    54      56.010 148.135 161.421    0.00     3.50
+ATOM     38    O STP    54      56.440 146.648 161.512    0.00     3.41
+ATOM     39    O STP    54      56.003 148.299 160.811    0.00     3.48
+ATOM     40    O STP    54      56.014 148.300 160.658    0.00     3.48
+TER
+END

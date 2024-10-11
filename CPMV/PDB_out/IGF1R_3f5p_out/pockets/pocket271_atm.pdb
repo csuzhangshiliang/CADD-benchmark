@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   271:
+HEADER 0  - Pocket Score                      : -0.0713
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7295
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4117
+HEADER 5  - Mean B-factor of pocket residues  : 0.4358
+HEADER 6  - Hydrophobicity Score              : 6.5714
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 218.3587
+HEADER 10  -Pocket volume (convex hull)       : 8.2392
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM   6620   CB GLN C1211     -13.791  71.657  87.743  0.00  0.00           C 0
+ATOM   5676   NZ LYS C1088      -8.406  71.319  92.645  0.00  0.00           N 0
+ATOM   6621   CG GLN C1211     -12.822  72.581  87.047  0.00  0.00           C 0
+ATOM   6617   CA GLN C1211     -14.408  72.258  89.008  0.00  0.00           C 0
+ATOM   6363  CH2 TRP C1178     -10.026  75.481  90.932  0.00  0.00           C 0
+ATOM   6362  CZ3 TRP C1178      -9.412  76.388  90.054  0.00  0.00           C 0
+ATOM   6624  NE2 GLN C1211     -11.353  72.374  85.126  0.00  0.00           N 0
+ATOM   5675   CE LYS C1088      -9.391  70.257  93.102  0.00  0.00           C 0
+ATOM   6616    N GLN C1211     -15.182  71.275  89.729  0.61  3.28           N 0
+ATOM   5713  NH2 ARG C1092     -12.371  66.420  91.368  0.00  0.00           N 0
+ATOM   6605    O ALA C1209     -14.307  69.236  93.112  0.71  1.07           O 0
+ATOM   6610    O GLU C1210     -14.903  72.308  91.699  0.00  0.00           O 0
+ATOM   6034   NE ARG C1139      -5.875  75.223  93.183  0.81  2.19           N 0
+TER
+END

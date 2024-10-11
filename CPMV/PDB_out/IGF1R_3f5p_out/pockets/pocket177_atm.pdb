@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   177:
+HEADER 0  - Pocket Score                      : -0.0163
+HEADER 1  - Drug Score                        : 0.0022
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8101
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5829
+HEADER 5  - Mean B-factor of pocket residues  : 0.6273
+HEADER 6  - Hydrophobicity Score              : 8.8750
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 241.4997
+HEADER 10  -Pocket volume (convex hull)       : 11.4123
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2857
+ATOM   7059   CB SER C1264     -19.459  91.356 110.819  0.00  0.00           C 0
+ATOM   7035   CG GLU C1261     -18.131  94.451 106.088  0.00  0.00           C 0
+ATOM   7060   OG SER C1264     -19.677  92.095 112.013  0.17  6.43           O 0
+ATOM   7031   CA GLU C1261     -17.866  92.128 107.040  0.00  0.00           C 0
+ATOM   7320   CA PRO D 989     -22.397  97.038 110.677  0.00  0.00           C 0
+ATOM   7319    N PRO D 989     -23.109  97.453 109.468  0.61  1.09           N 0
+ATOM   7324   CG PRO D 989     -21.517  99.096 109.828  0.00  0.00           C 0
+ATOM   7323   CB PRO D 989     -21.632  98.303 111.084  0.00  0.00           C 0
+ATOM   7296    O VAL D 986     -22.025  93.641 106.299  0.66  4.29           O 0
+ATOM   7332  OD1 ASP D 990     -23.455  92.466 111.922  0.70  1.07           O 0
+ATOM   7038  OE2 GLU C1261     -18.901  96.374 104.933  0.55  3.21           O 0
+ATOM   7025    O LEU C1260     -16.521  90.697 108.987  0.00  0.00           O 0
+ATOM   7024    C LEU C1260     -15.863  91.332 108.167  0.00  0.00           C 0
+ATOM   7194  CE2 TYR C1280     -15.382  90.623 112.574  0.00  0.00           C 0
+ATOM   7196   OH TYR C1280     -17.382  91.510 113.509  0.19  9.64           O 0
+ATOM   7240  ND2 ASN C1285     -11.412  92.618 113.805  0.58  3.28           N 0
+ATOM   7028  CD1 LEU C1260     -11.918  93.883 109.647  0.00  0.00           C 0
+ATOM   7195   CZ TYR C1280     -16.285  90.692 113.617  0.00  0.00           C 0
+ATOM   7030    N GLU C1261     -16.418  92.067 107.207  0.00  0.00           N 0
+ATOM   7026   CB LEU C1260     -13.791  92.590 108.758  0.00  0.00           C 0
+TER
+END

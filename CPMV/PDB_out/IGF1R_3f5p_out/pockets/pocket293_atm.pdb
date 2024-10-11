@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   293:
+HEADER 0  - Pocket Score                      : -0.0872
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.1026
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5893
+HEADER 5  - Mean B-factor of pocket residues  : 0.3674
+HEADER 6  - Hydrophobicity Score              : 21.0909
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.8182
+HEADER 9  - Pocket volume (Monte Carlo)       : 514.3219
+HEADER 10  -Pocket volume (convex hull)       : 36.2665
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1905
+ATOM  11142   CA PRO E1175       9.644 176.543 164.247  0.00  0.00           C 0
+ATOM  11148    N VAL E1176      10.799 174.930 165.615  0.58  1.09           N 0
+ATOM  11153  CG1 VAL E1176      11.892 175.232 168.185  0.00  0.00           C 0
+ATOM  11494  ND2 ASN E1218       6.919 175.143 170.581  0.42  5.47           N 0
+ATOM  11493  OD1 ASN E1218       7.004 173.056 169.733  0.45  2.14           O 0
+ATOM  11136    O LEU E1174      11.623 178.158 165.280  0.60  6.43           O 0
+ATOM  11128    O LEU E1173       9.849 180.736 164.756  0.24  7.50           O 0
+ATOM  11124    O GLY E1172      13.217 182.060 167.874  0.32  6.43           O 0
+ATOM  11126   CA LEU E1173      11.294 182.262 165.894  0.00  0.00           C 0
+ATOM  11436   CB GLN E1211       2.255 168.369 164.199  0.00  0.00           C 0
+ATOM  11437   CG GLN E1211       3.237 169.169 164.994  0.00  0.00           C 0
+ATOM  10497   NZ LYS E1088       1.202 172.319 159.288  0.75  7.66           N 0
+ATOM  11440  NE2 GLN E1211       2.913 170.505 166.998  0.00  0.00           N 0
+ATOM  11145   CB PRO E1175       8.512 176.126 163.303  0.00  0.00           C 0
+ATOM  11160   CG ARG E1177       8.173 171.008 165.675  0.00  0.00           C 0
+ATOM  11178  CZ3 TRP E1178       6.862 172.469 161.840  0.00  0.00           C 0
+ATOM  10853  NH2 ARG E1139       7.373 176.063 159.316  0.00  0.00           N 0
+ATOM  10850   NE ARG E1139       5.258 176.439 158.484  0.72  1.09           N 0
+ATOM  11146   CG PRO E1175       8.272 177.323 162.435  0.00  0.00           C 0
+ATOM  11161   CD ARG E1177       7.238 170.007 166.284  0.00  0.00           C 0
+ATOM  11179  CH2 TRP E1178       5.996 171.823 160.967  0.00  0.00           C 0
+ATOM  11162   NE ARG E1177       6.652 170.527 167.510  0.49  1.09           N 0
+TER
+END

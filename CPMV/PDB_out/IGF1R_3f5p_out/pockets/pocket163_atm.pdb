@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   163:
+HEADER 0  - Pocket Score                      : -0.0087
+HEADER 1  - Drug Score                        : 0.0021
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9598
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5798
+HEADER 5  - Mean B-factor of pocket residues  : 0.3776
+HEADER 6  - Hydrophobicity Score              : 31.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 284.6100
+HEADER 10  -Pocket volume (convex hull)       : 15.6222
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6111
+ATOM  14295   OG SER F1265      66.112 163.025 144.921  0.82  4.29           O 0
+ATOM  14141   SD MET F1247      68.181 164.755 151.170  0.00  0.00           S 0
+ATOM  14294   CB SER F1265      67.014 163.760 144.124  0.00  0.00           C 0
+ATOM  14262    O GLU F1261      63.844 165.660 144.463  0.60  4.29           O 0
+ATOM  14231   CB PRO F1257      62.733 166.672 150.158  0.00  0.00           C 0
+ATOM  14139   CB MET F1247      66.487 164.846 153.355  0.00  0.00           C 0
+ATOM  14232   CG PRO F1257      63.602 166.237 151.281  0.00  0.00           C 0
+ATOM  14211    O MET F1255      64.179 170.553 153.979  0.00  0.00           O 0
+ATOM  14115  CD2 LEU F1244      65.140 161.538 150.063  0.00  0.00           C 0
+ATOM  14263   CB GLU F1261      62.545 168.234 146.039  0.00  0.00           C 0
+ATOM  14266  OE1 GLU F1261      62.195 170.259 148.177  0.59  5.36           O 0
+ATOM  14265   CD GLU F1261      62.618 170.593 147.047  0.00  0.00           C 0
+ATOM  14228   CA PRO F1257      62.069 167.974 150.640  0.00  0.00           C 0
+ATOM  14227    N PRO F1257      62.310 167.956 152.083  0.00  0.00           N 0
+ATOM  14273  CG1 ILE F1262      61.961 163.466 148.409  0.00  0.00           C 0
+ATOM  14140   CG MET F1247      67.944 164.726 152.946  0.00  0.00           C 0
+ATOM  14170  OE1 GLN F1250      67.528 167.472 157.538  0.71  5.36           O 0
+ATOM  14136   CA MET F1247      66.261 164.811 154.869  0.00  0.00           C 0
+ATOM  14269   CA ILE F1262      62.537 163.732 145.980  0.00  0.00           C 0
+TER
+END

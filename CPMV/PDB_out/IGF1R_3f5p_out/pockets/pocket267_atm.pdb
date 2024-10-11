@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   267:
+HEADER 0  - Pocket Score                      : -0.0692
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.1031
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4552
+HEADER 5  - Mean B-factor of pocket residues  : 0.6537
+HEADER 6  - Hydrophobicity Score              : 16.6000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 455.2424
+HEADER 10  -Pocket volume (convex hull)       : 16.8392
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM  31179   CA SER R 980      35.095  67.344 110.420  0.00  0.00           C 0
+ATOM  31184    N PHE R 981      36.143  65.220 109.894  0.52  2.19           N 0
+ATOM  30783   CB MET L1240      33.456  60.712 108.708  0.00  0.00           C 0
+ATOM  30779    N MET L1240      32.526  61.500 106.588  0.69  2.19           N 0
+ATOM  31178    N SER R 980      34.711  67.561 111.814  0.00  0.00           N 0
+ATOM  30777  OD1 ASP L1239      29.954  65.790 104.272  0.00  0.00           O 0
+ATOM   4831    N SER C 980      28.280  72.569 106.899  0.00  0.00           N 0
+ATOM  31182   CB SER R 980      35.293  68.682 109.704  0.00  0.00           C 0
+ATOM  31183   OG SER R 980      35.914  68.504 108.440  0.47  9.64           O 0
+ATOM  30775   CB ASP L1239      31.128  63.874 105.075  0.00  0.00           C 0
+ATOM  31187    O PHE R 981      37.498  65.226 107.413  0.65  3.21           O 0
+ATOM  30813  OE1 GLU L1243      35.166  63.048 102.467  0.77  9.64           O 0
+ATOM  30811   CG GLU L1243      37.160  63.128 103.777  0.00  0.00           C 0
+ATOM  30812   CD GLU L1243      36.408  63.198 102.455  0.00  0.00           C 0
+ATOM  30774    O ASP L1239      33.457  61.601 104.548  0.00  0.00           O 0
+ATOM   4835   CB SER C 980      29.378  73.028 104.746  0.00  0.00           C 0
+ATOM  30773    C ASP L1239      32.500  61.791 105.295  0.00  0.00           C 0
+TER
+END

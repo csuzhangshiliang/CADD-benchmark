@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   124:
+HEADER 0  - Pocket Score                      : 0.0162
+HEADER 1  - Drug Score                        : 0.0019
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7703
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5411
+HEADER 5  - Mean B-factor of pocket residues  : 0.4183
+HEADER 6  - Hydrophobicity Score              : -20.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 218.4511
+HEADER 10  -Pocket volume (convex hull)       : 8.6299
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6875
+ATOM   2122  CE2 TYR A1251      56.488  69.378 165.829  0.00  0.00           C 0
+ATOM   1555    N GLU A1182      59.174  64.102 164.230  0.00  0.00           N 0
+ATOM   2124   OH TYR A1251      57.619  68.601 167.781  0.68  8.57           O 0
+ATOM   1556   CA GLU A1182      58.108  63.111 164.361  0.00  0.00           C 0
+ATOM   1584   CD LYS A1185      55.937  63.846 169.417  0.00  0.00           C 0
+ATOM   1586   NZ LYS A1185      53.639  64.875 169.441  0.00  0.00           N 0
+ATOM   2120  CD2 TYR A1251      56.503  70.144 164.670  0.00  0.00           C 0
+ATOM   2139   CD PRO A1253      54.908  67.086 160.267  0.00  0.00           C 0
+ATOM   2116    O TYR A1251      56.885  68.868 161.607  0.00  0.00           O 0
+ATOM   1594  OD2 ASP A1186      54.387  60.764 166.521  0.30  7.50           O 0
+ATOM   1559   CB GLU A1182      57.128  63.199 163.183  0.00  0.00           C 0
+ATOM   1562  OE1 GLU A1182      58.471  64.973 161.543  0.00  0.00           O 0
+ATOM   2130   CG ASN A1252      52.157  70.265 159.669  0.00  0.00           C 0
+ATOM   2126   CA ASN A1252      54.626  69.977 160.347  0.00  0.00           C 0
+ATOM   2132  ND2 ASN A1252      51.036  70.874 160.035  0.00  0.00           N 0
+ATOM   2129   CB ASN A1252      53.468  70.955 160.080  0.00  0.00           C 0
+TER
+END

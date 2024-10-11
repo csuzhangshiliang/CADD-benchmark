@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0256
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8570
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5485
+HEADER 5  - Mean B-factor of pocket residues  : 0.5872
+HEADER 6  - Hydrophobicity Score              : 15.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 188.3245
+HEADER 10  -Pocket volume (convex hull)       : 1.9711
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0526
+ATOM   2709    O PHE A 346     -27.077  85.490  24.981  0.62  4.29           O 0
+ATOM   2001  OE1 GLN A 251     -26.647  89.469  30.676  0.00  0.00           O 0
+ATOM   2731  CD1 PHE A 348     -27.659  84.378  28.785  0.00  0.00           C 0
+ATOM   2000   CD GLN A 251     -25.675  88.771  30.964  0.00  0.00           C 0
+ATOM   1997    O GLN A 251     -22.807  87.574  29.284  0.00  0.00           O 0
+ATOM   2002  NE2 GLN A 251     -24.437  89.088  30.608  0.61  9.84           N 0
+ATOM   1995   CA GLN A 251     -24.131  86.020  30.548  0.00  0.00           C 0
+ATOM   2725    N PHE A 348     -29.882  86.025  27.890  0.70  1.09           N 0
+ATOM   2728    O PHE A 348     -30.997  88.022  29.565  0.00  0.00           O 0
+ATOM   2723  OD1 ASN A 347     -28.794  88.407  23.575  0.71  2.14           O 0
+ATOM   2718   CA ASN A 347     -29.702  86.260  25.485  0.00  0.00           C 0
+ATOM   2721   CB ASN A 347     -30.555  87.099  24.531  0.00  0.00           C 0
+ATOM   2019   CB PRO A 254     -23.828  85.912  25.027  0.00  0.00           C 0
+ATOM   2020   CG PRO A 254     -22.562  86.680  24.835  0.00  0.00           C 0
+ATOM   2705   NZ LYS A 345     -27.009  89.178  21.834  0.48  8.75           N 0
+TER
+END

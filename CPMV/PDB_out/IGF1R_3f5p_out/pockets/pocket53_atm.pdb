@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    53:
+HEADER 0  - Pocket Score                      : 0.0957
+HEADER 1  - Drug Score                        : 0.0146
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.0781
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4842
+HEADER 5  - Mean B-factor of pocket residues  : 0.4771
+HEADER 6  - Hydrophobicity Score              : 15.8333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 483.4148
+HEADER 10  -Pocket volume (convex hull)       : 17.8480
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 0.8182
+ATOM   8539   CB ASP D1153     -30.006 114.399  99.323  0.00  0.00           C 0
+ATOM   8430    O ARG D1139     -34.337 118.585  98.245  0.39  9.64           O 0
+ATOM   8444  OD1 ASN D1140     -31.229 116.719  96.818  0.50  4.29           O 0
+ATOM   8542  OD2 ASP D1153     -30.874 113.307  97.426  0.62  9.64           O 0
+ATOM   8458   SD MET D1142     -35.756 116.493 103.085  0.00  0.00           S 0
+ATOM   8533    C GLY D1152     -29.518 114.871 102.631  0.00  0.00           C 0
+ATOM   8534    O GLY D1152     -29.563 113.710 103.059  0.79  8.57           O 0
+ATOM   8441    O ASN D1140     -30.624 118.402 101.110  0.00  0.00           O 0
+ATOM   8459   CE MET D1142     -36.923 115.779 104.246  0.00  0.00           C 0
+ATOM   8022   CB MET D1079     -33.873 109.160 107.859  0.00  0.00           C 0
+ATOM   8023   CG MET D1079     -32.802 108.630 106.929  0.00  0.00           C 0
+ATOM   7906  CG1 VAL D1063     -32.367 113.940 107.719  0.00  0.00           C 0
+ATOM   7652   CB ALA D1031     -38.359 109.584 107.380  0.00  0.00           C 0
+ATOM   8029    O GLU D1080     -35.775 112.031 109.355  0.00  0.00           O 0
+ATOM   8457   CG MET D1142     -34.448 117.059 104.190  0.00  0.00           C 0
+ATOM   7905   CB VAL D1063     -31.183 114.807 107.314  0.00  0.00           C 0
+ATOM   8532   CA GLY D1152     -29.966 116.020 103.513  0.00  0.00           C 0
+ATOM   7516  CG2 VAL D1013     -38.857 107.722 101.574  0.00  0.00           C 0
+ATOM   7669   NZ LYS D1033     -35.163 106.199  99.077  0.72  1.09           N 0
+ATOM   7478   CA GLY D1008     -38.017 107.748  97.510  0.00  0.00           C 0
+ATOM   8439   CA ASN D1140     -31.612 118.654  98.945  0.00  0.00           C 0
+ATOM   8440    C ASN D1140     -31.391 119.049 100.402  0.00  0.00           C 0
+TER
+END

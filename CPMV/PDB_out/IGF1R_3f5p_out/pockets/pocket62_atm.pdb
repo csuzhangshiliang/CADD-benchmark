@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    62:
+HEADER 0  - Pocket Score                      : 0.0827
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7048
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4547
+HEADER 5  - Mean B-factor of pocket residues  : 0.3539
+HEADER 6  - Hydrophobicity Score              : 45.1111
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 203.4232
+HEADER 10  -Pocket volume (convex hull)       : 5.3198
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM  38000    O TRP T1249     -56.004 103.123 156.124  0.62  2.14           O 0
+ATOM  37849  CD1 LEU T1230     -60.161 100.772 158.126  0.00  0.00           C 0
+ATOM  37975    O ARG T1246     -57.788 100.785 152.756  0.60  2.14           O 0
+ATOM  38018  OE1 GLN T1250     -54.997  98.536 153.736  0.81  9.64           O 0
+ATOM  37850  CD2 LEU T1230     -59.365 103.111 158.499  0.00  0.00           C 0
+ATOM  37838    O GLY T1228     -58.140 101.767 162.005  0.56  8.57           O 0
+ATOM  38026  CD1 TYR T1251     -53.022 103.395 161.174  0.00  0.00           C 0
+ATOM  37584  CH2 TRP T1196     -57.250 106.839 158.220  0.00  0.00           C 0
+ATOM  37979   NE ARG T1246     -61.253  96.995 154.094  0.82  6.56           N 0
+ATOM  37982  NH2 ARG T1246     -60.142  95.094 154.809  0.64  7.66           N 0
+ATOM  38024   CB TYR T1251     -52.485 101.929 159.203  0.00  0.00           C 0
+ATOM  37583  CZ3 TRP T1196     -56.298 106.408 157.285  0.00  0.00           C 0
+ATOM  37836   CA GLY T1228     -56.297 102.599 163.286  0.00  0.00           C 0
+ATOM  37814    O VAL T1225     -56.137 106.354 163.057  0.00  0.00           O 0
+ATOM  38020    N TYR T1251     -53.176 102.056 156.815  0.59  2.19           N 0
+ATOM  37842    O GLY T1229     -59.621 104.494 161.364  0.53  1.07           O 0
+ATOM  37837    C GLY T1228     -57.766 102.505 162.924  0.00  0.00           C 0
+ATOM  38019  NE2 GLN T1250     -53.060  98.945 154.832  0.43  5.47           N 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   309:
+HEADER 0  - Pocket Score                      : -0.1112
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0665
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4450
+HEADER 5  - Mean B-factor of pocket residues  : 0.6282
+HEADER 6  - Hydrophobicity Score              : 4.4444
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 243.8699
+HEADER 10  -Pocket volume (convex hull)       : 8.3665
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM  32898    O ALA R1206      82.100  87.266 102.028  0.32  9.64           O 0
+ATOM  33130    O ASN R1236      87.953  89.036 103.892  0.37  8.57           O 0
+ATOM  33122    O ASP R1235      86.216  89.512 100.258  0.34  5.36           O 0
+ATOM  33131   CB ASN R1236      87.552  91.215 102.008  0.00  0.00           C 0
+ATOM  32103    O PRO R1107      83.093  89.962 108.873  0.00  0.00           O 0
+ATOM  32097   CB PRO R1106      82.666  94.551 107.898  0.00  0.00           C 0
+ATOM  32106   CD PRO R1107      80.427  91.492 107.389  0.00  0.00           C 0
+ATOM  32912   CG LEU R1208      78.002  90.158 103.313  0.00  0.00           C 0
+ATOM  32913  CD1 LEU R1208      77.833  91.661 103.486  0.00  0.00           C 0
+ATOM  32105   CG PRO R1107      80.302  89.999 107.330  0.00  0.00           C 0
+ATOM  33147   CD PRO R1238      87.299  85.900 105.673  0.00  0.00           C 0
+ATOM  33136   CA CYS R1237      87.565  86.496 102.829  0.00  0.00           C 0
+ATOM  33146   CG PRO R1238      87.746  85.871 107.108  0.00  0.00           C 0
+ATOM  32143   CE MET R1112      82.035  86.107 106.025  0.00  0.00           C 0
+ATOM  32142   SD MET R1112      82.996  85.750 107.481  0.00  0.00           S 0
+TER
+END

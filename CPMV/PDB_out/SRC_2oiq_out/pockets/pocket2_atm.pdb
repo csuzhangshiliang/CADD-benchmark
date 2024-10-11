@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.1662
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.9096
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4303
+HEADER 5  - Mean B-factor of pocket residues  : 0.1958
+HEADER 6  - Hydrophobicity Score              : -10.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 269.2489
+HEADER 10  -Pocket volume (convex hull)       : 14.5640
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2174
+ATOM   1551    N GLY A 465       3.092 -42.970 -18.933  0.00  0.00           N 0
+ATOM   4125   CG GLU B 517      -3.073 -48.032 -18.097  0.00  0.00           C 0
+ATOM   4124   CB GLU B 517      -2.928 -47.246 -16.782  0.00  0.00           C 0
+ATOM   4127  OE1 GLU B 517      -3.298 -45.916 -19.227  0.73  4.29           O 0
+ATOM   1524  CG2 VAL A 461      -0.796 -41.951 -11.881  0.00  0.00           C 0
+ATOM   4165  OG1 THR B 521       2.293 -44.333  -9.719  0.58  3.21           O 0
+ATOM   4130   CA ASP B 518      -2.371 -45.703 -12.587  0.00  0.00           C 0
+ATOM   4123    O GLU B 517      -0.802 -47.291 -14.306  0.50  6.43           O 0
+ATOM   1523  CG1 VAL A 461       1.392 -40.952 -12.605  0.00  0.00           C 0
+ATOM   1253   NZ LYS A 427       4.799 -42.080 -13.186  0.39  3.28           N 0
+ATOM   1545   CA PRO A 464       1.912 -40.884 -18.576  0.00  0.00           C 0
+ATOM   1522   CB VAL A 461      -0.084 -41.123 -12.960  0.00  0.00           C 0
+ATOM   1552   CA GLY A 465       3.987 -43.886 -19.620  0.00  0.00           C 0
+ATOM   4126   CD GLU B 517      -3.451 -47.154 -19.296  0.00  0.00           C 0
+ATOM   4135  OD1 ASP B 518      -2.449 -43.879 -14.671  0.00  0.00           O 0
+ATOM   1548   CB PRO A 464       0.585 -40.634 -19.304  0.00  0.00           C 0
+ATOM   1516  NH1 ARG A 460      -4.165 -43.563 -17.016  0.38  2.19           N 0
+TER
+END

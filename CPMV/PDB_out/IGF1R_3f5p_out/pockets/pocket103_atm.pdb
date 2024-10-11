@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   103:
+HEADER 0  - Pocket Score                      : 0.0320
+HEADER 1  - Drug Score                        : 0.0021
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8718
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6676
+HEADER 5  - Mean B-factor of pocket residues  : 0.4252
+HEADER 6  - Hydrophobicity Score              : 2.3750
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 295.8572
+HEADER 10  -Pocket volume (convex hull)       : 20.6961
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.6000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.4545
+ATOM  25272  OD2 ASP K1146     112.755  43.592 121.598  0.00  0.00           O 0
+ATOM  25270   CG ASP K1146     113.532  43.845 120.648  0.00  0.00           C 0
+ATOM  25260   CB GLU K1145     116.382  48.615 119.373  0.00  0.00           C 0
+ATOM  25269   CB ASP K1146     115.021  43.891 120.945  0.00  0.00           C 0
+ATOM  25256    N GLU K1145     115.051  47.727 117.508  0.64  4.37           N 0
+ATOM  25255   CB ALA K1144     112.302  46.870 117.013  0.00  0.00           C 0
+ATOM  24842    O LEU K1081     111.396  51.983 116.714  0.31  9.64           O 0
+ATOM  25271  OD1 ASP K1146     113.143  44.065 119.476  0.75  1.07           O 0
+ATOM  25306   NZ LYS K1150     106.348  47.396 118.199  0.47  7.66           N 0
+ATOM  25305   CE LYS K1150     107.059  46.456 117.303  0.00  0.00           C 0
+ATOM  24837  OE1 GLU K1080     107.369  50.083 118.068  0.56  6.43           O 0
+ATOM  24686  CE1 HIS K1060     106.497  44.583 121.621  0.00  0.00           C 0
+ATOM  25288   CB THR K1148     110.618  42.826 117.702  0.00  0.00           C 0
+ATOM  24687  NE2 HIS K1060     106.683  43.414 121.037  0.61  2.19           N 0
+ATOM  25289  OG1 THR K1148     111.152  42.436 118.977  0.74  1.07           O 0
+ATOM  25265    N ASP K1146     115.682  45.552 119.251  0.75  1.09           N 0
+ATOM  25266   CA ASP K1146     115.863  44.171 119.697  0.00  0.00           C 0
+ATOM  25261   CG GLU K1145     117.754  48.859 119.974  0.00  0.00           C 0
+ATOM  25259    O GLU K1145     117.753  45.723 118.387  0.64  3.21           O 0
+TER
+END

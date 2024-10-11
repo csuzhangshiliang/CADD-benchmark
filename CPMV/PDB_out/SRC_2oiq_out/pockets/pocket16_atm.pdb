@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0469
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9673
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7147
+HEADER 5  - Mean B-factor of pocket residues  : 0.4754
+HEADER 6  - Hydrophobicity Score              : 10.8333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 292.5035
+HEADER 10  -Pocket volume (convex hull)       : 13.7559
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1176
+ATOM   2893  OE1 GLU B 353       8.531 -73.843 -17.985  0.00  0.00           O 0
+ATOM   2902   CE MET B 354       8.447 -69.149 -17.469  0.00  0.00           C 0
+ATOM   2900   CG MET B 354       5.914 -68.039 -17.989  0.00  0.00           C 0
+ATOM   2890   CB GLU B 353       6.580 -72.883 -16.326  0.00  0.00           C 0
+ATOM   2891   CG GLU B 353       6.706 -74.381 -16.544  0.00  0.00           C 0
+ATOM   2886    N GLU B 353       4.144 -72.817 -16.083  0.73  2.19           N 0
+ATOM   2892   CD GLU B 353       7.719 -74.730 -17.624  0.00  0.00           C 0
+ATOM   2894  OE2 GLU B 353       7.704 -75.892 -18.100  0.00  0.00           O 0
+ATOM   2895    N MET B 354       5.120 -70.091 -15.907  0.00  0.00           N 0
+ATOM   2849    O ASP B 348      -0.654 -71.628 -18.635  0.56  4.29           O 0
+ATOM   2854    N PHE B 349      -1.176 -69.674 -19.619  0.00  0.00           N 0
+ATOM   2855   CA PHE B 349       0.012 -68.955 -19.160  0.00  0.00           C 0
+ATOM   2814    O LYS B 343       1.035 -68.410 -24.098  0.00  0.00           O 0
+ATOM   2883   CA GLY B 352       1.741 -72.881 -16.413  0.00  0.00           C 0
+ATOM   2857    O PHE B 349       1.025 -68.951 -16.977  0.00  0.00           O 0
+ATOM   2850   CB ASP B 348      -2.418 -72.110 -21.299  0.00  0.00           C 0
+ATOM   2848    C ASP B 348      -1.404 -70.954 -19.329  0.00  0.00           C 0
+ATOM   2860  CD1 PHE B 349       2.468 -67.197 -20.445  0.00  0.00           C 0
+TER
+END

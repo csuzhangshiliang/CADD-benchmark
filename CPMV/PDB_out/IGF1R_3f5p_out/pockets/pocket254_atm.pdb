@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   254:
+HEADER 0  - Pocket Score                      : -0.0627
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7574
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4666
+HEADER 5  - Mean B-factor of pocket residues  : 0.7604
+HEADER 6  - Hydrophobicity Score              : 10.7500
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 219.2506
+HEADER 10  -Pocket volume (convex hull)       : 9.7921
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3529
+ATOM  25769    O ALA K1206     117.427  32.513 102.753  0.41  9.64           O 0
+ATOM  24977   CD PRO K1107     119.708  34.668 107.843  0.00  0.00           C 0
+ATOM  24974    O PRO K1107     119.889  31.092 109.245  0.00  0.00           O 0
+ATOM  24971    N PRO K1107     120.497  33.748 108.691  0.58  6.56           N 0
+ATOM  25783   CG LEU K1208     120.191  36.182 103.530  0.00  0.00           C 0
+ATOM  25785  CD2 LEU K1208     119.224  36.110 104.692  0.00  0.00           C 0
+ATOM  25784  CD1 LEU K1208     121.509  36.810 103.968  0.00  0.00           C 0
+ATOM  26001    O ASN K1236     118.846  26.568 104.246  0.60  9.64           O 0
+ATOM  26002   CB ASN K1236     121.138  26.725 102.557  0.00  0.00           C 0
+ATOM  25993    O ASP K1235     119.464  28.159 100.728  0.48  8.57           O 0
+ATOM  25013   SD MET K1112     115.602  31.199 107.976  0.00  0.00           S 0
+ATOM  26018   CD PRO K1238     115.969  26.748 106.103  0.00  0.00           C 0
+ATOM  26007   CA CYS K1237     116.278  26.493 103.198  0.00  0.00           C 0
+ATOM  25770   CB ALA K1206     114.306  31.423 102.749  0.00  0.00           C 0
+ATOM  25014   CE MET K1112     115.054  31.969 106.478  0.00  0.00           C 0
+TER
+END

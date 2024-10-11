@@ -1,0 +1,64 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   143:
+HEADER 0  - Pocket Score                      : 0.0049
+HEADER 1  - Drug Score                        : 0.0178
+HEADER 2  - Number of alpha spheres           :    72
+HEADER 3  - Mean alpha-sphere radius          : 3.8540
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3954
+HEADER 5  - Mean B-factor of pocket residues  : 0.5598
+HEADER 6  - Hydrophobicity Score              : 11.9500
+HEADER 7  - Polarity Score                    :    13
+HEADER 8  - Amino Acid based volume Score     : 4.3000
+HEADER 9  - Pocket volume (Monte Carlo)       : 738.0697
+HEADER 10  -Pocket volume (convex hull)       : 204.7098
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 12.1111
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM  31351    O MET R1001      46.822  85.960 115.943  0.00  0.00           O 0
+ATOM  19171  OE2 GLU H1271      40.981  87.892 117.061  0.48  6.43           O 0
+ATOM  19170  OE1 GLU H1271      40.930  89.839 116.023  0.68  3.21           O 0
+ATOM  17875   NZ LYS H1111      45.388  87.726 112.637  0.54  9.84           N 0
+ATOM  31359    O SER R1002      47.796  88.738 113.335  0.91  7.50           O 0
+ATOM  18137    O ASP H1146      43.966  95.160 114.134  0.00  0.00           O 0
+ATOM  18146   CB PHE H1147      44.742  94.367 111.503  0.00  0.00           C 0
+ATOM  17874   CE LYS H1111      45.260  87.425 111.190  0.00  0.00           C 0
+ATOM  18147   CG PHE H1147      46.232  94.323 111.543  0.00  0.00           C 0
+ATOM  17751   OH TYR H1090      46.766  92.234 107.206  0.67  5.36           O 0
+ATOM  18145    O PHE H1147      42.141  95.004 110.381  0.74  4.29           O 0
+ATOM  19183    N PHE H1274      34.061  92.961 118.814  0.70  1.09           N 0
+ATOM  17900  NE2 GLN H1114      36.979  91.556 114.155  0.52  6.56           N 0
+ATOM  19180   CA GLY H1273      35.757  93.191 120.532  0.00  0.00           C 0
+ATOM  19167   CB GLU H1271      38.003  89.352 117.207  0.00  0.00           C 0
+ATOM  17873   CD LYS H1111      43.821  87.526 110.723  0.00  0.00           C 0
+ATOM  17908   CE MET H1115      42.370  92.487 105.825  0.00  0.00           C 0
+ATOM  17870    O LYS H1111      39.775  88.809 108.391  0.67  3.21           O 0
+ATOM  19219  CG1 VAL H1277      34.374  98.783 119.900  0.00  0.00           C 0
+ATOM  17519  NE2 HIS H1060      36.426  99.621 116.545  0.00  0.00           N 0
+ATOM  19220  CG2 VAL H1277      33.953  97.075 118.105  0.00  0.00           C 0
+ATOM  19213  OE2 GLU H1276      35.829  96.775 123.046  0.45  6.43           O 0
+ATOM  18141  OD2 ASP H1146      42.195  97.510 116.876  0.54  9.64           O 0
+ATOM  19181    C GLY H1273      34.465  93.659 119.876  0.00  0.00           C 0
+ATOM  18149  CD2 PHE H1147      46.900  94.245 112.746  0.00  0.00           C 0
+ATOM  17926  OE2 GLU H1118      37.525  94.210 112.842  0.57  4.29           O 0
+ATOM  19189  CD1 PHE H1274      32.221  93.369 115.019  0.00  0.00           C 0
+ATOM  19184   CA PHE H1274      32.871  93.310 118.028  0.00  0.00           C 0
+ATOM  31380  OE1 GLU R1004      47.475  88.732 108.272  0.72  4.29           O 0
+ATOM  18148  CD1 PHE H1147      46.975  94.389 110.376  0.00  0.00           C 0
+ATOM  17529  NE2 HIS H1061      34.278  97.131 113.462  0.79  1.09           N 0
+ATOM  17844   CB PRO H1107      43.797  86.673 105.072  0.00  0.00           C 0
+ATOM  17845   CG PRO H1107      44.094  87.509 103.894  0.00  0.00           C 0
+ATOM  17897   CG GLN H1114      38.273  90.725 112.297  0.00  0.00           C 0
+ATOM  17896   CB GLN H1114      38.168  89.696 111.183  0.00  0.00           C 0
+ATOM  18158  OG1 THR H1148      40.000  96.855 114.060  0.72  6.43           O 0
+ATOM  19179    N GLY H1273      35.957  91.748 120.551  0.90  2.19           N 0
+ATOM  17871   CB LYS H1111      42.512  87.070 108.650  0.00  0.00           C 0
+ATOM  31357   CA SER R1002      48.825  87.636 115.190  0.00  0.00           C 0
+ATOM  18150  CE1 PHE H1147      48.351  94.361 110.422  0.00  0.00           C 0
+ATOM  31363   CA ARG R1003      50.050  88.869 111.825  0.00  0.00           C 0
+ATOM  17906   CG MET H1115      39.801  92.314 106.794  0.00  0.00           C 0
+TER
+END

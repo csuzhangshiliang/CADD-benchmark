@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   328:
+HEADER 0  - Pocket Score                      : -0.1486
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0195
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5545
+HEADER 5  - Mean B-factor of pocket residues  : 0.6344
+HEADER 6  - Hydrophobicity Score              : 17.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 228.2201
+HEADER 10  -Pocket volume (convex hull)       : 5.7065
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0526
+ATOM  31727   CA GLU R1050      56.877  66.140 105.220  0.00  0.00           C 0
+ATOM  32495  NH1 ARG R1158      62.494  63.865  99.748  0.50  5.47           N 0
+ATOM  31752  CG2 VAL R1053      60.351  62.389 107.131  0.00  0.00           C 0
+ATOM  31721    O ASN R1049      56.553  63.673 106.475  0.67  4.29           O 0
+ATOM  32470    O GLY R1155      61.279  67.174 100.181  0.22  7.50           O 0
+ATOM  31698  OE2 GLU R1046      55.374  65.447  98.368  0.00  0.00           O 0
+ATOM  31726    N GLU R1050      55.683  65.311 105.200  0.75  1.09           N 0
+ATOM  31693    O GLU R1046      53.813  65.894 102.827  0.55  3.21           O 0
+ATOM  32459    O PHE R1154      62.545  67.468 103.554  0.54  7.50           O 0
+ATOM  31731   CG GLU R1050      57.909  68.177 104.077  0.00  0.00           C 0
+ATOM  30922   CE MET L1255      53.670  60.511 101.432  0.00  0.00           C 0
+ATOM  31722   CB ASN R1049      54.114  62.410 104.789  0.00  0.00           C 0
+ATOM  32482    O THR R1157      64.118  63.547 102.209  0.42  7.50           O 0
+ATOM  32484  OG1 THR R1157      64.695  65.550 104.594  0.79  1.07           O 0
+ATOM  31730   CB GLU R1050      56.672  67.361 104.327  0.00  0.00           C 0
+ATOM  31733  OE1 GLU R1050      57.014  68.824 101.976  0.70  3.21           O 0
+ATOM  31729    O GLU R1050      58.300  66.510 107.130  0.48  1.07           O 0
+ATOM  31750   CB VAL R1053      60.748  63.635 107.922  0.00  0.00           C 0
+TER
+END

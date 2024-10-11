@@ -1,0 +1,49 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   341:
+HEADER 0  - Pocket Score                      : -0.2170
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    33
+HEADER 3  - Mean alpha-sphere radius          : 4.1013
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5374
+HEADER 5  - Mean B-factor of pocket residues  : 0.5412
+HEADER 6  - Hydrophobicity Score              : 8.1818
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1818
+HEADER 9  - Pocket volume (Monte Carlo)       : 358.5154
+HEADER 10  -Pocket volume (convex hull)       : 33.1387
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1212
+ATOM  19860  OE1 GLU I1050     -42.866  90.548 149.722  0.80  5.36           O 0
+ATOM  20601    O GLY I1155     -38.828  92.269 151.528  0.40  5.36           O 0
+ATOM  19857   CB GLU I1050     -43.478  91.964 147.510  0.00  0.00           C 0
+ATOM  19820    O GLU I1046     -46.186  93.033 149.262  0.57  2.14           O 0
+ATOM  19825  OE2 GLU I1046     -44.939  93.704 154.290  0.00  0.00           O 0
+ATOM  19854   CA GLU I1050     -43.357  93.109 146.524  0.00  0.00           C 0
+ATOM  19858   CG GLU I1050     -42.350  90.991 147.455  0.00  0.00           C 0
+ATOM  19853    N GLU I1050     -44.552  93.936 146.586  0.74  1.09           N 0
+ATOM  19849   CB ASN I1049     -46.036  96.683 147.342  0.00  0.00           C 0
+ATOM  19848    O ASN I1049     -43.758  95.542 145.210  0.63  5.36           O 0
+ATOM  19847    C ASN I1049     -44.657  95.085 145.927  0.00  0.00           C 0
+ATOM  20590    O PHE I1154     -37.539  92.044 147.980  0.49  1.07           O 0
+ATOM  20599   CA GLY I1155     -39.070  90.629 149.798  0.00  0.00           C 0
+ATOM  19878  CG1 VAL I1053     -39.471  96.795 144.815  0.00  0.00           C 0
+ATOM  19879  CG2 VAL I1053     -40.084  94.373 144.669  0.00  0.00           C 0
+ATOM  20626  NH1 ARG I1158     -37.897  95.864 151.822  0.65  9.84           N 0
+ATOM  20613    O THR I1157     -36.076  95.797 149.384  0.51  5.36           O 0
+ATOM  20627  NH2 ARG I1158     -37.975  95.804 154.110  0.28  8.75           N 0
+ATOM  19823   CD GLU I1046     -45.819  93.227 153.542  0.00  0.00           C 0
+ATOM  38055   NZ LYS T1254     -42.271 101.056 153.760  0.00  0.00           N 0
+ATOM  20623   CD ARG I1158     -36.065  98.023 151.913  0.00  0.00           C 0
+HETATM20711  O3P PTR I1166     -37.444 100.137 155.283  0.52  2.14           O 0
+ATOM  20624   NE ARG I1158     -36.660  97.360 153.067  0.00  0.00           N 0
+ATOM  20625   CZ ARG I1158     -37.505  96.339 152.997  0.00  0.00           C 0
+HETATM20710  O2P PTR I1166     -38.040  98.115 156.578  0.64  6.43           O 0
+ATOM  38063   CE MET T1255     -46.306  99.024 151.252  0.00  0.00           C 0
+ATOM  19822   CG GLU I1046     -46.650  94.168 152.716  0.00  0.00           C 0
+TER
+END

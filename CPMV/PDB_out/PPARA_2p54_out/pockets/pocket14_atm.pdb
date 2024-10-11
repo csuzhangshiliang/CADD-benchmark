@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.1357
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.1477
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6599
+HEADER 5  - Mean B-factor of pocket residues  : 0.6067
+HEADER 6  - Hydrophobicity Score              : 41.5714
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 181.8680
+HEADER 10  -Pocket volume (convex hull)       : 2.0051
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3636
+ATOM   1593    O VAL A 407       7.945  11.515  14.080  0.75  3.21           O 0
+ATOM   1625   CA HIS A 411       7.594  10.002  17.345  0.00  0.00           C 0
+ATOM     41   CB ALA A 207      12.906  11.741  14.746  0.00  0.00           C 0
+ATOM   1628   CB HIS A 411       8.501  11.233  17.216  0.00  0.00           C 0
+ATOM   1624    N HIS A 411       6.832   9.820  16.118  0.00  0.00           N 0
+ATOM     17    O LYS A 204      14.091   6.746  11.899  0.00  0.00           O 0
+ATOM   1619    O LEU A 410       5.913   7.873  16.776  0.44  3.21           O 0
+ATOM   1656   OG SER A 414       8.071   6.387  19.350  0.65  7.50           O 0
+ATOM   1591   CA VAL A 407       8.222  11.747  11.717  0.00  0.00           C 0
+ATOM   1594   CB VAL A 407       9.726  12.066  11.500  0.00  0.00           C 0
+ATOM   1622  CD1 LEU A 410       6.673   7.303  11.197  0.00  0.00           C 0
+ATOM   1595  CG1 VAL A 407      10.182  11.494  10.161  0.00  0.00           C 0
+ATOM      9    O LEU A 203      12.639   8.860   9.721  0.31  5.36           O 0
+ATOM   1620   CB LEU A 410       6.268   8.133  13.522  0.00  0.00           C 0
+ATOM   1631  CD2 HIS A 411      10.658  10.719  18.563  0.00  0.00           C 0
+ATOM   1618    C LEU A 410       6.054   8.760  15.930  0.00  0.00           C 0
+TER
+END

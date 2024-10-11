@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : -0.0481
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9993
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7207
+HEADER 5  - Mean B-factor of pocket residues  : 0.3076
+HEADER 6  - Hydrophobicity Score              : 10.8333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 218.6318
+HEADER 10  -Pocket volume (convex hull)       : 4.5342
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM    782    N MET A 354     -17.725 -38.551  -9.216  0.62  2.19           N 0
+ATOM    777   CB GLU A 353     -19.224 -41.386  -8.801  0.00  0.00           C 0
+ATOM    773    N GLU A 353     -16.798 -41.239  -9.123  0.46  1.09           N 0
+ATOM    787   CG MET A 354     -18.693 -36.285  -7.184  0.00  0.00           C 0
+ATOM    744    O PHE A 349     -13.705 -37.436  -8.063  0.00  0.00           O 0
+ATOM    742   CA PHE A 349     -12.770 -37.352  -5.844  0.00  0.00           C 0
+ATOM    770   CA GLY A 352     -14.409 -41.240  -8.805  0.00  0.00           C 0
+ATOM    736    O ASP A 348     -12.062 -39.990  -6.449  0.64  4.29           O 0
+ATOM    741    N PHE A 349     -11.573 -38.072  -5.395  0.00  0.00           N 0
+ATOM    701    O LYS A 343     -13.797 -37.199  -1.173  0.29  6.43           O 0
+ATOM    747  CD1 PHE A 349     -15.274 -35.586  -4.844  0.00  0.00           C 0
+ATOM    749  CE1 PHE A 349     -16.455 -34.880  -5.066  0.00  0.00           C 0
+ATOM    703   CG LYS A 343     -17.289 -34.947  -1.274  0.00  0.00           C 0
+ATOM    786   CB MET A 354     -17.536 -36.356  -8.150  0.00  0.00           C 0
+ATOM    735    C ASP A 348     -11.314 -39.331  -5.739  0.00  0.00           C 0
+ATOM    737   CB ASP A 348     -10.280 -40.557  -3.808  0.00  0.00           C 0
+TER
+END

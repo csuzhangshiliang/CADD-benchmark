@@ -1,0 +1,63 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.3926
+HEADER 1  - Drug Score                        : 0.2731
+HEADER 2  - Number of alpha spheres           :    57
+HEADER 3  - Mean alpha-sphere radius          : 3.9239
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5153
+HEADER 5  - Mean B-factor of pocket residues  : 0.3684
+HEADER 6  - Hydrophobicity Score              : 25.9444
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 651.1165
+HEADER 10  -Pocket volume (convex hull)       : 128.6011
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 26.4242
+HEADER 13 - Number of apolar alpha sphere     :    33
+HEADER 14 - Proportion of apolar alpha sphere : 0.5789
+ATOM  24249  NH1 ARG K1003     120.885  57.762 111.361  0.62  7.66           N 0
+ATOM  24250  NH2 ARG K1003     120.692  57.020 113.531  0.00  0.00           N 0
+ATOM  24267  CD2 LEU K1005     117.051  57.766 111.066  0.00  0.00           C 0
+ATOM  24858    O THR K1083     117.797  51.194 112.977  0.47  5.36           O 0
+ATOM  24874   CA GLY K1085     114.971  49.972 109.283  0.00  0.00           C 0
+ATOM  24850    O MET K1082     114.093  51.293 112.621  0.00  0.00           O 0
+ATOM  24873    N GLY K1085     115.478  49.643 110.604  0.00  0.00           N 0
+ATOM  25242   SD MET K1142     110.331  50.263 108.425  0.00  0.00           S 0
+ATOM  24710  CG1 VAL K1063     106.053  51.623 113.057  0.00  0.00           C 0
+ATOM  25241   CG MET K1142     109.309  49.598 109.720  0.00  0.00           C 0
+ATOM  25243   CE MET K1142     111.486  51.245 109.392  0.00  0.00           C 0
+ATOM  24846  CD2 LEU K1081     113.570  55.048 114.647  0.00  0.00           C 0
+ATOM  24852   CG MET K1082     110.014  50.362 113.491  0.00  0.00           C 0
+ATOM  24833    O GLU K1080     108.754  53.802 114.872  0.00  0.00           O 0
+ATOM  24340  OE1 GLU K1015     118.171  57.945 114.724  0.78  2.14           O 0
+ATOM  24444  NH2 ARG K1029     118.352  55.583 118.044  0.52  4.37           N 0
+ATOM  24859   CB THR K1083     116.862  51.410 115.882  0.00  0.00           C 0
+ATOM  24861  CG2 THR K1083     116.180  52.257 116.952  0.00  0.00           C 0
+ATOM  24263    O LEU K1005     117.043  57.670 106.524  0.65  8.57           O 0
+ATOM  24275    O GLN K1007     112.061  58.284 102.561  0.00  0.00           O 0
+ATOM  24883  OD1 ASP K1086     114.617  49.357 104.428  0.00  0.00           O 0
+ATOM  24264   CB LEU K1005     115.602  58.473 109.196  0.00  0.00           C 0
+ATOM  24856   CA THR K1083     116.062  51.466 114.580  0.00  0.00           C 0
+ATOM  24847    N MET K1082     111.882  52.469 114.570  0.00  0.00           N 0
+ATOM  24266  CD1 LEU K1005     114.608  57.981 111.467  0.00  0.00           C 0
+ATOM  24319  CG1 VAL K1013     111.179  59.342 109.072  0.00  0.00           C 0
+ATOM  24877    N ASP K1086     114.058  48.835 107.353  0.63  1.09           N 0
+ATOM  24881   CB ASP K1086     112.696  48.299 105.350  0.00  0.00           C 0
+ATOM  24845  CD1 LEU K1081     114.767  55.480 116.802  0.00  0.00           C 0
+ATOM  24851   CB MET K1082     111.453  50.573 113.089  0.00  0.00           C 0
+ATOM  24829   CE MET K1079     103.697  54.562 111.551  0.00  0.00           C 0
+ATOM  25318    O GLY K1152     103.936  51.074 108.038  0.58  7.50           O 0
+ATOM  24268    N GLY K1006     115.909  59.577 106.122  0.82  1.09           N 0
+ATOM  24318   CB VAL K1013     111.527  59.888 107.694  0.00  0.00           C 0
+ATOM  24271    O GLY K1006     113.671  60.490 104.953  0.00  0.00           O 0
+ATOM  24269   CA GLY K1006     115.717  59.287 104.720  0.00  0.00           C 0
+ATOM  24262    C LEU K1005     116.563  58.735 106.916  0.00  0.00           C 0
+ATOM  24270    C GLY K1006     114.462  59.921 104.197  0.00  0.00           C 0
+ATOM  24320  CG2 VAL K1013     110.427  59.565 106.700  0.00  0.00           C 0
+ATOM  24456   CB ALA K1031     110.354  57.501 112.748  0.00  0.00           C 0
+ATOM  24826   CB MET K1079     106.093  56.612 113.185  0.00  0.00           C 0
+TER
+END

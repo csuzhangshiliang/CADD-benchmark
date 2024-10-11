@@ -1,0 +1,68 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    42:
+HEADER 0  - Pocket Score                      : 0.1229
+HEADER 1  - Drug Score                        : 0.4103
+HEADER 2  - Number of alpha spheres           :    83
+HEADER 3  - Mean alpha-sphere radius          : 3.8781
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4427
+HEADER 5  - Mean B-factor of pocket residues  : 0.6113
+HEADER 6  - Hydrophobicity Score              : 21.4375
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 4.3125
+HEADER 9  - Pocket volume (Monte Carlo)       : 688.9534
+HEADER 10  -Pocket volume (convex hull)       : 164.7022
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 30.4324
+HEADER 13 - Number of apolar alpha sphere     :    37
+HEADER 14 - Proportion of apolar alpha sphere : 0.4458
+ATOM  25283   CZ PHE K1147     120.307  42.616 116.091  0.00  0.00           C 0
+ATOM  25006   NZ LYS K1111     118.466  35.569 118.055  0.29  6.56           N 0
+ATOM  25282  CE2 PHE K1147     119.686  42.552 117.304  0.00  0.00           C 0
+ATOM  25005   CE LYS K1111     118.853  35.087 116.691  0.00  0.00           C 0
+ATOM  25268    O ASP K1146     115.500  41.921 118.922  0.00  0.00           O 0
+ATOM  25028   CG GLN K1114     111.677  35.739 117.061  0.00  0.00           C 0
+ATOM  26301  OE1 GLU K1271     114.836  34.578 120.702  0.00  0.00           O 0
+ATOM  25004   CD LYS K1111     117.637  34.741 115.814  0.00  0.00           C 0
+ATOM  25002   CB LYS K1111     116.947  34.017 113.491  0.00  0.00           C 0
+ATOM  24976   CG PRO K1107     118.537  35.026 108.717  0.00  0.00           C 0
+ATOM  24975   CB PRO K1107     118.374  33.931 109.682  0.00  0.00           C 0
+ATOM  25039   CE MET K1115     115.207  38.538 111.296  0.00  0.00           C 0
+ATOM  26299   CG GLU K1271     112.454  34.594 120.474  0.00  0.00           C 0
+ATOM  26298   CB GLU K1271     111.806  34.556 121.858  0.00  0.00           C 0
+ATOM  25057  OE2 GLU K1118     109.356  39.169 117.721  0.60  7.50           O 0
+ATOM  25280  CD2 PHE K1147     118.368  42.177 117.380  0.00  0.00           C 0
+ATOM  25003   CG LYS K1111     118.070  34.065 114.517  0.00  0.00           C 0
+ATOM  24972   CA PRO K1107     119.791  33.397 109.929  0.00  0.00           C 0
+ATOM  24951  CD1 LEU K1094     120.410  38.525 108.812  0.00  0.00           C 0
+ATOM  26314    N PHE K1274     106.814  36.575 123.504  0.62  2.19           N 0
+ATOM  26351  CG2 VAL K1277     105.036  40.013 122.652  0.00  0.00           C 0
+ATOM  26311   CA GLY K1273     108.285  37.282 125.286  0.00  0.00           C 0
+ATOM  26297    O GLU K1271     108.777  34.162 122.791  0.00  0.00           O 0
+ATOM  26310    N GLY K1273     109.019  36.021 125.226  0.74  2.19           N 0
+ATOM  25277   CB PHE K1147     116.225  41.461 116.327  0.00  0.00           C 0
+ATOM  25276    O PHE K1147     113.615  41.347 115.072  0.74  7.50           O 0
+ATOM  25027   CB GLN K1114     111.973  34.872 115.870  0.00  0.00           C 0
+ATOM  25037   CG MET K1115     112.602  37.680 111.734  0.00  0.00           C 0
+ATOM  24919   OH TYR K1090     118.844  40.649 112.141  0.59  9.64           O 0
+ATOM  25272  OD2 ASP K1146     112.755  43.592 121.598  0.00  0.00           O 0
+ATOM  26315   CA PHE K1274     105.604  36.449 122.679  0.00  0.00           C 0
+ATOM  26320  CD1 PHE K1274     105.131  36.227 119.511  0.00  0.00           C 0
+ATOM  25031  NE2 GLN K1114     109.889  35.903 118.657  0.61  3.28           N 0
+ATOM  26312    C GLY K1273     106.895  37.223 124.667  0.00  0.00           C 0
+ATOM  24697  NE2 HIS K1061     105.351  40.510 118.213  0.00  0.00           N 0
+ATOM  25278   CG PHE K1147     117.661  41.857 116.239  0.00  0.00           C 0
+ATOM  25001    O LYS K1111     113.839  34.800 113.074  0.72  2.14           O 0
+ATOM  25279  CD1 PHE K1147     118.305  41.933 115.016  0.00  0.00           C 0
+ATOM  25281  CE1 PHE K1147     119.614  42.310 114.945  0.00  0.00           C 0
+ATOM  25284    N THR K1148     112.908  42.588 116.803  0.00  0.00           N 0
+ATOM  25285   CA THR K1148     111.505  42.265 116.577  0.00  0.00           C 0
+ATOM  24687  NE2 HIS K1060     106.683  43.414 121.037  0.61  2.19           N 0
+ATOM  26350  CG1 VAL K1277     105.097  41.769 124.426  0.00  0.00           C 0
+ATOM  24686  CE1 HIS K1060     106.497  44.583 121.621  0.00  0.00           C 0
+ATOM  25289  OG1 THR K1148     111.152  42.436 118.977  0.74  1.07           O 0
+ATOM  25275    C PHE K1147     113.852  42.130 115.995  0.00  0.00           C 0
+TER
+END

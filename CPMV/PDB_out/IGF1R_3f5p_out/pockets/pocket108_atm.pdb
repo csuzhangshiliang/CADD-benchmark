@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   108:
+HEADER 0  - Pocket Score                      : 0.0262
+HEADER 1  - Drug Score                        : 0.0029
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8102
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5442
+HEADER 5  - Mean B-factor of pocket residues  : 0.3991
+HEADER 6  - Hydrophobicity Score              : -20.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 251.3680
+HEADER 10  -Pocket volume (convex hull)       : 8.4155
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.7500
+ATOM  23766  CE2 TYR J1251      -5.617 130.689 161.483  0.00  0.00           C 0
+ATOM  23203   CB GLU J1182      -7.339 124.758 158.792  0.00  0.00           C 0
+ATOM  23228   CD LYS J1185      -7.938 125.726 164.864  0.00  0.00           C 0
+ATOM  23230   NZ LYS J1185      -9.720 127.468 164.721  0.67  7.66           N 0
+ATOM  23768   OH TYR J1251      -4.953 129.391 163.361  0.66  2.14           O 0
+ATOM  23783   CD PRO J1253      -8.312 129.229 155.877  0.00  0.00           C 0
+ATOM  23774   CG ASN J1252      -9.330 132.942 155.385  0.00  0.00           C 0
+ATOM  23770   CA ASN J1252      -7.120 131.936 156.133  0.00  0.00           C 0
+ATOM  23775  OD1 ASN J1252      -9.668 131.827 154.956  0.74  2.14           O 0
+ATOM  23200   CA GLU J1182      -6.424 124.198 159.892  0.00  0.00           C 0
+ATOM  23199    N GLU J1182      -5.058 124.722 159.773  0.61  1.09           N 0
+ATOM  23238  OD2 ASP J1186     -10.649 123.214 162.118  0.65  9.64           O 0
+ATOM  23206  OE1 GLU J1182      -5.857 126.428 157.245  0.62  1.07           O 0
+ATOM  23760    O TYR J1251      -5.358 130.171 157.364  0.69  1.07           O 0
+ATOM  23764  CD2 TYR J1251      -5.276 131.467 160.388  0.00  0.00           C 0
+ATOM  23773   CB ASN J1252      -7.899 133.215 155.839  0.00  0.00           C 0
+TER
+END

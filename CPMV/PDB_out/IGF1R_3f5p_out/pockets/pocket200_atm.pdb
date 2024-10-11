@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   200:
+HEADER 0  - Pocket Score                      : -0.0299
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0746
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6521
+HEADER 5  - Mean B-factor of pocket residues  : 0.6460
+HEADER 6  - Hydrophobicity Score              : -2.0000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.2727
+HEADER 9  - Pocket volume (Monte Carlo)       : 367.3997
+HEADER 10  -Pocket volume (convex hull)       : 13.3833
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM  23428  OE1 GLU J1210      18.341 125.135 155.834  0.71  8.57           O 0
+ATOM  23429  OE2 GLU J1210      20.192 124.105 155.196  0.57  4.29           O 0
+ATOM  23427   CD GLU J1210      18.943 124.200 155.251  0.00  0.00           C 0
+ATOM  23402   CA THR J1207      16.965 125.304 151.096  0.00  0.00           C 0
+ATOM  23620    N ASP J1235      18.060 131.879 153.580  0.76  6.56           N 0
+ATOM  23614   CA PRO J1234      15.816 130.979 153.354  0.00  0.00           C 0
+ATOM  23407  CG2 THR J1207      15.808 126.695 152.854  0.00  0.00           C 0
+ATOM  23607    O LYS J1233      15.216 132.843 155.275  0.56  6.43           O 0
+ATOM  23376  CZ2 TRP J1203      13.337 126.688 156.206  0.00  0.00           C 0
+ATOM  23405   CB THR J1207      16.298 125.302 152.490  0.00  0.00           C 0
+ATOM  23600   CB ASP J1232      13.074 132.270 158.833  0.00  0.00           C 0
+ATOM  23599    O ASP J1232      12.583 130.938 155.937  0.00  0.00           O 0
+ATOM  23403    C THR J1207      17.631 123.955 150.846  0.00  0.00           C 0
+ATOM  23404    O THR J1207      18.300 123.409 151.716  0.66  2.14           O 0
+ATOM  23399    O ALA J1206      17.150 127.440 149.358  0.44  6.43           O 0
+ATOM  23414  CD1 LEU J1208      21.436 122.795 147.497  0.00  0.00           C 0
+ATOM  23412   CB LEU J1208      19.569 122.290 149.121  0.00  0.00           C 0
+ATOM  22590   NE ARG J1095      22.230 120.485 152.115  0.56  5.47           N 0
+ATOM  22593  NH2 ARG J1095      20.967 121.649 153.640  0.28  6.56           N 0
+ATOM  22587   CB ARG J1095      24.521 119.903 149.840  0.00  0.00           C 0
+ATOM  22600   CD PRO J1096      26.839 122.394 149.312  0.00  0.00           C 0
+ATOM  23623    O ASP J1235      19.590 131.302 151.335  0.00  0.00           O 0
+ATOM  23413   CG LEU J1208      20.001 123.129 147.910  0.00  0.00           C 0
+TER
+END

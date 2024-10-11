@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   310:
+HEADER 0  - Pocket Score                      : -0.1115
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 4.0100
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5132
+HEADER 5  - Mean B-factor of pocket residues  : 0.6560
+HEADER 6  - Hydrophobicity Score              : 7.8000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.7000
+HEADER 9  - Pocket volume (Monte Carlo)       : 283.1886
+HEADER 10  -Pocket volume (convex hull)       : 11.2023
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1111
+ATOM  23981  CG2 VAL J1277       4.846 119.481 129.308  0.00  0.00           C 0
+ATOM  22317  NE2 HIS J1060       6.482 116.195 130.558  0.00  0.00           N 0
+ATOM  22687  OE2 GLU J1118       9.358 120.401 134.183  0.48  6.43           O 0
+ATOM  22327  NE2 HIS J1061       5.243 119.202 133.649  0.79  2.19           N 0
+ATOM  22902  OD2 ASP J1146      12.558 115.474 129.982  0.00  0.00           O 0
+ATOM  22316  CE1 HIS J1060       6.234 115.039 129.969  0.00  0.00           C 0
+ATOM  23980  CG1 VAL J1277       5.157 118.127 127.236  0.00  0.00           C 0
+ATOM  23950  CD1 PHE J1274       4.798 123.365 132.182  0.00  0.00           C 0
+ATOM  23945   CA PHE J1274       5.509 123.163 129.049  0.00  0.00           C 0
+ATOM  22661  NE2 GLN J1114       9.770 123.372 133.159  0.52  5.47           N 0
+ATOM  22919  OG1 THR J1148      10.841 117.299 132.741  0.57  8.57           O 0
+ATOM  23931  OE1 GLU J1271      13.510 123.229 130.941  0.00  0.00           O 0
+ATOM  23928   CB GLU J1271      11.770 125.181 129.773  0.00  0.00           C 0
+ATOM  23944    N PHE J1274       6.658 123.077 128.162  0.64  3.28           N 0
+ATOM  23927    O GLU J1271       8.690 125.428 128.873  0.00  0.00           O 0
+ATOM  23941   CA GLY J1273       8.003 122.414 126.290  0.00  0.00           C 0
+ATOM  23940    N GLY J1273       8.742 123.670 126.315  0.71  5.47           N 0
+ATOM  23942    C GLY J1273       6.655 122.479 126.979  0.00  0.00           C 0
+TER
+END

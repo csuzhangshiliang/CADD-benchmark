@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pqr format file writen by the programm fpocket.                 
+HEADER It represent the voronoi vertices of a single pocket found by the         
+HEADER algorithm.                                                                
+HEADER                                                                           
+HEADER Information about the pocket   220:
+HEADER 0  - Pocket Score                      : -0.0421
+HEADER 1  - Drug Score                        : 0.0022
+HEADER 2  - Number of V. Vertices             :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6385
+HEADER 4  - Mean alpha-sphere SA              : 0.4386
+HEADER 5  - Mean B-factor                     : 0.6771
+HEADER 6  - Hydrophobicity Score              : 61.8571
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Volume Score                      : 4.5714
+HEADER 9  - Real volume (approximation)       : 140.6808
+HEADER 10 - Charge Score                      :    -1
+HEADER 11 - Local hydrophobic density Score   : 11.0000
+HEADER 12 - Number of apolar alpha sphere     :    12
+HEADER 13 - Proportion of apolar alpha sphere : 0.8000
+ATOM      1    C STP   220     -67.879  99.482 137.484    0.00     3.71
+ATOM      2    C STP   220     -66.887  99.558 138.123    0.00     3.96
+ATOM      3    C STP   220     -64.650 101.243 137.845    0.00     3.60
+ATOM      4    C STP   220     -65.378 100.377 138.094    0.00     3.74
+ATOM      5    O STP   220     -64.363  99.610 138.225    0.00     3.95
+ATOM      6    C STP   220     -64.699  99.397 138.295    0.00     4.02
+ATOM      7    O STP   220     -63.965 100.890 137.617    0.00     3.44
+ATOM      8    C STP   220     -64.071 101.060 137.587    0.00     3.41
+ATOM      9    O STP   220     -64.240 100.523 137.997    0.00     3.69
+ATOM     10    C STP   220     -64.545 101.281 137.758    0.00     3.54
+ATOM     11    C STP   220     -64.649 101.243 137.845    0.00     3.60
+ATOM     12    C STP   220     -64.715 101.494 137.890    0.00     3.52
+ATOM     13    C STP   220     -67.151 101.121 138.340    0.00     3.54
+ATOM     14    C STP   220     -66.025 101.445 138.283    0.00     3.45
+ATOM     15    C STP   220     -65.348 101.980 138.056    0.00     3.40
+TER
+END

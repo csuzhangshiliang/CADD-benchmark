@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   189:
+HEADER 0  - Pocket Score                      : -0.0226
+HEADER 1  - Drug Score                        : 0.0042
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8701
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5681
+HEADER 5  - Mean B-factor of pocket residues  : 0.5237
+HEADER 6  - Hydrophobicity Score              : -23.7143
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 286.1108
+HEADER 10  -Pocket volume (convex hull)       : 13.5654
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM   6386   CA GLU C1182     -10.851  92.792  87.099  0.00  0.00           C 0
+ATOM   6389   CB GLU C1182     -11.047  93.825  88.241  0.00  0.00           C 0
+ATOM   6952  CE2 TYR C1251     -17.047  94.217  85.308  0.00  0.00           C 0
+ATOM   6385    N GLU C1182     -11.834  91.701  87.148  0.00  0.00           N 0
+ATOM   6424  OD2 ASP C1186      -7.734  97.086  84.257  0.00  0.00           O 0
+ATOM   6414   CD LYS C1185     -11.671  94.497  81.615  0.00  0.00           C 0
+ATOM   6416   NZ LYS C1185     -13.198  96.424  81.107  0.61  8.75           N 0
+ATOM   6415   CE LYS C1185     -11.850  95.808  80.849  0.00  0.00           C 0
+ATOM   6412   CB LYS C1185      -9.981  92.929  82.626  0.00  0.00           C 0
+ATOM   6423  OD1 ASP C1186      -7.996  95.396  82.868  0.00  0.00           O 0
+ATOM   6954   OH TYR C1251     -16.090  92.958  83.513  0.84  2.14           O 0
+ATOM   6381    O PRO C1181     -11.290  90.951  85.088  0.76  1.07           O 0
+ATOM   6956   CA ASN C1252     -17.646  96.089  90.872  0.00  0.00           C 0
+ATOM   6960   CG ASN C1252     -17.727  98.539  91.615  0.00  0.00           C 0
+ATOM   6950  CD2 TYR C1251     -17.886  94.269  86.419  0.00  0.00           C 0
+ATOM   6959   CB ASN C1252     -18.525  97.324  91.146  0.00  0.00           C 0
+ATOM   6969   CD PRO C1253     -14.746  95.996  90.956  0.00  0.00           C 0
+ATOM   6946    O TYR C1251     -16.660  93.874  89.537  0.55  1.07           O 0
+ATOM   6961  OD1 ASN C1252     -16.508  98.466  91.795  0.67  5.36           O 0
+TER
+END

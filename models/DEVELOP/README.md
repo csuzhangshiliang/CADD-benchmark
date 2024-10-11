@@ -1,0 +1,4 @@
+# DEVELOP - Deep Generative Design with 3D Pharmacophoric Constraints
+
+The DEVELOP model integrates graph neural networks (GNN) and convolutional neural networks (CNN) to incorporate 3D pharmacophore constraints in molecule generation, enhancing the integration of prior knowledge in the design process. This model converts molecular fragment initial structures and 3D pharmacophores into graph representations and voxel grids, extracts features using GNN and CNN, and generates new molecules with high 3D similarity to the original molecules.
+You can click on this [link](https://github.com/oxpig/DEVELOP) to get the complete code.

@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   297:
+HEADER 0  - Pocket Score                      : -0.0922
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 4.1471
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5499
+HEADER 5  - Mean B-factor of pocket residues  : 0.6002
+HEADER 6  - Hydrophobicity Score              : 17.8000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.9000
+HEADER 9  - Pocket volume (Monte Carlo)       : 397.8184
+HEADER 10  -Pocket volume (convex hull)       : 24.7308
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.3846
+ATOM  26803  CG2 THR M1028      85.591   5.306 121.479  0.00  0.00           C 0
+ATOM  26780  OE2 GLU M1025      83.260   5.532 124.665  0.00  0.00           O 0
+ATOM  26754  CG2 VAL M1022      83.891   9.764 125.210  0.00  0.00           C 0
+ATOM  27108  CD2 LEU M1066      85.105  10.564 119.009  0.00  0.00           C 0
+ATOM  26752   CB VAL M1022      85.252   9.662 124.546  0.00  0.00           C 0
+ATOM  27107  CD1 LEU M1066      86.406   8.449 119.037  0.00  0.00           C 0
+ATOM  27208  OE2 GLU M1080      80.127   8.455 117.271  0.69  5.36           O 0
+ATOM  27206   CD GLU M1080      80.168   7.253 116.897  0.00  0.00           C 0
+ATOM  27204   CB GLU M1080      82.699   7.199 116.753  0.00  0.00           C 0
+ATOM  27088   CD ARG M1064      81.941  12.571 119.105  0.00  0.00           C 0
+ATOM  27091  NH1 ARG M1064      79.421  12.134 120.368  0.48  9.84           N 0
+ATOM  27688   NZ LYS M1150      76.786   7.417 117.456  0.49  3.28           N 0
+ATOM  27054  ND1 HIS M1060      74.584   8.611 120.597  0.61  6.56           N 0
+ATOM  26807    O ARG M1029      85.496   3.203 118.551  0.00  0.00           O 0
+ATOM  26804    N ARG M1029      86.478   2.273 121.013  0.77  4.37           N 0
+ATOM  27089   NE ARG M1064      81.327  13.421 120.118  0.59  3.28           N 0
+ATOM  27212    O LEU M1081      81.398   2.698 115.968  0.50  9.64           O 0
+ATOM  27209    N LEU M1081      83.803   4.209 115.946  0.00  0.00           N 0
+ATOM  27207  OE1 GLU M1080      79.230   6.456 117.109  0.00  0.00           O 0
+ATOM  27205   CG GLU M1080      81.397   6.732 116.142  0.00  0.00           C 0
+ATOM  27056  CE1 HIS M1060      74.283   7.348 120.825  0.00  0.00           C 0
+TER
+END

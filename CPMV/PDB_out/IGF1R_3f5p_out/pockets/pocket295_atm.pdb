@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   295:
+HEADER 0  - Pocket Score                      : -0.0894
+HEADER 1  - Drug Score                        : 0.0032
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.9435
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5980
+HEADER 5  - Mean B-factor of pocket residues  : 0.1548
+HEADER 6  - Hydrophobicity Score              : 29.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 264.8195
+HEADER 10  -Pocket volume (convex hull)       : 11.3857
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.5833
+ATOM  20380   CB ASN I1127     -25.189  96.446 142.804  0.00  0.00           C 0
+ATOM  21472  CD1 LEU I1260     -20.119  96.419 136.863  0.00  0.00           C 0
+ATOM  21453   CB SER I1258     -17.654  95.597 142.419  0.00  0.00           C 0
+ATOM  21471   CG LEU I1260     -19.977  94.984 137.351  0.00  0.00           C 0
+ATOM  20354    O ALA I1124     -25.673  95.122 139.199  0.46  1.07           O 0
+ATOM  20384    N ALA I1128     -26.538  97.648 140.085  0.72  1.09           N 0
+ATOM  20388   CB ALA I1128     -26.221  98.048 137.695  0.00  0.00           C 0
+ATOM  20352   CA ALA I1124     -24.366  93.144 139.599  0.00  0.00           C 0
+ATOM  20355   CB ALA I1124     -23.342  92.817 138.541  0.00  0.00           C 0
+ATOM  21466    N LEU I1260     -19.012  93.050 139.638  0.00  0.00           N 0
+ATOM  21459   CB PHE I1259     -21.303  91.794 141.513  0.00  0.00           C 0
+ATOM  20385   CA ALA I1128     -26.519  98.668 139.044  0.00  0.00           C 0
+ATOM  20378    C ASN I1127     -26.663  97.958 141.367  0.00  0.00           C 0
+ATOM  20903  OG1 THR I1191     -22.006  97.109 146.397  0.58  8.57           O 0
+ATOM  20904  CG2 THR I1191     -23.927  98.539 146.634  0.00  0.00           C 0
+ATOM  20405   NZ LYS I1130     -25.147 102.936 142.802  0.00  0.00           N 0
+ATOM  21455    N PHE I1259     -19.316  92.980 142.327  0.61  1.09           N 0
+ATOM  20382  OD1 ASN I1127     -24.029  95.073 144.456  0.47  2.14           O 0
+ATOM  20379    O ASN I1127     -26.847  99.106 141.758  0.68  2.14           O 0
+TER
+END

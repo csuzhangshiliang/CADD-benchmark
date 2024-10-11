@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pqr format file writen by the programm fpocket.                 
+HEADER It represent the voronoi vertices of a single pocket found by the         
+HEADER algorithm.                                                                
+HEADER                                                                           
+HEADER Information about the pocket   280:
+HEADER 0  - Pocket Score                      : -0.0784
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of V. Vertices             :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7774
+HEADER 4  - Mean alpha-sphere SA              : 0.5698
+HEADER 5  - Mean B-factor                     : 0.7693
+HEADER 6  - Hydrophobicity Score              : 6.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Volume Score                      : 3.5000
+HEADER 9  - Real volume (approximation)       : 152.0530
+HEADER 10 - Charge Score                      :     0
+HEADER 11 - Local hydrophobic density Score   : 5.0000
+HEADER 12 - Number of apolar alpha sphere     :     6
+HEADER 13 - Proportion of apolar alpha sphere : 0.3529
+ATOM      1    C STP   280     -10.360 163.698 131.158    0.00     4.15
+ATOM      2    O STP   280      -8.733 163.312 133.026    0.00     4.17
+ATOM      3    O STP   280     -10.173 163.315 131.926    0.00     3.97
+ATOM      4    C STP   280      -8.414 162.384 133.867    0.00     3.57
+ATOM      5    C STP   280      -8.561 162.394 133.919    0.00     3.58
+ATOM      6    O STP   280     -10.095 162.310 132.505    0.00     3.49
+ATOM      7    O STP   280      -8.697 162.820 133.307    0.00     4.00
+ATOM      8    O STP   280      -8.695 162.605 133.623    0.00     3.80
+ATOM      9    O STP   280      -8.739 162.673 133.556    0.00     3.85
+ATOM     10    C STP   280      -8.593 162.737 133.324    0.00     3.96
+ATOM     11    O STP   280      -8.658 162.794 133.315    0.00     3.99
+ATOM     12    O STP   280      -8.620 162.712 133.407    0.00     3.92
+ATOM     13    C STP   280      -6.795 161.744 133.406    0.00     3.48
+ATOM     14    C STP   280      -6.942 161.952 133.132    0.00     3.63
+ATOM     15    O STP   280      -6.745 161.932 133.064    0.00     3.66
+ATOM     16    O STP   280      -6.701 161.695 133.440    0.00     3.47
+ATOM     17    O STP   280      -6.639 161.762 133.294    0.00     3.53
+TER
+END

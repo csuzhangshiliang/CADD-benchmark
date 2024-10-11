@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   276:
+HEADER 0  - Pocket Score                      : -0.0756
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1577
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5866
+HEADER 5  - Mean B-factor of pocket residues  : 0.4313
+HEADER 6  - Hydrophobicity Score              : 21.5714
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 190.8753
+HEADER 10  -Pocket volume (convex hull)       : 2.0013
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM  21006  CZ2 TRP I1203     -18.767  75.973 155.985  0.00  0.00           C 0
+ATOM  21225  CD2 LEU I1231     -18.802  79.564 158.271  0.00  0.00           C 0
+ATOM  21077   CA TYR I1213     -20.712  78.271 161.428  0.00  0.00           C 0
+ATOM  21233  OD2 ASP I1232     -12.973  76.367 160.852  0.00  0.00           O 0
+ATOM  21088    N GLN I1214     -21.523  76.007 161.686  0.00  0.00           N 0
+ATOM  21091    O GLN I1214     -20.243  74.664 163.686  0.00  0.00           O 0
+ATOM  21076    N TYR I1213     -21.047  78.159 160.022  0.62  1.09           N 0
+ATOM  21226    N ASP I1232     -14.377  78.385 157.751  0.00  0.00           N 0
+ATOM  21230   CB ASP I1232     -12.927  76.536 158.473  0.00  0.00           C 0
+ATOM  21092   CB GLN I1214     -22.253  73.687 161.499  0.00  0.00           C 0
+ATOM  21008  CH2 TRP I1203     -20.095  75.714 156.133  0.00  0.00           C 0
+ATOM  21063    O GLN I1211     -22.744  75.598 158.782  0.00  0.00           O 0
+ATOM  21058  OE1 GLU I1210     -20.299  71.349 156.015  0.68  5.36           O 0
+ATOM  21096  NE2 GLN I1214     -22.314  71.388 160.065  0.57  5.47           N 0
+TER
+END

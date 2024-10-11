@@ -1,0 +1,47 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1142
+HEADER 1  - Drug Score                        : 0.0053
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.8879
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4747
+HEADER 5  - Mean B-factor of pocket residues  : 0.3296
+HEADER 6  - Hydrophobicity Score              : 36.8333
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.4167
+HEADER 9  - Pocket volume (Monte Carlo)       : 430.6949
+HEADER 10  -Pocket volume (convex hull)       : 59.2343
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.3913
+ATOM   2035   OG SER A 771     -19.552  24.471  26.235  0.00  0.00           O 0
+ATOM   2031   CA SER A 771     -18.931  24.964  23.928  0.00  0.00           C 0
+ATOM   2033    O SER A 771     -17.824  26.828  22.981  0.43  6.43           O 0
+ATOM   2034   CB SER A 771     -18.501  24.961  25.399  0.00  0.00           C 0
+ATOM   2059    O ILE A 775     -22.481  22.599  15.676  0.48  8.57           O 0
+ATOM   1731  OE2 GLU A 736     -27.135  24.081  19.868  0.55  9.64           O 0
+ATOM   2021    O TYR A 770     -20.318  24.389  21.619  0.52  5.36           O 0
+ATOM   2045   CA GLY A 773     -18.722  25.632  18.708  0.00  0.00           C 0
+ATOM    630    O TYR A 604     -25.863  15.500  19.004  0.36  3.21           O 0
+ATOM    676  CE2 PHE A 608     -28.817  17.269  17.881  0.00  0.00           C 0
+ATOM   1754  CD1 LEU A 739     -27.007  19.855  22.774  0.00  0.00           C 0
+ATOM   2062  CG2 ILE A 775     -23.116  19.547  17.173  0.00  0.00           C 0
+ATOM   2027  CE2 TYR A 770     -23.743  24.510  24.313  0.00  0.00           C 0
+ATOM   2028   CZ TYR A 770     -24.811  24.454  23.417  0.00  0.00           C 0
+ATOM   2029   OH TYR A 770     -25.828  25.388  23.495  0.69  5.36           O 0
+ATOM   2024  CD1 TYR A 770     -23.791  22.595  22.312  0.00  0.00           C 0
+ATOM   2060   CB ILE A 775     -21.993  20.488  17.727  0.00  0.00           C 0
+ATOM   2026  CE1 TYR A 770     -24.838  23.489  22.430  0.00  0.00           C 0
+ATOM   2063  CD1 ILE A 775     -22.058  19.311  20.082  0.00  0.00           C 0
+ATOM    677   CZ PHE A 608     -29.448  18.195  17.092  0.00  0.00           C 0
+ATOM   1697  ND1 HIS A 732     -29.248  20.382  14.461  0.00  0.00           N 0
+ATOM   2081   NZ LYS A 777     -27.205  24.013  16.322  0.43  1.09           N 0
+ATOM   1273   OG SER A 680     -26.387  17.527  15.013  0.71  4.29           O 0
+ATOM   1721  CG1 VAL A 735     -29.929  18.888  20.933  0.00  0.00           C 0
+ATOM   1694    O HIS A 732     -31.267  22.611  18.474  0.61  2.14           O 0
+TER
+END

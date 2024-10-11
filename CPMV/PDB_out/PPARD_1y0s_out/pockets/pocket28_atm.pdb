@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    28:
+HEADER 0  - Pocket Score                      : -0.0700
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9756
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5433
+HEADER 5  - Mean B-factor of pocket residues  : 0.3835
+HEADER 6  - Hydrophobicity Score              : -1.4000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 233.9166
+HEADER 10  -Pocket volume (convex hull)       : 8.9128
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3889
+ATOM    146   CD LYS A 224      11.150  17.812  67.281  0.00  0.00           C 0
+ATOM     86  NE2 HIS A 217      10.584  18.098  75.997  0.00  0.00           N 0
+ATOM     85  CE1 HIS A 217      11.730  17.655  75.509  0.00  0.00           C 0
+ATOM    148   NZ LYS A 224      10.710  20.319  67.631  0.67  7.66           N 0
+ATOM    111   CB ASN A 220       9.426  13.299  71.713  0.00  0.00           C 0
+ATOM     84  CD2 HIS A 217       9.993  17.094  76.727  0.00  0.00           C 0
+ATOM    114  ND2 ASN A 220       7.750  12.937  73.460  0.57  9.84           N 0
+ATOM    692    O SER A 302      14.250  18.380  73.824  0.00  0.00           O 0
+ATOM    109    C ASN A 220      11.550  13.286  70.393  0.00  0.00           C 0
+ATOM    110    O ASN A 220      11.475  13.466  69.181  0.67  1.07           O 0
+ATOM     80    O HIS A 217      11.888  14.054  74.207  0.57  1.07           O 0
+ATOM    116   CA ALA A 221      13.561  14.658  70.548  0.00  0.00           C 0
+ATOM    115    N ALA A 221      12.509  13.826  71.143  0.00  0.00           N 0
+ATOM    690   CA SER A 302      15.524  19.378  72.045  0.00  0.00           C 0
+ATOM    693   CB SER A 302      15.119  18.316  71.016  0.00  0.00           C 0
+ATOM    694   OG SER A 302      14.982  18.863  69.710  0.33  6.43           O 0
+TER
+END

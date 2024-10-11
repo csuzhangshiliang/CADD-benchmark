@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   190:
+HEADER 0  - Pocket Score                      : -0.0229
+HEADER 1  - Drug Score                        : 0.0037
+HEADER 2  - Number of alpha spheres           :    29
+HEADER 3  - Mean alpha-sphere radius          : 3.6793
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3959
+HEADER 5  - Mean B-factor of pocket residues  : 0.6231
+HEADER 6  - Hydrophobicity Score              : 21.8571
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 309.1083
+HEADER 10  -Pocket volume (convex hull)       : 25.0595
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.5385
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.4483
+ATOM  21391   CB TYR I1251     -12.890  92.734 158.532  0.00  0.00           C 0
+ATOM  21386  NE2 GLN I1250      -9.273  91.507 153.847  0.53  8.75           N 0
+ATOM  22168  NH1 ARG J1042      -6.677  96.419 156.667  0.00  0.00           N 0
+ATOM  22165   CD ARG J1042      -5.652  93.776 156.573  0.00  0.00           C 0
+ATOM  21403   CB ASN I1252     -12.280  97.205 156.103  0.00  0.00           C 0
+ATOM  21394  CD2 TYR I1251     -13.729  94.682 159.901  0.00  0.00           C 0
+ATOM  22164   CG ARG J1042      -5.949  93.355 155.124  0.00  0.00           C 0
+ATOM  21399    N ASN I1252     -13.282  95.008 156.400  0.72  1.09           N 0
+ATOM  22203   CG GLU J1046      -3.903  99.060 151.724  0.00  0.00           C 0
+ATOM  21430   CE MET I1255      -9.365  99.852 150.647  0.00  0.00           C 0
+ATOM  21406  ND2 ASN I1252     -11.464  99.482 155.768  0.00  0.00           N 0
+ATOM  21427   CB MET I1255     -10.719  96.116 151.364  0.00  0.00           C 0
+ATOM  21428   CG MET I1255      -9.889  97.334 151.764  0.00  0.00           C 0
+ATOM  22162    O ARG J1042      -4.435  94.103 151.808  0.59  1.07           O 0
+ATOM  21387    N TYR I1251     -12.960  92.198 156.132  0.61  3.28           N 0
+ATOM  22202   CB GLU J1046      -4.170  97.636 151.276  0.00  0.00           C 0
+ATOM  21429   SD MET I1255      -8.980  98.105 150.400  0.00  0.00           S 0
+ATOM  21383   CG GLN I1250     -10.767  92.444 152.184  0.00  0.00           C 0
+ATOM  22194   CB ILE J1045      -6.805  93.779 148.895  0.00  0.00           C 0
+TER
+END

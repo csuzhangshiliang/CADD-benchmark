@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pqr format file writen by the programm fpocket.                 
+HEADER It represent the voronoi vertices of a single pocket found by the         
+HEADER algorithm.                                                                
+HEADER                                                                           
+HEADER Information about the pocket   317:
+HEADER 0  - Pocket Score                      : -0.1229
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of V. Vertices             :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.2158
+HEADER 4  - Mean alpha-sphere SA              : 0.5887
+HEADER 5  - Mean B-factor                     : 0.6974
+HEADER 6  - Hydrophobicity Score              : 17.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Volume Score                      : 4.1111
+HEADER 9  - Real volume (approximation)       : 242.5858
+HEADER 10 - Charge Score                      :    -1
+HEADER 11 - Local hydrophobic density Score   : 2.0000
+HEADER 12 - Number of apolar alpha sphere     :     3
+HEADER 13 - Proportion of apolar alpha sphere : 0.1579
+ATOM      1    O STP   317      85.083  19.745  99.069    0.00     4.18
+ATOM      2    O STP   317      86.513  20.735 101.251    0.00     4.31
+ATOM      3    C STP   317      85.745  21.217 101.448    0.00     4.69
+ATOM      4    C STP   317      85.774  21.180 101.432    0.00     4.68
+ATOM      5    O STP   317      83.060  19.727 102.892    0.00     3.85
+ATOM      6    O STP   317      85.755  19.182 100.635    0.00     4.29
+ATOM      7    O STP   317      86.111  18.985 100.679    0.00     4.07
+ATOM      8    O STP   317      86.570  20.704 101.258    0.00     4.27
+ATOM      9    O STP   317      86.696  20.713 101.249    0.00     4.20
+ATOM     10    O STP   317      85.575  19.793 100.870    0.00     4.56
+ATOM     11    O STP   317      85.484  20.040 100.900    0.00     4.67
+ATOM     12    O STP   317      85.927  19.859 101.016    0.00     4.40
+ATOM     13    O STP   317      85.901  19.745 100.977    0.00     4.38
+ATOM     14    O STP   317      86.169  19.522 101.309    0.00     3.95
+ATOM     15    O STP   317      84.717  20.757 102.067    0.00     4.46
+ATOM     16    O STP   317      83.666  19.514 102.639    0.00     4.05
+ATOM     17    O STP   317      83.663  19.521 102.646    0.00     4.05
+ATOM     18    O STP   317      83.987  18.373 102.588    0.00     3.52
+ATOM     19    C STP   317      84.028  18.368 102.552    0.00     3.51
+TER
+END

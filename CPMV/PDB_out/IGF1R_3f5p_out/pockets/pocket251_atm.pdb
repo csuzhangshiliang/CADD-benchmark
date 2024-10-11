@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   251:
+HEADER 0  - Pocket Score                      : -0.0609
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 4.0068
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5971
+HEADER 5  - Mean B-factor of pocket residues  : 0.5586
+HEADER 6  - Hydrophobicity Score              : -2.0000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.2727
+HEADER 9  - Pocket volume (Monte Carlo)       : 376.7544
+HEADER 10  -Pocket volume (convex hull)       : 19.6594
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.5000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1739
+ATOM  32928  OE2 GLU R1210      79.229  90.250  96.186  0.00  0.00           O 0
+ATOM  32085  NH2 ARG R1095      76.474  90.914  97.597  0.54  8.75           N 0
+ATOM  32903    O THR R1207      78.290  88.460  99.566  0.60  2.14           O 0
+ATOM  32913  CD1 LEU R1208      77.833  91.661 103.486  0.00  0.00           C 0
+ATOM  32082   NE ARG R1095      75.504  92.250  99.189  0.58  5.47           N 0
+ATOM  32911   CB LEU R1208      77.109  89.659 102.179  0.00  0.00           C 0
+ATOM  32092   CD PRO R1096      77.250  97.057 102.050  0.00  0.00           C 0
+ATOM  32079   CB ARG R1095      74.978  94.605 101.541  0.00  0.00           C 0
+ATOM  32912   CG LEU R1208      78.002  90.158 103.313  0.00  0.00           C 0
+ATOM  32898    O ALA R1206      82.100  87.266 102.028  0.32  9.64           O 0
+ATOM  32901   CA THR R1207      80.129  87.041 100.139  0.00  0.00           C 0
+ATOM  32927  OE1 GLU R1210      79.930  88.204  95.731  0.58  4.29           O 0
+ATOM  33122    O ASP R1235      86.216  89.512 100.258  0.34  5.36           O 0
+ATOM  33119    N ASP R1235      86.632  88.179  97.790  0.64  2.19           N 0
+ATOM  33123   CB ASP R1235      87.031  90.590  97.459  0.00  0.00           C 0
+ATOM  32902    C THR R1207      78.828  87.767 100.429  0.00  0.00           C 0
+ATOM  32906  CG2 THR R1207      81.286  85.703  98.401  0.00  0.00           C 0
+ATOM  33113   CA PRO R1234      85.797  85.898  97.950  0.00  0.00           C 0
+ATOM  33099   CB ASP R1232      87.110  83.034  92.541  0.00  0.00           C 0
+ATOM  33098    O ASP R1232      85.770  82.685  95.434  0.00  0.00           O 0
+ATOM  33106    O LYS R1233      87.936  85.285  96.354  0.44  5.36           O 0
+ATOM  32875  CZ2 TRP R1203      81.420  83.368  95.193  0.00  0.00           C 0
+ATOM  33116   CB PRO R1234      84.773  85.729  99.083  0.00  0.00           C 0
+TER
+END

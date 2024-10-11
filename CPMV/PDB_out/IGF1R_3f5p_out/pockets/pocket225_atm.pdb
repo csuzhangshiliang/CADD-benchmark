@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   225:
+HEADER 0  - Pocket Score                      : -0.0461
+HEADER 1  - Drug Score                        : 0.0053
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0436
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5448
+HEADER 5  - Mean B-factor of pocket residues  : 0.4965
+HEADER 6  - Hydrophobicity Score              : 16.2857
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 274.8150
+HEADER 10  -Pocket volume (convex hull)       : 9.3298
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.8500
+ATOM  20172   OH TYR I1090     -26.996  70.282 139.648  0.41  5.36           O 0
+ATOM  20230   CD PRO I1106     -22.054  65.597 142.267  0.00  0.00           C 0
+ATOM  20204  CD1 LEU I1094     -24.974  69.267 143.091  0.00  0.00           C 0
+ATOM  20205  CD2 LEU I1094     -26.314  67.249 142.549  0.00  0.00           C 0
+ATOM  20235   CB PRO I1107     -20.375  70.877 142.200  0.00  0.00           C 0
+ATOM  20299   CE MET I1115     -24.797  74.156 140.672  0.00  0.00           C 0
+ATOM  20232   CA PRO I1107     -19.741  69.655 141.521  0.00  0.00           C 0
+ATOM  20231    N PRO I1107     -20.058  68.563 142.448  0.00  0.00           N 0
+ATOM  20263   CG LYS I1111     -20.423  71.303 137.146  0.00  0.00           C 0
+ATOM  20265   CE LYS I1111     -21.764  70.420 135.210  0.00  0.00           C 0
+ATOM  20264   CD LYS I1111     -21.622  71.536 136.244  0.00  0.00           C 0
+ATOM  20229   CG PRO I1106     -20.911  64.877 141.531  0.00  0.00           C 0
+ATOM  20242   CB SER I1108     -16.236  69.979 138.328  0.00  0.00           C 0
+ATOM  20243   OG SER I1108     -17.051  70.831 137.550  0.00  0.00           O 0
+ATOM  20238    N SER I1108     -17.827  70.027 140.103  0.65  2.19           N 0
+ATOM  20266   NZ LYS I1111     -20.862  70.582 134.029  0.35  4.37           N 0
+ATOM  20227    O PRO I1106     -18.317  67.245 141.801  0.44  2.14           O 0
+ATOM  20262   CB LYS I1111     -20.269  72.407 138.182  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,60 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   339:
+HEADER 0  - Pocket Score                      : -0.1898
+HEADER 1  - Drug Score                        : 0.0116
+HEADER 2  - Number of alpha spheres           :    53
+HEADER 3  - Mean alpha-sphere radius          : 3.8930
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5296
+HEADER 5  - Mean B-factor of pocket residues  : 0.4647
+HEADER 6  - Hydrophobicity Score              : 15.5000
+HEADER 7  - Polarity Score                    :    11
+HEADER 8  - Amino Acid based volume Score     : 4.3889
+HEADER 9  - Pocket volume (Monte Carlo)       : 701.3524
+HEADER 10  -Pocket volume (convex hull)       : 157.2094
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 24.1481
+HEADER 13 - Number of apolar alpha sphere     :    27
+HEADER 14 - Proportion of apolar alpha sphere : 0.5094
+ATOM  38087   OG SER T1258     -50.542 106.342 141.675  0.43  3.21           O 0
+ATOM  38112   CG GLU T1261     -50.986 103.425 141.304  0.00  0.00           C 0
+ATOM  38115  OE2 GLU T1261     -49.585 101.715 142.152  0.64  7.50           O 0
+ATOM  38113   CD GLU T1261     -50.367 102.649 142.429  0.00  0.00           C 0
+ATOM  38316  OD1 ASN T1285     -48.481 110.854 134.298  0.76  3.21           O 0
+ATOM  38304    O GLU T1284     -46.308 114.598 132.322  0.00  0.00           O 0
+ATOM  37021   CB ALA T1128     -47.824 115.679 138.200  0.00  0.00           C 0
+ATOM  38321    O LYS T1286     -44.214 110.663 133.708  0.00  0.00           O 0
+ATOM  36987    O ALA T1124     -50.603 114.711 139.748  0.00  0.00           O 0
+ATOM  37013   CB ASN T1127     -49.199 114.414 143.376  0.00  0.00           C 0
+ATOM  36985   CA ALA T1124     -52.662 113.563 140.208  0.00  0.00           C 0
+ATOM  38104   CG LEU T1260     -50.529 109.091 138.137  0.00  0.00           C 0
+ATOM  37020    O ALA T1128     -45.066 116.993 139.307  0.00  0.00           O 0
+ATOM  38092   CB PHE T1259     -53.874 110.545 142.245  0.00  0.00           C 0
+ATOM  37015  OD1 ASN T1127     -50.714 113.352 144.929  0.50  1.07           O 0
+ATOM  37012    O ASN T1127     -46.543 115.633 142.245  0.46  6.43           O 0
+ATOM  37537  CG2 THR T1191     -48.526 113.308 146.547  0.00  0.00           C 0
+ATOM  37536  OG1 THR T1191     -47.367 111.585 147.787  0.53  7.50           O 0
+ATOM  38099    N LEU T1260     -52.621 108.204 140.336  0.67  1.09           N 0
+ATOM  38105  CD1 LEU T1260     -49.026 109.080 137.950  0.00  0.00           C 0
+ATOM  38261   CZ PHE T1279     -49.755 114.377 135.494  0.00  0.00           C 0
+ATOM  37017    N ALA T1128     -48.109 115.823 140.624  0.75  1.09           N 0
+ATOM  38086   CB SER T1258     -50.117 106.725 142.983  0.00  0.00           C 0
+ATOM  37535   CB THR T1191     -48.654 112.170 147.516  0.00  0.00           C 0
+ATOM  38114  OE1 GLU T1261     -50.662 102.960 143.596  0.77  4.29           O 0
+ATOM  37038   NZ LYS T1130     -42.334 114.398 144.478  0.00  0.00           N 0
+ATOM  37018   CA ALA T1128     -47.137 115.801 139.546  0.00  0.00           C 0
+ATOM  38088    N PHE T1259     -52.654 108.528 143.002  0.74  2.19           N 0
+ATOM  37546  CE1 TYR T1192     -46.654 108.155 148.674  0.00  0.00           C 0
+ATOM  37544  CD1 TYR T1192     -47.769 108.443 149.447  0.00  0.00           C 0
+ATOM  38067    O ARG T1256     -50.471 103.836 147.866  0.39  4.29           O 0
+ATOM  38078    O PRO T1257     -52.346 106.212 146.521  0.83  3.21           O 0
+ATOM  38082    N SER T1258     -51.503 105.464 144.575  0.00  0.00           N 0
+ATOM  37011    C ASN T1127     -47.727 115.762 141.894  0.00  0.00           C 0
+ATOM  38083   CA SER T1258     -51.271 106.779 143.996  0.00  0.00           C 0
+ATOM  37570  CG2 VAL T1195     -53.307 109.274 147.367  0.00  0.00           C 0
+ATOM  38050    O LYS T1254     -47.362 102.559 149.791  0.00  0.00           O 0
+ATOM  37549   OH TYR T1192     -44.324 107.657 148.520  0.00  0.00           O 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   278:
+HEADER 0  - Pocket Score                      : -0.0770
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1532
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5629
+HEADER 5  - Mean B-factor of pocket residues  : 0.8406
+HEADER 6  - Hydrophobicity Score              : 11.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 170.1023
+HEADER 10  -Pocket volume (convex hull)       : 2.0951
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM  31014    O LYS L1267      37.911  54.664 120.051  0.51  4.29           O 0
+ATOM  31041    O MET L1270      34.343  53.036 121.540  0.24  5.36           O 0
+ATOM  31084   NE ARG L1275      41.474  52.655 126.866  0.61  6.56           N 0
+ATOM  31028  OE2 GLU L1268      39.279  57.764 122.953  0.35  7.50           O 0
+ATOM  31058    O PRO L1272      36.274  49.389 125.745  0.51  4.29           O 0
+ATOM  31023    O GLU L1268      35.400  57.013 121.269  0.44  4.29           O 0
+ATOM  31049    O GLU L1271      34.816  50.247 122.701  0.61  2.14           O 0
+ATOM  31141  CE1 TYR L1281      42.135  51.894 122.843  0.00  0.00           C 0
+ATOM  31077    N ARG L1275      39.388  48.664 124.221  0.59  2.19           N 0
+ATOM  31056   CA PRO L1272      34.158  50.474 125.467  0.00  0.00           C 0
+ATOM  31087  NH2 ARG L1275      42.102  54.685 125.969  0.41  4.37           N 0
+ATOM  31144   OH TYR L1281      42.538  54.252 122.837  0.79  3.21           O 0
+ATOM  31070   CB PHE L1274      37.808  48.972 121.568  0.00  0.00           C 0
+ATOM  31073  CD2 PHE L1274      39.612  49.829 120.051  0.00  0.00           C 0
+TER
+END

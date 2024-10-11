@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   198:
+HEADER 0  - Pocket Score                      : -0.0289
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8497
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5221
+HEADER 5  - Mean B-factor of pocket residues  : 0.7179
+HEADER 6  - Hydrophobicity Score              : 13.6364
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.4545
+HEADER 9  - Pocket volume (Monte Carlo)       : 312.4405
+HEADER 10  -Pocket volume (convex hull)       : 15.0367
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1176
+ATOM  27356    O PRO M1107      60.589  -5.653 108.958  0.51  9.64           O 0
+ATOM  27349    O PRO M1106      63.353  -8.113 107.042  0.41  8.57           O 0
+ATOM  28384   CB ASN M1236      55.994  -7.295 102.106  0.00  0.00           C 0
+ATOM  28151    O ALA M1206      61.329  -3.338 102.168  0.62  9.64           O 0
+ATOM  28155    C THR M1207      64.459  -4.029 100.511  0.00  0.00           C 0
+ATOM  28156    O THR M1207      64.775  -4.957  99.759  0.40  3.21           O 0
+ATOM  28165   CG LEU M1208      65.545  -6.431 103.259  0.00  0.00           C 0
+ATOM  28383    O ASN M1236      55.245  -5.087 103.973  0.46  6.43           O 0
+ATOM  28389   CA CYS M1237      55.854  -2.613 102.919  0.00  0.00           C 0
+ATOM  27396   CE MET M1112      60.957  -1.990 106.131  0.00  0.00           C 0
+ATOM  28375    O ASP M1235      57.286  -5.661 100.311  0.37  3.21           O 0
+ATOM  28382    C ASN M1236      55.300  -4.967 102.747  0.00  0.00           C 0
+ATOM  28399   CG PRO M1238      55.818  -1.724 107.218  0.00  0.00           C 0
+ATOM  27366    N LEU M1109      58.183  -3.420 111.461  0.66  2.19           N 0
+ATOM  28167  CD2 LEU M1208      65.316  -5.364 104.305  0.00  0.00           C 0
+ATOM  28400   CD PRO M1238      56.236  -1.876 105.776  0.00  0.00           C 0
+ATOM  27395   SD MET M1112      60.561  -1.959 107.872  0.00  0.00           S 0
+ATOM  27359   CD PRO M1107      63.495  -5.085 107.321  0.00  0.00           C 0
+TER
+END
