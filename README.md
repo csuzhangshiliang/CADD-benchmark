@@ -60,7 +60,7 @@ Run `./metrics/main.py` program is used for molecular evaluation. You must provi
 
  `--inactive_set`: The file path for the dataset containing inactive molecules (required).
 
-### Example command-
+### Example command
 
 ```bash
 
