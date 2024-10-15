@@ -73,19 +73,20 @@ if __name__ == '__main__':
     metric["Frag"] = FragMetric(n_jobs=8, device=device, batch_size=512)(gen=mols, pref=ptest['Frag'])
     metric["Scaff"]= ScafMetric(n_jobs=8, device=device, batch_size=512)(gen=mols, pref=ptest['Scaf'])
     metric["internal_diversity"] = internal_diversity(valid_smiles, n_jobs=8, device=device)
-
+    print("===========================================================")
+    print（"Calculation results"）
     for k, v in metric.items():
         print(f"{k}: {v:.2%}")
 
     train_ratio_dict = calculate_rings_ratio(training_smiles)
     for num, ratio in train_ratio_dict .items():
         if num in range(3, 10):
-            print(f"train_set_ring_sizes:{num}: {ratio:.2%}")
+            print(f"train_set_ring_sizes {num}: {ratio:.2%}")
 
     valid_ratio_dict = calculate_rings_ratio(valid_smiles)
     for num, ratio in valid_ratio_dict .items():
         if num in range(3, 10):
-            print(f"gen_set_ring_sizes:{num}: {ratio:.2%}")
+            print(f"gen_set_ring_sizes {num}: {ratio:.2%}")
 
     result = calculate_properties(valid_smiles)
     result.to_csv(output_path)
