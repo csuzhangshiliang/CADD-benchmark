@@ -50,21 +50,21 @@ Run `./metrics/main.py` program is used for molecular evaluation. You must provi
 
 ###  Command-Line Arguments
 
- `--train_set`: The file path for the training dataset (required).
+ `--train_set`: The file path for the training dataset (Optional).
 
-`--gen_set`: The file path for the generated dataset (required).
+`--gen_set`: The file path for the generated dataset (Optional).
 
- `--output`: The file path where the output will be saved (required).
+ `--output`: The file path where the output will be saved (Optional).
 
- `--active_set`: The file path for the dataset containing active molecules (required).
+ `--active_set`: The file path for the dataset containing active molecules (Optional).
 
- `--inactive_set`: The file path for the dataset containing inactive molecules (required).
+ `--inactive_set`: The file path for the dataset containing inactive molecules (Optional).
 
 ### Example command
 
 ```bash
 
-python ./metrics/main.py --train_set path/to/train.txt --gen_set path/to/gen.txt --output path/to/output.csv --active_set path/to/active.txt --inactive_set path/to/inactive.txt
+python ./metrics/main.py [--train_set path/to/train.txt] [--gen_set path/to/gen.txt] [--output path/to/output.csv] [--active_set path/to/active.txt] [--inactive_set path/to/inactive.txt]
 
 ```
 
