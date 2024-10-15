@@ -99,7 +99,7 @@ def get_active_fragments_smiles(active_smiles:List[str],inactive_smiles:List[str
     matched_smiles = []
     with ProcessPoolExecutor() as executor:
         futures = {executor.submit(check_substructure, smiles, unique_active_fragments): smiles for smiles in gen}
-        for future in tqdm(as_completed(futures), total=len(gen)):
+        for future in tqdm(as_completed(futures), total=len(gen), desc="Match SMILES fragments"):
             match = future.result()
             if match:
                 matched_smiles.append(match)  # 如果有匹配的smiles，添加到列表中
@@ -117,6 +117,7 @@ def calculate_properties(smiles_list: List[str]) -> pd.DataFrame:
     pd.DataFrame: A DataFrame containing the calculated properties for each SMILES string.
     """
     properties = {
+        'Smiles': [],
         'MolLogP': [],
         'TPSA': [],
         'QED': [],
@@ -125,9 +126,10 @@ def calculate_properties(smiles_list: List[str]) -> pd.DataFrame:
         'MolWt': []
     }
 
-    for smile in tqdm(smiles_list):
+    for smile in tqdm(smiles_list,, desc="Generate output file"):
         mol = Chem.MolFromSmiles(smile)
         if mol:  # Check if the molecule was successfully created
+            properties['Smiles'].append(smile)
             properties['MolLogP'].append(get_MolLogP(mol))
             properties['TPSA'].append(get_TPSA(mol))
             properties['QED'].append(get_QED(mol))
