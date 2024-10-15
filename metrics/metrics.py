@@ -126,7 +126,7 @@ def calculate_properties(smiles_list: List[str]) -> pd.DataFrame:
         'MolWt': []
     }
 
-    for smile in tqdm(smiles_list,, desc="Generate output file"):
+    for smile in tqdm(smiles_list, desc="Generate output file"):
         mol = Chem.MolFromSmiles(smile)
         if mol:  # Check if the molecule was successfully created
             properties['Smiles'].append(smile)
