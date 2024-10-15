@@ -56,7 +56,7 @@ def get_MolWt(mol):
 
 def cal_ring_sizes(smiles_list):
     ring_sizes = []
-    for smiles in tqdm(smiles_list):
+    for smiles in tqdm(smiles_list,,desc="Calculate ring sizes"):
         mol = Chem.MolFromSmiles(smiles)
         if mol:
             rings = [len(ring) for ring in mol.GetRingInfo().AtomRings()]
