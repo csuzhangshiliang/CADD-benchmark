@@ -73,8 +73,7 @@ if __name__ == '__main__':
     metric["Frag"] = FragMetric(n_jobs=8, device=device, batch_size=512)(gen=mols, pref=ptest['Frag'])
     metric["Scaff"]= ScafMetric(n_jobs=8, device=device, batch_size=512)(gen=mols, pref=ptest['Scaf'])
     metric["internal_diversity"] = internal_diversity(valid_smiles, n_jobs=8, device=device)
-    print("===========================================================")
-    print（"Calculation results"）
+    print("=========================Calculation results==================================")
     for k, v in metric.items():
         print(f"{k}: {v:.2%}")
 
