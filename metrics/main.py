@@ -13,11 +13,11 @@ from utils import get_mol, mapper
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser()
-    parser.add_argument('--train_set', type=str, required=True, help='train_set_file')
-    parser.add_argument('--gen_set', type=str, required=True, help='gen_set_file')
-    parser.add_argument('--output', type=str, required=True, help='output_file_path')
-    parser.add_argument('--active_set', type=str, required=True, help='active_molecule_set')
-    parser.add_argument('--inactive_set', type=str, required=True, help='inactive_molecule_set')
+    parser.add_argument('--train_set', type=str, required=False, default='../data/example_train_set.smiles',help='train_set_file')
+    parser.add_argument('--gen_set', type=str, required=False, default='../data/example_gen_set.smiles',help='gen_set_file')
+    parser.add_argument('--output', type=str, required=False, default='../data/output.csv',help='output_file_path')
+    parser.add_argument('--active_set', type=str, required=False, default='../data/activate_data/DRD2-activate.txt',help='active_molecule_set')
+    parser.add_argument('--inactive_set', type=str, required=False, default='../data/example_inactive_set.smiles',help='inactive_molecule_set')
 
     args = parser.parse_args()
     train_file = args.train_set
