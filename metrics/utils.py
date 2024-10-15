@@ -5,6 +5,7 @@ from rdkit.Chem.AllChem import GetMorganFingerprintAsBitVect as Morgan
 import pandas as pd
 import scipy.sparse
 from rdkit.Chem import rdMMPA
+from rdkit.Chem import RDConfig
 from tqdm import tqdm
 
 from functools import partial
@@ -12,16 +13,15 @@ from multiprocessing import Pool
 from rdkit import Chem
 from collections import Counter
 from rdkit.Chem import AllChem
-
-import logging
 from typing import Iterable,List
 from rdkit.Chem.Scaffolds import MurckoScaffold
-import sascorer
 from rdkit.Chem import Descriptors
 from rdkit.Chem import QED
 
-logger = logging.getLogger(__name__)
-logger.addHandler(logging.NullHandler())
+import os
+import sys
+sys.path.append(os.path.join(RDConfig.RDContribDir, 'SA_Score'))
+import sascorer
 
 
 def get_MolLogP(mol):
@@ -56,7 +56,7 @@ def get_MolWt(mol):
 
 def cal_ring_sizes(smiles_list):
     ring_sizes = []
-    for smiles in tqdm(smiles_list,,desc="Calculate ring sizes"):
+    for smiles in tqdm(smiles_list,desc="Calculate ring sizes"):
         mol = Chem.MolFromSmiles(smiles)
         if mol:
             rings = [len(ring) for ring in mol.GetRingInfo().AtomRings()]
